@@ -1,0 +1,17 @@
+{
+    "save-changes": "保存修改",
+    "cancel": "取消",
+  
+    "edit-interests-form-title": "编辑兴趣",
+    "edit-interests-section-solution-interests": "您感兴趣的领域",
+    "edit-interests-form-toast-save-title-success": "兴趣已成功更新",
+    "edit-interests-form-toast-save-subtitle-success": "几秒钟后即可查看更新后的修改。",
+  
+    "emission-path-select-title": "添加新的排放量",
+    "emission-path-select-subtitle": "随后您可以根据需要随时编辑数据",
+    "emission-path-select-inexperienced-user-title": "我需要碳排放量估算相关的辅助",
+    "emission-path-select-inexperienced-user-subtitle": "我们将帮助您理解您的排放源并示范如何进行估算",
+    "emission-path-select-advanced-user-title": "我理解我的排放类型并知道如何进行估算",
+    "emission-path-select-advanced-user-subtitle": "我们将要求您分享您的范围1和范围2排放量"
+}
+  

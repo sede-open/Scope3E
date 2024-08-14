@@ -1,0 +1,683 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Network Getting Started should render a snapshot 1`] = `
+.c29 {
+  color: #404040;
+  cursor: pointer;
+  font-size: inherit;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+.c29:hover {
+  color: #595959;
+}
+
+.c29:active,
+.c29:focus {
+  color: #7F7F7F;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-height: 3;
+  min-width: 5.7rem;
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 100%;
+  cursor: pointer;
+  outline: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #404040;
+  cursor: pointer;
+  font-size: inherit;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  background-color: transparent;
+  border: none;
+  font-weight: normal;
+  text-align: left;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  padding: 0;
+  min-height: auto;
+  min-width: auto;
+}
+
+.c3:disabled {
+  background-color: #F7F7F8;
+  color: #7F7F7F;
+  cursor: default;
+}
+
+.c3:disabled:hover {
+  background-color: #F7F7F8;
+}
+
+.c3:hover {
+  color: #595959;
+}
+
+.c3:active,
+.c3:focus {
+  color: #7F7F7F;
+}
+
+.c33 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-height: 3;
+  min-width: 5.7rem;
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 100%;
+  cursor: pointer;
+  outline: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: #404040;
+  color: #FFFFFF;
+  border: none;
+}
+
+.c33:disabled {
+  background-color: #F7F7F8;
+  color: #7F7F7F;
+  cursor: default;
+}
+
+.c33:disabled:hover {
+  background-color: #F7F7F8;
+}
+
+.c33:focus,
+.c33:hover {
+  background-color: #404040;
+}
+
+.c33:active {
+  background-color: #404040;
+}
+
+.c19 {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: normal;
+  color: #404040;
+  margin: 0;
+  padding: 0;
+  word-break: break-word;
+}
+
+.c6 {
+  display: block;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-right: 0.5rem;
+}
+
+.c4 {
+  margin-right: auto;
+}
+
+.c0 {
+  background: #F7F7F8;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  width: 100%;
+}
+
+.c15 {
+  background: #FFFFFF;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  width: 100%;
+}
+
+.c32 {
+  background: #FBCE07;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  width: 100%;
+}
+
+.c1 {
+  margin-inline: auto;
+  width: min(90%,1168px);
+  margin-top: 96px;
+  margin-bottom: 96px;
+}
+
+.c2 {
+  padding-top: 108px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c8 {
+  margin-top: 72px;
+  -webkit-flex: 50%;
+  -ms-flex: 50%;
+  flex: 50%;
+}
+
+.c13 {
+  -webkit-flex: 50%;
+  -ms-flex: 50%;
+  flex: 50%;
+}
+
+.c14 {
+  width: 100%;
+  height: 100%;
+}
+
+.c30 {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c31 {
+  margin-top: 128px;
+  height: 144px;
+  width: 256px;
+}
+
+.c9 {
+  color: #404040;
+}
+
+.c10 {
+  font-family: exampleBold;
+  font-weight: 700;
+}
+
+.c11 {
+  margin-top: 16px;
+  font-size: 2rem;
+}
+
+.c17 {
+  font-size: 1.5rem;
+}
+
+.c12 {
+  margin-top: 24px;
+  font-size: 1rem;
+  width: min(100%,416px);
+}
+
+.c16 {
+  width: min(100%,740px);
+}
+
+.c22 {
+  margin-top: 16px;
+  margin-left: 16px;
+  list-style-type: disc;
+  margin-bottom: 24px;
+  color: #404040;
+}
+
+.c22 > li:first-child {
+  margin-top: 0px;
+}
+
+.c22 > li {
+  margin-top: 8px;
+}
+
+.c21 {
+  font-size: 0.875;
+  font-weight: 700;
+}
+
+.c23 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.c25 > div:first-child {
+  margin-top: 0px;
+}
+
+.c25 > div {
+  margin-top: 96px;
+}
+
+.c27 {
+  width: 744px;
+  border: 1px solid #D9D9D9;
+}
+
+.c26 {
+  margin-top: 16px;
+  margin-bottom: 24px;
+}
+
+.c18 {
+  margin-top: 24px;
+}
+
+.c20 {
+  margin-top: 16px;
+}
+
+.c24 {
+  margin-top: 48px;
+}
+
+.c28 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1 c2"
+    >
+      <a
+        class="c3 c4"
+        color="text-button"
+        height="3"
+        href="/value-chain"
+        type="button"
+        width="5.7rem"
+      >
+        <div
+          class="c5"
+        >
+          <img
+            alt="Arrow left"
+            class="c6"
+            data-testid="icon"
+            height="12"
+            src="/arrow-left.svg"
+            width="12"
+          />
+        </div>
+        Back to 'Value chain'
+      </a>
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <img
+            alt="yellow strip"
+            src="/create-network-yellow-strip.svg"
+          />
+          <div
+            class="c9 c10 c11"
+          >
+            Start creating your network
+          </div>
+          <div
+            class="c9 c12"
+          >
+            Invite your customers and suppliers to exchange emissions data securely in a standardised format.
+          </div>
+        </div>
+        <div
+          class="c13"
+        >
+          <img
+            alt="woman on laptop"
+            class="c14"
+            src="/create-network-banner-icon.svg"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c15"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c16"
+      >
+        <div
+          class="c9 c10 c17"
+        >
+          Why invite your suppliers to the Hub?
+        </div>
+        <div
+          class="c18"
+        />
+        <h3
+          class="c19"
+          color="#404040"
+        >
+          Getting information from your supply chain is a significant organisational effort with several challenges from managing all the suppliers, the lack of data standardisation, to companies that don’t know how to calculate their emissions.
+        </h3>
+        <div
+          class="c20"
+        />
+        <div
+          class="c9 c21"
+          font-size="0.875"
+        >
+          By inviting your suppliers to the Hub, they will be able to: 
+        </div>
+        <ul
+          class="c22"
+        >
+          <li>
+            Use our step-by-step calculation form to easily calculate their scope 1 & 2 emissions
+          </li>
+          <li>
+            Share their carbon footprint and allocate emissions to your company
+          </li>
+          <li>
+            Connect and share information with other clients and their own suppliers
+          </li>
+          <li>
+            Have 24 hours access to our support team that are ready to answer any queries about our hub
+          </li>
+        </ul>
+        <div
+          class="c9 c23"
+          font-size="1rem"
+        >
+          All Free of charge! For both you and your supply chain, and their supply chain, and it will remain that way!
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c16"
+      >
+        <div
+          class="c9 c10 c17"
+        >
+          How to invite your suppliers?
+        </div>
+        <div
+          class="c24"
+        />
+        <div
+          class="c25"
+        >
+          <div>
+            <div
+              class="c9 c23"
+              font-size="1rem"
+            >
+              1 - Search for your supplier company name
+            </div>
+            <div
+              class="c9 c26"
+            >
+              Click the ‘invite’ button in the supplier network. Start typing the name of your supplier in the search bar, select your supplier and click the ‘Send’ button.
+            </div>
+            <img
+              class="c27"
+              src="/gifs/network-getting-started_0.gif"
+            />
+          </div>
+          <div>
+            <div
+              class="c9 c23"
+              font-size="1rem"
+            >
+              2 - Share their contact details
+            </div>
+            <div
+              class="c9 c26"
+            >
+              If they are part of the platform already, we will send them an invite to connect with you, otherwise we’ll need their details to send them an invitation to the platform.
+            </div>
+            <img
+              class="c27"
+              src="/gifs/network-getting-started_1.gif"
+            />
+          </div>
+          <div>
+            <div
+              class="c9 c23"
+              font-size="1rem"
+            >
+              3 - Wait for your supplier to accept
+            </div>
+            <div
+              class="c9 c26"
+            >
+              Once your supplier clicks the link they received by email, they just need to confirm their details, so our team can create their account. We’ll send them another email to activate their account and as soon as they login they can accept your invitation to be part of your suppliers network.
+            </div>
+            <img
+              class="c27"
+              src="/gifs/network-getting-started_2.gif"
+            />
+          </div>
+          <div>
+            <div
+              class="c9 c23"
+              font-size="1rem"
+            >
+              4 - Get a confirmation email
+            </div>
+            <div
+              class="c9 c26"
+            >
+              We’ll send you an email as soon as your supplier accepts the invitation, then you can start exchanging emissions data!
+            </div>
+            <img
+              class="c27"
+              src="/gifs/network-getting-started_3.gif"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c15"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c28"
+      >
+        <div
+          class="c16"
+        >
+          <img
+            alt="woman on laptop"
+            src="/create-network-yellow-strip.svg"
+          />
+          <div
+            class="c20"
+          />
+          <div
+            class="c9 c10 c17"
+          >
+            Your data belongs to you
+          </div>
+          <div
+            class="c18"
+          />
+          <div
+            class="c9 c23"
+            font-size="1rem"
+          >
+            example respects your company data, we want you to feel secure about how we treat and store it.
+          </div>
+          <div
+            class="c20"
+          />
+          <h3
+            class="c19"
+            color="#404040"
+          >
+            Data with regards to carbon is a somewhat grey area. For that reason, we made the decision to ask for historic data that is at a corporate level, instead on a procurement line-by-line-item level. Other data that we consider as company sensitive information, such as supplier-customer relationship, are stored securely in the Cloud, and have limited access only for a small product team that monitors platform health.
+          </h3>
+          <div
+            class="c20"
+          />
+          <h3
+            class="c19"
+            color="#404040"
+          >
+            In the 
+            <a
+              class="c29"
+              href="/account-settings/your-organisation"
+            >
+              Settings - your organization section
+            </a>
+            , you can decide what data you wish to show to other companies. Although our goal is to create transparency, in this way, you will always stay in control of your data.
+          </h3>
+          <div
+            class="c20"
+          />
+          <h3
+            class="c19"
+            color="#404040"
+          >
+            If you have any questions surrounding data, feel free to contact our support team and we’ll get back to you or we’re happy to jump on a call together.
+          </h3>
+        </div>
+        <div
+          class="c30"
+        >
+          <img
+            alt="rectangle layers"
+            class="c31"
+            src="/create-network-banner-icon-2.svg"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="c32"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c30"
+      >
+        <div>
+          <div
+            class="c9 c10 c11"
+          >
+            Have more questions?
+          </div>
+          <div
+            class="c24"
+          />
+          <div
+            class="c30"
+          >
+            <button
+              class="c33"
+              color="dark"
+              height="3"
+              type="button"
+              width="5.7rem"
+            >
+              Contact us
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

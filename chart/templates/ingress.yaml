@@ -1,0 +1,71 @@
+---
+{{ if and .Values.environment (eq .Values.environment "prod") }}
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+{{- with .Values.ingress.annotations }}
+  annotations:
+{{ toYaml . |trim | indent 4 }}
+{{- end }}
+  name: {{ .Values.ingressName }}
+spec:
+  ingressClassName: {{ .Values.ingress.className }}
+  {{- if .Values.tls.enabled }}
+  tls:
+    - hosts:
+        - {{ .Values.host }}
+      secretName: {{ .Values.secretName }}
+    - hosts:
+        - {{ .Values.wwwhost }}
+      secretName: {{ .Values.wwwsecretName }}
+  {{- end }}
+  rules:
+    - host: {{ .Values.host }}
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: {{ .Chart.Name }}
+                port:
+                  number: {{ .Values.port }}
+    - host: {{ .Values.wwwhost }}
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: {{ .Chart.Name }}
+                port:
+                  number: {{ .Values.port }}
+{{ else }}
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+{{- with .Values.ingress.annotations }}
+  annotations:
+{{ toYaml . |trim | indent 4 }}
+{{- end }}
+  name: {{ .Values.ingressName }}
+spec:
+  ingressClassName: {{ .Values.ingress.className }}
+  {{- if .Values.tls.enabled }}
+  tls:
+    - hosts:
+        - {{ .Values.host }}
+      secretName: {{ .Values.secretName }}
+  {{- end }}
+  rules:
+    - host: {{ .Values.host }}
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: {{ .Chart.Name }}
+                port:
+                  number: {{ .Values.port }}
+{{ end }}

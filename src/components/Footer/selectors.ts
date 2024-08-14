@@ -1,0 +1,10 @@
+export const footerContainer = 'footer-container';
+export const contactBtn = 'contact-btn';
+export const helpCentreBtn = 'help-centre-btn';
+export const termsBtn = 'terms-btn';
+export const legalDisclaimerBtn = 'legal-disclaimer-btn';
+export const acceptableUseBtn = 'acceptable-use-btn';
+export const dataPrivacyBtn = 'data-privacy-btn';
+export const mailToBtn = 'mailto-button';
+export const footerNavList = 'footer-nav-list';
+export const exampleLoginBtn = 'example-login-footer-btn';

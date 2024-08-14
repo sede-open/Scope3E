@@ -1,0 +1,26 @@
+{
+  "error-required": "Dit veld is vereist",
+  "error-less-than-billion": "Max. waarde is een miljard",
+  "error-less-than-trillion": "Max. waarde is een biljard",
+  "error-validate-external-email": "Er kunnen geen e-mails van example worden toegevoegd",
+  "error-max-percentage": "Percentage mag niet hoger zijn dan 100",
+  "error-pattern": "Vul geldig e-mailadres in",
+  "error-large-file": "Het geselecteerde bestand is te groot",
+  "error-wrong-media-type": "Het geselecteerde bestandstype wordt niet ondersteund",
+  "error-max-length": "Maximale limiet aantal tekens bereikt",
+  "year-select-from-prefix": "van: ",
+  "year-select-to-prefix": "aan: ",
+  "min-2-characters": "Er zijn minimaal 2 tekens vereist",
+  "max-255-characters": "Mag niet langer zijn dan 255 tekens",
+
+  "include-carbon-offset-error-required": "Selecteer de optie voor gewenste compensatie",
+  "strategy-error-required": "Selecteer het soort strategie",
+  "scope-3-reduction-required": "Dit veld is vereist als u scope 3-reductie wilt toevoegen",
+  "form-no-results": "Geen resultaten gevonden",
+  "more-than-1": "Minimumwaarde is 1",
+  "minimum-length": "Minimum aantal tekens is {{ length }}",
+  "less-than-hundred-million": "Maximumwaarde is 100.000.000",
+  "less-than-hundred": "Maximumwaarde is 100",
+  "less-than-billion": "Maximumwaarde is 1.000.000.000",
+  "positive-number-required": "Voer een positief nummer in"
+}

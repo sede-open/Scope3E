@@ -1,0 +1,54 @@
+{
+  "page-title": "Get in touch or are you interested in joining us?",
+  "page-subtitle": "If you have any questions or you are interested in joining us, please fill out the form below we will get back to you as soon as possible.",
+  "page-subtext": "We serve a global market with teams based in London, Amsterdam, Krakow and Kuala Lumpur",
+
+  "enquiry-general-enquiry": "General enquiry",
+  "enquiry-join": "Join us",
+  "enquiry-low-carbon-solution": "I’m looking for a low-carbon solution",
+  "source-events": "Events",
+  "source-email": "Email",
+  "source-social-media": "Social Media (Linkedin, Twitter, etc)",
+  "source-search-engine": "Search Engine (Google, Bing, etc.)",
+  "source-recommended": "Recommend by client or supplier",
+  "source-word-of-mouth": "Word of mouth",
+  "source-other": "Other",
+
+  "form-mandatory-text": "* all fields are mandatory",
+  "form-name-label": "Your name:",
+  "form-company-label": "Your company:",
+  "form-email-label": "Your email address:",
+  "form-enquiry-label": "How can we help (subject):",
+  "form-source-label": "How did you hear from us?",
+  "form-message-label": "Message:",
+  "form-submit-btn": "Send message",
+
+  "message-input-placeholder": "Type your message here",
+  "squares-graphic": "Squares graphic",
+
+  "location-card-one-location": "London, UK",
+  "location-card-one-address": "101-103 Southwark Bridge Rd, London, SE1 0AX, United Kingdom",
+  "location-card-two-location": "Amsterdam, NL",
+  "location-card-two-address": "Grasweg 31, 1031 HW Amsterdam, Netherlands",
+  "location-card-three-location": "Krakow, PL",
+  "location-card-three-address": "Czerwone Maki 85, 30-392 Kraków, Poland",
+  "location-card-four-location": "Kuala Lumpur, MY",
+  "location-card-four-address": "Wisma example, 3450 Jalan Teknokrat 3, 63000 Cyberjaya, Selangor, Malaysia",
+
+  "join-us": "Join us",
+  "we-are-glad": "We’re glad you are interested in joining us, please fill out the form below we will get back to you as soon as possible.",
+  "redesign-form-name-label": "Name*",
+  "redesign-form-email-label": "Email address*",
+  "redesign-form-company-label": "Company*",
+  "redesign-form-source-label": "How did you hear about us?*",
+  "redesign-form-message-label": "Message*",
+  "redesign-form-enquiry-label": "How can we help?*",
+  "sendMessage": "Send message",
+
+  "request-demo": "Request a demo",
+  "fill-out-form": "We’re glad you are interested in seeing how the Hub can fit into your decarbonisation journey. Please fill out the form below we will get back to you as soon as possible.",
+
+  "get-in-touch": "Get in touch",
+  "if-any-questions": "If you have any questions or you are interested in joining us, please fill out the form below we will get back to you as soon as possible.",
+  "locations-title": "We serve a global market with teams based in London, Amsterdam, Kraków and Kuala Lumpur"
+}

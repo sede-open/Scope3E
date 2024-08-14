@@ -1,0 +1,46 @@
+app: 
+environment: 
+host: 
+wwwhost: 
+port: 
+replicaCount: 
+appUser: 
+ingressName: 
+secretName: 
+wwwsecretName: 
+
+cpuLimit: 
+memoryLimit: 
+cpuRequest: 
+memoryRequest: 
+
+tls:
+  enabled: 
+ingress:
+  className: 
+  annotations:
+    cert-manager.io/cluster-issuer: 
+    nginx.ingress.kubernetes.io/rewrite-target: 
+    nginx.ingress.kubernetes.io/proxy-body-size: 
+    nginx.ingress.kubernetes.io/proxy-buffer-size: 
+
+# needed env variables
+sentryDsn: 
+sentryOrg: 
+sentryProject: 
+
+apiHost: 
+
+authurlLoginApi: 
+authurlTokenApi: 
+authurlRevocationApi: 
+authurlCallbackUrl: 
+
+akamaiLoginCallbackUrl: 
+akamaiLoginUrl: 
+akamaiTokenApi: 
+akamaiLogoutApi: 
+akamaiLogoutUrl: 
+segmentAnalyticsKey: 
+
+siteUrl: 

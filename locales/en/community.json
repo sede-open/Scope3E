@@ -1,0 +1,153 @@
+{
+  "intro-title": "Collaborate with a community committed to decarbonisation",
+  "intro-text": "Share knowledge on decarbonisation best practices with peers and engage with other community members.",
+  "topics": "<b>{{ topics }}</b> <space/> Topics",
+  "replies": "<b>{{ replies }}</b> <space/> Replies",
+  "members": "<b>{{ members }}</b> <space/> Members",
+  "discover-the-community-title": "Discover the community",
+  "discover-the-community-cards": [
+    {
+      "id": 0,
+      "imgAlt": "Welcome guide icon",
+      "title": "Welcome guide",
+      "subTitle": "Guidelines on how to best use the community forum.",
+      "linkText": "Read welcome guide",
+      "url": "/welcome-guide"
+    },
+    {
+      "id": 1,
+      "imgAlt": "Inspiring stories icon",
+      "title": "Inspiring stories",
+      "subTitle": "Get inspired by insights, stories, discussions and more.",
+      "linkText": "Explore inspiring stories",
+      "url": "/inspiring-stories"
+    },
+    {
+      "id": 2,
+      "imgAlt": "Tips & Tricks icon",
+      "title": "Tips & Tricks",
+      "subTitle": "Discover ways to get the most out of the platform features with examples.",
+      "linkText": "Discover tips & tricks",
+      "url": "/tips-tricks"
+    }
+  ],
+  "need-more-help-title": "Need more help?",
+  "need-more-help-cards": [
+    {
+      "id": 0,
+      "imgAlt": "Help centre icon",
+      "title": "Help centre",
+      "subTitle": "Discover frequently asked questions by the community.",
+      "linkText": "Go to help centre",
+      "url": "https://helpcentre.supplychains.example.com"
+    },
+    {
+      "id": 1,
+      "imgAlt": "Ask the community icon",
+      "title": "Ask the community",
+      "subTitle": "Get peer support for challenges that you face.",
+      "linkText": "Ask the community",
+      "url": "/ask-the-community-qiud0drv"
+    },
+    {
+      "id": 2,
+      "imgAlt": "Contact our team icon",
+      "title": "Contact our team",
+      "subTitle": "Contact us with your queries and to know more.",
+      "linkText": "Contact us",
+      "url": "mailto:support@example.com?subject=Customer%20queries%20and%20support&body=First%20Name%3A%0D%0A%0D%0A%0D%0ALast%20Name%3A%0D%0A%0D%0A%0D%0AEnquire%20About%3A"
+    }
+  ],
+  "most-popular-spaces-title": "Most popular spaces",
+  "explore-this-space": "Explore this space",
+  "show-more-spaces": "Show more spaces",
+  "most-popular-spaces-cards": [
+    {
+      "id": 0,
+      "imgAlt": "Webinars & Events image",
+      "title": "Webinars & Events",
+      "subTitle": "Join webinars organized by industry experts.",
+      "url": "/webinars-events"
+    },
+    {
+      "id": 1,
+      "imgAlt": "Product updates image",
+      "title": "Product updates",
+      "subTitle": "Discover product news and read more about each feature released.",
+      "url": "/product-updates"
+    },
+    {
+      "id": 2,
+      "imgAlt": "Network & Discuss image",
+      "title": "Network & Discuss",
+      "subTitle": "Engage with community members and exchange best practices.",
+      "url": "/network-discuss"
+    },
+    {
+      "id": 3,
+      "imgAlt": "Feedback & Wishlist image",
+      "title": "Feedback & Wishlist",
+      "subTitle": "Share product enhancements that you would like to see next.",
+      "url": "/feedback-wish-list"
+    },
+    {
+      "id": 4,
+      "imgAlt": "Chemicals image",
+      "title": "Chemicals",
+      "subTitle": "Companies producing basis chemicals and manufactured products through chemical processes.",
+      "url": "/chemicals"
+    },
+    {
+      "id": 5,
+      "imgAlt": "Construction and Engineering image",
+      "title": "Construction and Engineering",
+      "subTitle": "Companies engaged in engineering, new work, reconstruction, and repairs.",
+      "url": "/construction-and-engineering"
+    },
+    {
+      "id": 6,
+      "imgAlt": "Software and Services image",
+      "title": "Software and Services",
+      "subTitle": "Companies engaged in developments, maintenance, and publication of software products.",
+      "url": "/commercial-road-transport"
+    },
+    {
+      "id": 7,
+      "imgAlt": "Oil & Gas image",
+      "title": "Oil & Gas",
+      "subTitle": "Establishments engaged in exploration, extraction, refining, and production of petroleum and gas.",
+      "url": "/oil-gas"
+    },
+    {
+      "id": 8,
+      "imgAlt": "Commercial Road Transport image",
+      "title": "Commercial Road Transport",
+      "subTitle": "Establishments involved in transportation services or warehousing.",
+      "url": "/commercial-road-transport"
+    },
+    {
+      "id": 9,
+      "imgAlt": "Professional Services image",
+      "title": "Professional Services",
+      "subTitle": "Businesses engaged in providing services for individuals, business, and other organisations.",
+      "url": "/professional-services"
+    },
+    {
+      "id": 10,
+      "imgAlt": "Policy & Legislation image",
+      "title": "Policy & Legislation",
+      "subTitle": "Discover how to embed recent publications, research, and policy changes.",
+      "url": "/policy-legislation"
+    },
+    {
+      "id": 11,
+      "imgAlt": "GHG Research & Reports image",
+      "title": "GHG Research & Reports",
+      "subTitle": "Read more about the latest climate research, assessments, and scenarios.",
+      "url": "/ghg-research-reports"
+    }
+  ],
+  "banner-title": "Not sure how to request or accept emissions?",
+  "banner-subtitle": "Contact our support team for help",
+  "banner-cta": "Contact now"
+}

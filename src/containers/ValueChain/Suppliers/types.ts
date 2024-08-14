@@ -1,0 +1,8 @@
+export enum TableColumnNames {
+  SUPPLIER_NAME = 'SUPPLIER_NAME',
+  EMISSIONS = 'EMISSIONS',
+  SECTOR = 'SECTOR',
+  CATEGORY = 'CATEGORY',
+  STATUS = 'STATUS',
+  ACTIONS = 'ACTIONS',
+}

@@ -1,0 +1,12 @@
+export const externalUserForm = 'external-user-form';
+export const firstName = 'external-user-form-firstname';
+export const lastName = 'external-user-form-lastname';
+export const email = 'external-user-form-email';
+export const companyId = 'external-user-form-companyid';
+export const roleIdType = 'external-user-form-role-type';
+export const onSubmitBtn = 'external-user-form-submit';
+export const onCloseBtn = 'external-user-form-close';
+export const externalUserFormApiError = 'external-user-form-api-error';
+export const companyInput = 'external-user-form-comapny-input';
+export const roleInput = 'external-user-form-role-input';
+export const roleTypeInputError = 'external-user-form-role-type-error';

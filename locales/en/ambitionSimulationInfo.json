@@ -1,0 +1,106 @@
+{
+  "title": "Simulation calculations",
+  "description-section-title": "Description",
+  "source-section-title": "Source",
+  "assumptions-section-title": "Assumptions",
+  "nvga-link" : "https://www.ngva.eu/",
+  "green-house-intensity-report-link": "https://www.ngva.eu/medias/greenhouse-gas-intensity-from-natural-gas-study-published/#:~:text=31%20May%202017-,Greenhouse%20Gas%20Intensity%20from%20Natural%20Gas%20study%20published,by%207%25%20compared%20with%20diesel.",
+  "green-house-reporting-link": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2020",
+  "defra-link": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+  "glec-framework-link": "https://www.smartfreightcentre.org/en/how-to-implement-items/what-is-glec-framework/58/",
+  "example-cut-carbon-link": "https://www.example.com/energy-and-innovation/the-energy-future/cutting-carbon-together-sector-by-sector.html",
+  "jaws-agreement-link": "https://www.kongsberg.com/maritime/about-us/news-and-media/news-archive/2020/kongsberg-and-example-sign-jaws-agreement/",
+  "corvusenergy-link": "https://corvusenergy.com/",
+  "greet-link": "https://greet.es.anl.gov/",
+  "iata-link": "https://www.iata.org/en/programs/environment/sustainable-aviation-fuels/",
+  "datacenter-pues-link": "https://journal.uptimeinstitute.com/data-center-pues-flat-since-2013/",
+  "aviation-fuels-link": "https://www.iata.org/en/programs/environment/sustainable-aviation-fuels/",
+  "asperitas-link": "https://www.asperitas.com/",
+  "example-link": "https://www.example.com/",
+  "mobility-title": "Mobility",
+  "mobility-description-paragraph": "Estimates possible CO2e impact of replacing one fuel option with another for your passenger vehicle fleet, is based on the amount of fuel that you plan to substitute.",
+  "mobility-source-paragraphs": [
+    "Reference numbers for the simulation are taken from:",
+    "- <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink> prepared by <defraLink>DEFRA (UK Government Department for Environment, Food & Rural Affairs)</defraLink>"
+  ],
+  "mobility-assumptions-paragraphs": [
+    "- Calculations are based on the CO2e footprint of different fuels from  <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report.</greenhouseReportingLink>",
+    "- Calculations are based on <b>Average Passenger Car</b> category from <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report.</greenhouseReportingLink>",
+    "- Calculations for emissions from <b>UK Electricity Grid</b> are based on data in <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink>.",
+    "- <b>Zero</b> emissions are assumed for <b>renewable</b> electricity option and <b>green</b> hydrogen option."
+  ],
+  "road-title": "Road Freight",
+  "road-description-paragraph": "Estimates possible CO2e impact of replacing one fuel option with another fuel option for your road transport cargo vehicles (trucks) fleet, based on the amount of fuel that you want to substitute.",
+  "road-source-paragraphs": [
+    "Reference numbers for the simulation are taken from:",
+    "- <greenhouseIntensityLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseIntensityLink> prepared by <defraLink>DEFRA (UK Government Department for Environment, Food & Rural Affairs)</defraLink>",
+    "- <glecFrameworkLink>Global Logistics Emission Council Framework</glecFrameworkLink> (September 2020 version).",
+    "- <greenhouseIntensityLink>Greenhouse Gas Intensity of Natural Gas Report V1.0 (2017)</greenhouseIntensityLink> <b>prepared by Thinkstep on behalf</b> of <nvgaLink>Natural & Bio Gas Vehicle Association (NGVA) Europe</nvgaLink>."
+  ],
+  "road-assumptions-paragraphs": [
+    "- Calculations are based on the CO2e footprint of different fuels from  <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report.</greenhouseReportingLink>.",
+    "- Calculations are based on numbers for <b>Rigid truck 7.5–12 t GVW</b> category from <glecFrameworkLink>Global Logistics Emission Council Framework</glecFrameworkLink>.",
+    "- Calculations for emissions from <b>UK Electricity Grid</b> are based on data in <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink>.",
+    "- Zero emissions are assumed for <b>renewable</b> electricity option and <b>green</b> hydrogen option."
+  ],
+  "shipping-title": "Shipping",
+  "shipping-description-paragraph": "Estimates the possible CO2e impact of replacing one fuel option with another fuel option, or of upgrading of a certain technical component of the operated marine fleet.",
+  "shipping-source-paragraphs": [
+    "Reference numbers for the simulation are taken from:",
+    "- <glecFrameworkLink>Global Logistics Emission Council Framework</glecFrameworkLink> (September 2020 version).",
+    "- <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink> prepared by <defraLink>DEFRA (UK Government Department for Environment, Food & Rural Affairs)</defraLink>"
+  ],
+  "shipping-assumptions-paragraphs": [
+    "- Calculations are based on the CO2e footprint of different fuels from <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report .</greenhouseReportingLink>",
+    "- Calculations for <b>MGO</b> and <b>HFO</b> are based on the fuel consumption factors for <b>General Cargo </b> category of ship from  <glecFrameworkLink>Global Logistics Emission Council Framework.</glecFrameworkLink>",
+    "- Calculations for <b>LNG</b> are based on the assumption of average 15% reduction in fuel consumption compared to HFO, as estimated by <exampleCutCarbonLink>example</exampleCutCarbonLink>.",
+    "- Calculations for the <b>JAWS software</b> option are based on the assumption of average 7% reduction in fuel consumption compared to HFO, as <jawsAgreementLink>estimated by Kongsberg</jawsAgreementLink>.",
+    "- Calculations for <b>battery-on-board technology</b> option are based on the assumption of average 13% reduction in fuel consumption compared to HFO, as estimated by <corvusEnergyLink>Corvus Energy</corvusEnergyLink>."
+  ],
+  "electrity-title": "Electricity",
+  "electrity-description-paragraph": "Estimates possible CO2e impact of replacing one power source with another option for your electricity consumption",
+  "electrity-source-paragraphs": [
+    "Reference numbers for the simulation are taken from:",
+    "- <greetLink>Greenhouse gases, Regulated Emissions, and Energy use in Technologies Model.</greetLink>"
+  ],
+  "electrity-assumptions-paragraphs": [
+    "- Emissions from <b>Fuel Cycle only</b> are taken into consideration for the estimates.",
+    "- <b>Solar PV</b> and <b>Wind</b> options are assumed to have <b>zero</b> operational emissions."
+  ],
+  "travel-title": "Travel",
+  "travel-description-paragraph": "Estimates the possible CO2e impact of using different modes of transportation for business travelling purposes. It is based on the distance (km) that your employees need to cover.",
+  "travel-source-paragraphs": [
+    "Reference numbers for the simulation are taken from:",
+    "- <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink> prepared by <defraLink>DEFRA (UK Government Department for Environment, Food & Rural Affairs)</defraLink>"
+  ],
+  "travel-assumptions-paragraphs": [
+    "- Calculations are based on the CO2e footprint of different activities from  <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink>.",
+    "- Calculations for flights are based on <b>Average Passenger</b> class of <b>International</b> category from <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink>.",
+    "- Calculations are based on <b>Average Passenger Car</b> category from <b>Greenhouse gas reporting: conversion factors 2020 report</b>. It is assumed that on average there are 3 people travelling in the same car.",
+    "- Calculations for emissions from <b>UK Electricity Grid</b> are based on data in <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink>. and do not take transmission and distribution loss into account.",
+    "- <b>Zero</b> emissions are assumed for <b>renewable</b> electricity option (for electric vehicles).",
+    "- In order to calculate the impact of <b>Sustainable Aviation Fuel (SAF)</b> on CO2e emissions, the impact of the same trip using the <b>regular aviation fuel</b> is estimated based on the <greenhouseReportingLink>Greenhouse gas reporting: conversion factors 2020 report</greenhouseReportingLink>. That impact is then reduced according to the approximate <aviationFuelsLink>SAF</aviationFuelsLink> CO2e efficiency provided by the <b>International Air Transport Association (IATA)</b>.According to  <b>IATA SAF</b> has the potential to reduce lifecycle emissions by up to 80%. "
+  ],
+  "data-title": "Data Centres",
+  "data-description-paragraph": "Estimates the possible CO2e impact of replacing standard cooling solutions typically used in data centres, with the modern immersion cooling solutions provided by Asperitas. It is based on the number of MWh used to run data centres",
+  "data-source-paragraph": "Reference numbers for the simulation are provided by Asperitas, a supplier of cutting-edge immersion cooling solutions for data centres. This award-winning company, where example Ventures is an investor, collaborates with an extensive ecosystem of partners.",
+  "data-assumptions-paragraphs": [
+    "- Calculations are based on the assumed average <b>PUE = 1.58</b> (power usage effectiveness) as outlined in the <datacenterLink>Uptime Institute article from April 2020.</datacenterLink>",
+    "- Improvements for immersed cooling solutions are estimated based on the average <b>PUE = 1.09</b> that is achieved by solutions from <asperitasLink>Asperitas</asperitasLink> (as of spring 2021).",
+    "- Additional improvements for the possibility to reuse heat from the IT equipment, is based on the 50% efficiency assumption."
+  ],
+  "disclaimer-title": "Disclaimer",
+  "disclaimer-paragraphs": [
+    "By using the <b>Ambition Simulation</b> function of the <b>Hub</b> you acknowledge that the data provided and any other output through the use of the function is only an estimate and thus should not be treated as accurate or conclusive data. This is not a compliance tool and example does not provide any consultancy or assurance services to you and/or your company and the data derived from the <b>Ambition Simulation</b> function does not constitute, any form of recommendation or advise or assurance from example (please note that here \"<b>example</b>\" refers to example companies in general or any particular example company.).",
+    "The estimated data that you can see in the <b>Ambition Simulation</b> tab has been calculated with certain assumptions (as explained above) and only represents a high-level estimate of different possible scenarios. The reference values for the calculation are taken from industry-standard 3rd party frameworks and reports (as per the above).",
+    "example does not provide any assurance or guarantee on the achievement of the estimated CO2e reduction numbers. The actual results can vary significantly depending on the specific situation of your company and be influenced by a series of factors including but not limited to:",
+    "- Geography",
+    "- Industry",
+    "- Specific fuel mixes and/or electricity mixes you have access to",
+    "- Type of vehicles and/or equipment that you operate",
+    "- Efficiency of vehicles and/or equipment that you operate",
+    "- Sources of fuels and electricity that you use",
+    "- Possible access to green energy sources",
+    "The data sources and key assumptions for individual categories referred to in the <b>Ambition Simulation</b> function, are set out above. If you want to learn more about the detailed calculations behind the <b>Ambition Simulation</b> function, please contact us. These are not necessarily the same data sources or assumptions that example uses to calculate and report on its GHG emissions and Net Carbon Footprint. If you want to learn more about this, please contact us or visit <exampleLink>www.example.com</exampleLink>."
+  ]
+}

@@ -1,0 +1,13 @@
+export const handleInvitationForm = 'handle-invitation-form';
+export const radioBtnAccept = 'radio-btn-accept';
+export const radioBtnDecline = 'radio-btn-decline';
+export const declineReasonLabel = 'decline-reason-label';
+export const declineReasonInput = 'decline-reason-input';
+export const actionsTypeInputError = 'actions-type-input-error';
+export const handleInvitationFormApiError = 'form-api-error';
+export const onSubmitBtn = 'on-submit-btn';
+export const companyName = 'company-name';
+export const companyRegion = 'company-region';
+export const companyPostalCode = 'company-post-code';
+export const companyAddressLineOne = 'company-address-line-one';
+export const companyAddressLineTwo = 'company-address-line-two';

@@ -1,0 +1,47 @@
+{
+    "baseline-new-title": "Gegevens referentiejaar",
+    "baseline-new-subtitle": "Deel uw gegevens met ons",
+    "baseline-year": "Uw referentiejaar",
+    "scope1-label": "Scope 1-emissies",
+    "scope2-label": "Scope 2-emissies",
+    "scope3-label": "Scope 3-emissies",
+    "offset-label": "CO2-compensatie",
+    "example-percentage-label": "% CO2-uitstoot gerelateerd aan example",
+    "example-headcount-label": "Aantal werknemers",
+    "validation-label": "Gegevens gevalideerd en geverifieerd door adviseur met ISO 14065-accreditatie?",
+    "validation-checkbox-yes": "Ja",
+    "validation-checkbox-no": "Nee",
+    "net-emissions-label": "Geschatte netto-uitstoot gerelateerd aan example",
+  
+    "actual-new-title": "Nieuwe uitstoot toevoegen",
+    "actual-new-subtitle": "U kunt uw gegevens later nog zo vaak u wilt bewerken",
+    "actual-new-year": "Jaar ingediend",
+    "actual-new-subtitle-inexperienced-flow": "Selecteer het traject dat beter bij uw behoeften past",
+  
+    "actual-edit-title": "Uitstoot bewerken",
+    "actual-edit-subtitle": "U kunt uw gegevens later nog zo vaak u wilt bewerken",
+    "actual-edit-year": "Kies het jaar dat u wilt veranderen",
+    "actual-save": "Gegevens over uitstoot opslaan",
+  
+    "baseline-edit-title": "Gegevens referentiejaar bewerken",
+    "baseline-edit-subtitle": "U kunt uw gegevens later nog zo vaak u wilt bewerken",
+    "baseline-edit-year": "Uw referentiejaar",
+    "baseline-save": "Referentiegegevens opslaan",
+  
+    "scope-one-tooltip": "Directe uitstoot uit eigen bronnen van het bedrijf of door het bedrijf gecontroleerde bronnen, waaronder verbranding van brandstof ter plaatse, zoals gasboilers, wagenparken en airconditioninglekken.",
+    "scope-two-tooltip": "Indirecte uitstoot van ingekocht energie veroorzaakt door de productie van energie. Wij verkiezen de marktgebaseerde methode boven locatiegebaseerde methoden (meer info over de methoden vindt u in het Broeikasgasprotocol).",
+    "scope-three-tooltip": "Alle directe uitstoot (niet inbegrepen in Scope 2) die zich voordoet in de waardeketen van het rapporterende bedrijf. Deze uitstoot vormt meestal het grootste deel van de CO2-voetafdruk en omvatten emissies die verband houden met zakenreizen, inkoop, afval en water.",
+    "offset-tooltip": "Volgens het Broeikasgasprotocol: “Compensaties zijn afzonderlijke BKG-reducties die worden gebruikt om te compenseren voor de uitstoot van broeikasgassen ergens anders. Compensaties worden berekend ten opzichte van een basiswaarde als hypothetisch scenario voor wat de uitstoot zou zijn geweest zonder het mitigatieproject waarin de compensaties worden gegenereerd. Verschillende projecten in de wereldwijde portfolio van example zijn geschikt voor het genereren van CO2­-compensatie, waaronder projecten voor natuurbehoud, bebossing en herbebossing. Hoogwaardige compensaties zijn afkomstig van projecten die zijn gecertificeerd door internationaal erkende standaardisatie-instellingen, inclusief onafhankelijke audits door derden. Voorbeelden van instanties die zich bezighouden met normen voor CO2-compensatiecredits die wij gebruiken, zijn: Verra, American Carbon Registry, Gold Standard, Chinese Certified Emissions Reduction (CCER)-regeling.",
+    "percentage-tooltip": "Uw zakelijke uitstoot kan op verschillende manieren worden toegerekend. De meeste leveranciers gebruiken een economische (bijvoorbeeld omzet) of volumetrische (km/metrische ton) benadering. Lees meer over de juiste allocatie voor uw bedrijf in het Broeikasgasprotocol.",
+    "headcount-tooltip": "Het invoeren van uw totale aantal medewerkers is optioneel en kan op elk moment worden ingevoerd of gewijzigd. Hiermee kunt u de koolstofintensiteit in de loop der tijd vergelijken. Deze cijfers kunt u waarschijnlijk achterhalen bij uw HR- of financiële afdeling.",
+    "scope2-market-type": "Markt",
+    "scope2-location-type": "Locatie",
+    "verification-file-label": "Onafhankelijke verificatie",
+    "verification-file-description[0]": "Dien een verificatie in van de ingevoerde broeikasgasemissies volgens erkende normen.",
+    "verification-file-description[1]": "Klik hier voor een voorbeeld.",
+    "verification-file-description[2]": "Toegestaan formaat pdf, max. 20 MB",
+    "verification-file-description-link": "https://www.goldmansachs.com/our-commitments/sustainability/sustainable-finance/documents/carbon-emissions-verification.pdf",
+  
+    "scope3-minimum-message": "min. toegestane waarde vanwege leverancierstoewijzingen: {{ allocations }} tCO2e"
+  }
+  

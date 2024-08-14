@@ -1,0 +1,17 @@
+{
+    "save-changes": "Wijzigingen opslaan",
+    "cancel": "Annuleren",
+  
+    "edit-interests-form-title": "Interesses bewerken",
+    "edit-interests-section-solution-interests": "Uw interessegebieden",
+    "edit-interests-form-toast-save-title-success": "Interesses met succes bijgewerkt",
+    "edit-interests-form-toast-save-subtitle-success": "U kunt uw bijgewerkte wijzigingen binnen enkele seconden bekijken.",
+  
+    "emission-path-select-title": "Nieuwe uitstoot toevoegen",
+    "emission-path-select-subtitle": "U kunt uw gegevens later nog zo vaak u wilt bewerken",
+    "emission-path-select-inexperienced-user-title": "Ik heb hulp nodig bij het schatten van mijn uitstoot",
+    "emission-path-select-inexperienced-user-subtitle": "We helpen u inzicht te krijgen in uw emissiebronnen en laten u zien hoe u ze kunt inschatten",
+    "emission-path-select-advanced-user-title": "Ik begrijp de soorten uitstoot die ik heb en weet hoe ik ze moet inschatten",
+    "emission-path-select-advanced-user-subtitle": "Wij vragen u om informatie over uw scope 1- en scope 2-emissies"
+}
+  

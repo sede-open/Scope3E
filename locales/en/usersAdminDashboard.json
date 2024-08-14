@@ -1,0 +1,37 @@
+{
+  "users-dashboard-heading": "Users dashboard",
+  "users-dashboard-subtitle": "Use the table below to manage users",
+
+  "users-table-header-user-details": "user details",
+  "users-table-header-company": "company",
+  "users-table-header-role": "role",
+  "users-table-header-status": "status",
+  "users-table-header-actions": "actions",
+
+  "status-ACTIVE": "Active",
+  "status-PENDING": "Pending",
+
+  "edit-external-form-heading": "Edit user",
+  "add-external-form-heading": "Add new user",
+
+  "form-required-label": "* All fields are mandatory",
+  "form-first-name-label": "First name",
+  "form-last-name-label": "Last name",
+  "form-email-label": "Email address",
+  "form-company-label": "Company",
+  "form-role-label": "Role type",
+  "form-radio-seth-admin": "SETH admin",
+  "form-radio-support-admin": "Support admin",
+  "form-save-button": "Save",
+  "form-close-button": "Cancel",
+
+  "user-delete-title": "Delete user",
+  "user-delete-text[0]": "Are you sure you want to delete",
+  "user-delete-text[1]": "This action cannot be undone",
+  "user-delete-cancel": "No, cancel",
+  "user-delete-confirm": "Yes, delete",
+
+  "add-new-user": "Add new user",
+  "external-user": "External user",
+  "internal-user": "Internal user"
+}

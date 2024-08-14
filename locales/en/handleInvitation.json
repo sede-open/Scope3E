@@ -1,0 +1,29 @@
+{
+  "squares-graphic": "Squares graphic",
+  "confirmation-squares-graphic": "Confirmation squares graphic",
+  "logo-alt": "Supplier Energy Transition Hub Logo",
+  "company-name-heading": "You'll be reporting your carbon emissions on behalf of",
+  "company-address-heading": "Your company address",
+  "form-radio-label": "Action",
+  "form-radio-ACCEPT": "The details are correct and I’m authorised to represent my company to participate in the Hub",
+  "form-radio-DECLINE": "I cannot confirm the details",
+  "form-save-btn": "Submit",
+  "form-decline-reason-label": "Why can’t you confirm the details?",
+
+  "HANDLE_INVITATION_FORM-title": "Set up your account",
+  "HANDLE_INVITATION_FORM-subtitle": "You’ve been invited to join the example Supplier Energy Transition Hub. To proceed with your company registration, please confirm the following details: ",
+
+  "ACCEPTED_CONFIRMATION-title": "Details submitted",
+  "ACCEPTED_CONFIRMATION-subtitle": "Our team will proceed with your account creation, this can take about a week. After that, you should receive an email with an activation code to login to the example Supplier Energy Transition Hub.",
+
+  "DECLINED_CONFIRMATION-title": "Thank you",
+  "DECLINED_CONFIRMATION-subtitle": "We’ll inform the company that invited you, that you cannot confirm the details.",
+
+  "contact-info": "For any questions, please feel free to contact us at \n<sethMail>support@example.com</sethMail>",
+
+  "decline-detail-unauthorised": "I'm not authorised to represent my company to participate in the Hub",
+  "decline-detail-alternative-entity": "My company reports emissions using a different corporate entity",
+  "decline-detail-address-incorrect": "The company address is incorrect",
+  "decline-detail-company-incorrect": "I'm not involved with this company",
+  "decline-detail-decline-join": "I don't want to join the Hub"
+}

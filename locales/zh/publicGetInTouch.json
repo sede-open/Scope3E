@@ -1,0 +1,38 @@
+{
+    "page-title": "联系我们，有兴趣加入我们吗？",
+    "page-subtitle": "如果您有任何疑问或有兴趣加入我们，请填写下表，我们会尽快给您回复。",
+    "page-subtext": "我们在伦敦、阿姆斯特丹、克拉科夫和吉隆坡都设有团队，为全球市场提供服务。",
+  
+    "enquiry-general-enquiry": "一般查询",
+    "enquiry-join": "加入",
+    "enquiry-low-carbon-solution": "低碳解决方案",
+  
+    "form-mandatory-text": "*所有字段均为必填",
+    "form-name-label": "您的名字：",
+    "form-company-label": "您的公司：",
+    "form-email-label": "您的电子邮件地址：",
+    "form-enquiry-label": "我们如何提供帮助（主题）：",
+    "form-message-label": "消息：",
+    "form-submit-btn": "发送消息",
+  
+    "message-input-placeholder": "此处键入您的消息",
+    "squares-graphic": "正方形图形",
+  
+    "location-card-one-location": "英国伦敦",
+    "location-card-one-address": "101-103 Southwark Bridge Rd, London, SE1 0AX, United Kingdom",
+    "location-card-two-location": "荷兰阿姆斯特丹",
+    "location-card-two-address": "Grasweg 31, 1031 HW Amsterdam, Netherlands",
+    "location-card-three-location": "波兰克拉科夫",
+    "location-card-three-address": "Czerwone Maki 85, 30-392 Kraków, Poland",
+    "location-card-four-location": "马来西亚吉隆坡",
+    "location-card-four-address": "Wisma example, 3450 Jalan Teknokrat 3, 63000 Cyberjaya, Selangor, Malaysia",
+    "source-events": "活动",
+    "source-email": "电邮",
+    "source-social-media": "社交媒体",
+    "source-search-engine": "网络搜索引擎",
+    "source-recommended": "客户，供应商推荐",
+    "source-word-of-mouth": "口碑",
+    "source-other": "其他",
+    "form-source-label": "您是如何知道我们的?"
+}
+  

@@ -1,0 +1,26 @@
+{
+    "new-title": "Nieuwe ambities delen of visualiseren",
+    "new-subtitle": "U kunt de ambitie van uw bedrijf zo vaak u wilt veranderen",
+    "scope-one-and-two-reduction-label": "Gewenste vermindering Scope 1 & 2",
+    "scope-three-reduction-label": "Gewenste vermindering Scope 3",
+    "carbon-offset-radio-label": "Behoort CO2-compensatie tot uw ambitie?",
+    "carbon-offsets-data-inclusion": "Ja",
+    "carbon-offsets-data-exclusion": "Nee",
+    "strategy-label": "Implementatie strategie",
+    "strategy-type-passive": "Geleidelijk",
+    "strategy-type-aggressive": "Agressief",
+    "strategy-type-moderate": "Lineair",
+    "legend-label-baseline-year": "Uw referentiejaar",
+    "save": "Besparingsambitie",
+    "legend-label-target-data": "Uw gecombineerde ambitie",
+    "legend-label-iea": "≤2°C Scenario's",
+  
+    "baseline-scope-one-and-two": "Referentie Scope 1 en 2",
+    "baseline-scope-three": "Referentie Scope 3",
+    "scope-one-and-two-year-label": "Scope 1 en 2 Jaar",
+    "scope-three-year-label": "Scope 3 jaar",
+  
+    "alert-title": "Scope 3-ambitie",
+    "alert-content": "Update uw referentiejaar of voeg uw Scope 3-gegevens toe aan uw huidige referentiejaar om een ambitie te kunnen stellen"
+}
+  

@@ -1,0 +1,20 @@
+{
+  "contact-us-form-heading": "Get in touch",
+  "contact-us-form-name-label": "Your name",
+  "contact-us-form-email-label": "Your email",
+  "contact-us-form-enquiry-label": "How can we help you?",
+  "contact-us-form-region-label": "Which region are you interested in?",
+  "contact-us-form-message-label": "Message",
+  "contact-us-form-submit-btn": "Send",
+  "contact-us-form-close-btn": "Cancel",
+  "form-mandatory-text": "* all fields are mandatory",
+
+  "enquiry-general-label": "General enquiry",
+  "enquiry-general-value": "General enquiry",
+
+  "region-asia": "Asia",
+  "region-europe": "Europe",
+  "region-africa": "Africa",
+  "region-oceania": "Oceania",
+  "region-americas": "Americas"
+}

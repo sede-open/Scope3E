@@ -1,0 +1,24 @@
+{
+  "dashboard-heading": "Value chain emissions",
+  "label": "Year",
+
+  "pie-chart-title": "Total scope 3",
+
+  "categories-empty-state-title": "No scope 3 categorization",
+  "categories-empty-state-subtext": "Categories can only be shown if your suppliers allocated emissions to your company. Request data through the Supply chain dashboard.",
+  "sectors-empty-state-title": "No sectors",
+  "sectors-empty-state-subtext": "Sectors can only be shown if your suppliers allocated emissions to your company. Request data through the Supply chain dashboard.",
+  "empty-button": "Go to Value Chain",
+
+  "pie-chart-legend-unallocated": "Unallocated",
+  "pie-chart-legend-unallocated-info-message": "Your scope 3 emissions that you cannot allocate to a Category or supplier",
+
+  "pie-chart-legend-allocated": "Allocated",
+  "pie-chart-legend-allocated-info-message": "Your scope 3 emissions that you can allocate to a Category or supplier",
+
+  "tabs-categories": "Categories",
+  "tabs-sectors": "Sectors",
+
+  "sector": "Sector",
+  "category": "Category"
+}

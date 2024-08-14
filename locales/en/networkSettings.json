@@ -1,0 +1,27 @@
+{
+  "back-btn": "Back",
+  "heading": "Network",
+  "tabs-invites": "Received invitations",
+  "tabs-suppliers": "Supplier network",
+  "tabs-customers": "Customer network",
+
+  "quick-connect-any-title": "Quickly expand your network",
+  "quick-connect-customer-title": "Quickly expand your customer network",
+  "quick-connect-supplier-title": "Quickly expand your supplier network",
+  "quick-connect-customer-subtitle": "Companies that may be your customers",
+  "quick-connect-supplier-subtitle": "Companies that may be your suppliers",
+  "quick-connect-dismiss-error-title": "An error occurred when dismissing the connection",
+  "quick-connect-dismiss-error-subtitle": "Please try again later",
+  "quick-connect-dismiss-success-title": "Declined connection suggestion: {{ name }}",
+
+  "quick-connect-invite-success-title": "Connection request sent to: {{ name }}",
+  "quick-connect-invite-error-title": "An error occurred when connecting to: {{ name }}",
+  "quick-connect-invite-error-subtitle": "Please try again later",
+
+  "quick-connect-new-invite-card-title": "Don't see your {{ relationshipType }}?",
+  "quick-connect-new-invite-description": "Invite them to join the platform",
+
+  "quick-connect-invite-to-join": "Invite to join",
+  "quick-connect-invite-to-connect": "Invite to connect",
+  "quick-connect-invite-sent": "Invitation sent"
+}

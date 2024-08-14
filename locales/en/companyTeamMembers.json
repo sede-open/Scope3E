@@ -1,0 +1,8 @@
+{
+    "table-header-first-name": "First Name",
+    "table-header-last-name": "Last Name",
+    "table-header-email": "Email",
+    "table-header-role-type": "Role Type",
+    "table-header-status": "Status",
+    "invite-new-member-button": "Invite new member"
+}

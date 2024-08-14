@@ -1,0 +1,86 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "apollo/*": [
+        "apollo/*"
+      ],
+      "components/*": [
+        "components/*"
+      ],
+      "containers/*": [
+        "containers/*"
+      ],
+      "context/*": [
+        "context/*"
+      ],
+      "effects/*": [
+        "effects/*"
+      ],
+      "layouts/*": [
+        "layouts/*"
+      ],
+      "styles/*": [
+        "styles/*"
+      ],
+      "types/*": [
+        "types/*"
+      ],
+      "utils/*": [
+        "utils/*"
+      ],
+      "mocks/*": [
+        "mocks/*"
+      ],
+      "mutations/*": [
+        "mutations/*"
+      ],
+      "queries/*": [
+        "queries/*"
+      ]
+    },
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "preserveConstEnums": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "typeRoots": [
+      "../node_modules/@types",
+      "./types"
+    ],
+    "useUnknownInCatchVariables": false,
+    "incremental": true
+  },
+  "types": [
+    "node",
+    "jest"
+  ],
+  "exclude": [
+    "../node_modules",
+    "../cypress"
+  ],
+  "include": [
+    "./index.d.ts",
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.js",
+    "**/*.jsx"
+  ]
+}

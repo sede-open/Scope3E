@@ -1,0 +1,90 @@
+{
+  "baseline-select-title": "Select your baseline year",
+  "baseline-select-subtitle": "A baseline year is the starting point or year, from which you start tracking your emission reductions. Thus, by selecting 2020 as your baseline year, you will measure 2021, 2022, etc. against it, to establish the level of emissions reduction achieved. ",
+  "baseline-select-label": "Baseline year",
+
+  "scope-1-select-title": "Select your Scope 1 emission sources",
+  "scope-1-select-subtitle": "Scope 1 emissions are direct emissions sources that are controlled or owned by your organisation",
+
+  "stationary-mobile-combustion-title": "Stationary and mobile combustion",
+  "stationary-mobile-combustion-subtitle": "Fuel consumption by vehicles (e.g cars, trucks, planes, and boats) and by stationary equipment (e.g. boilers, furnaces, turbines).",
+  "industrial-processes-title": "Industrial process and refrigerant emissions",
+  "industrial-processes-subtitle": "Emissions released during industrial processes, and on-site manufacturing (e.g. production of cement) or refrigerant leakages.",
+  "purchased-electricity-title": "Purchased electricity",
+  "purchased-electricity-subtitle": "Electricity purchased from your local utility (that is not combusted on-site).",
+  "purchased-heat-cooling-title": "Purchased heat, cooling, and steam",
+  "purchased-heat-cooling-subtitle": "Purchased heat, cooling, and steam used to control interior climates and heat water and mechanical work or directly as a process medium.",
+
+  "scope-2-select-title": "Select your Scope 2 emission sources",
+  "scope-2-select-subtitle": "Scope 2 indirect emissions are from purchased electricity, steam, heat and cooling that you're using. They occur at sources you do not own or control",
+
+  "data-needed-title": "What you need to know for your decarbonisation journey ",
+  "data-needed-subtitle": "Please make sure you have all the necessary data before you start. You won’t be able to save the journey half-way through. ",
+
+  "data-needed-fuels": "Type of fuels (L) in {{ year }}",
+  "data-needed-refrigirants": "Refrigerant (kg) used in {{ year }}",
+  "data-needed-process": "Process emissions (tCO2e) in {{ year }}",
+  "data-needed-electricity": "Electricity (kWh) purchased per country in {{ year }}",
+  "data-needed-heat-cooling": "Heat and steam (kWh) purchased per country in {{ year }}",
+
+  "combustion-title": "Stationary and mobile combustion",
+  "combustion-subtitle": "Part of your Scope 1 emissions, refers to fuel consumption by vehicles (e.g., cars, trucks, planes, and boats) that are owned or leased by your company and by stationary equipment (e.g., boilers, furnaces, turbines).",
+  "combustion-total-name": "Emissions total for your stationary & mobile combustion",
+  "combustion-total-description": "We estimate the emissions from the combustion of fuels, by multiplying the selected fuel emission factor with the fuel amount.",
+  "combustion-total-read-more-link-text": "Read more about fuel factors.",
+  "combustion-total-read-more-link-url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891106/Conversion_Factors_2020_-_Full_set__for_advanced_users_.xlsx",
+
+  "summary-title": "Total emissions estimation",
+  "summary-subtitle": "The data derived from this tool are merely estimates, and do not constitute any form of recommendation, advice or assurance from us.",
+  "data-verification": "Data verification",
+  "data-verification-info": "This is not a compliance or a data assurance tool. We do not provide any consultancy or assurance services to you and/or your company. You will need to verify the assessments with an independent accredited consultant. Data supplied may be assured by an organisation with current ISO 14065, or equivalent accreditation.",
+  "summary-scope1": "Scope 1",
+  "summary-scope2": "Scope 2",
+  "summary-combustion": "Stationary and Mobile combustion",
+  "summary-process-refrigerants": "Process and Refrigerant emissions",
+  "summary-electricity": "Purchased Electricity",
+  "summary-heat-cooling-steam": "Purchased Heat, Cooling and Steam",
+  "summary-total-emissions": "Total emissions in {{ year }}",
+
+  "process-refrigerant-title": "Process and refrigerant emissions",
+  "process-refrigerant-subtitle": "Part of your Scope 1 emissions, process emissions refer to equipment leaks from joints, seals, packaging, as well as fugitive emissions, such as from waste, and process emissions in physical or chemical processes, such as CO2 (Carbon Dioxide) from calcination in cement manufacturing, etc.",
+  "process-refrigerant-total-name": "Emissions total for your Process & Refrigerant emissions",
+  "process-refrigerant-total-description": "We estimate the emissions from industrial process and refrigerants, by multiplying the selected type of gas emission factor with the amount.",
+  "process-refrigerant-total-read-more-link-text": "Read more about emission factors of gaseous process and refrigerant.",
+  "process-refrigerant-total-read-more-link-url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891106/Conversion_Factors_2020_-_Full_set__for_advanced_users_.xlsx",
+
+  "electricity-title": "Purchased electricity",
+  "electricity-subtitle": "Part of your Scope 2 emissions, electricity and other sources of energy purchased from your local utility (that is not combusted on-site).",
+  "electricity-total-name": "Emissions total for your purchased electricity",
+  "electricity-total-description": "We estimate the emissions from purchased electricity by multiplying the selected emission grid factor with the amount of electricity.",
+
+  "heat-cooling-title": "Purchased heat, cooling and steam",
+  "heat-cooling-subtitle": "Part of your Scope 2 emissions, purchased heat, cooling, and steam are a valuable energy sources for industrial processes. Heat and cooling are used to control interior climates and alter water temperature. Steam is used for mechanical work or directly as a process medium.",
+  "heat-cooling-total-name": "Emissions total for your purchased heat & steam",
+  "heat-cooling-total-description": "We estimate the emissions from purchased heat and steam by multiplying the purchased electricity with the average emission factor. Custom grid emission factor can be obtained from your utility provider.",
+
+  "gridtype-electricity-LOCATION": "By country",
+  "gridtype-electricity-meta-LOCATION": "Use this option if you do not know your specific utility provider's grid factor. We will use the country grid factor instead.",
+  "gridtype-electricity-CUSTOM": "Custom value in kg CO2e/kWh",
+  "gridtype-electricity-meta-CUSTOM": "Use this option if your local utility providers have a different grid factor than that of your country. For example, when you purchase renewable electricity.",
+  "gridtype-heat-cooling-DEFRA": "DEFRA",
+  "gridtype-heat-cooling-meta-DEFRA": "Use this option if you do not know your specific utility provider's grid factor. We will use the country grid factor from the DEFRA instead.",
+  "gridtype-heat-cooling-CUSTOM": "Custom value in kg CO2e/kWh",
+  "gridtype-heat-cooling-meta-CUSTOM": "If other supplier-specific data become available, which are based on a true fuel mix for an organisation’s specific infrastructure, then these should be used as an alternative.",
+  "type-of-fuel": "Type of fuel",
+  "type-of-gas": "Type of gas",
+  "grid-factor": "Grid factor ",
+  "amount": "Amount",
+  "add-fuel-type": "Add another fuel type",
+  "add-emission-type": "Add another emission type",
+  "add-source": "Add another source",
+
+  "cancel-confirmation-title": "Are you sure you want to cancel?",
+  "cancel-confirmation-text": "Your progress won't be saved and this action cannot be undone.",
+  "cancel-confirmation-cancel": "No, take me back",
+  "cancel-confirmation-confirm": "Yes, cancel",
+
+  "inexperienced-flow-add-actual-emission-title": "Add historical emissions data",
+  "inexperienced-flow-add-actual-emission-select-year": "Submission year"
+
+}

@@ -1,0 +1,70 @@
+{
+  "empty-state-heading": "Build your dashboard",
+  "empty-state-subheading": "Let’s start by estimating your company’s carbon emissions. Select the path that better suits your needs",
+
+  "empty-state-viewer-title": "No data yet",
+  "empty-state-viewer-subtitle": "Before we can show any charts, your company will need to provide us with some data",
+
+  "submissions-option-form-heading": "Select your level of expertise",
+  "submissions-option-form-sub-heading": "Two options to help identify the biggest emissions “hot spots” in your value chains",
+  "submissions-option-form-corporate-btn": "Experienced",
+  "submissions-option-form-product-btn": "New to this",
+  "submissions-option-form-product-btn-subtext": "(Coming soon)",
+
+  "emissions-overview-heading": "Emissions overview",
+  "emissions-overview-primary-action-btn": "Add emissions",
+  "emissions-overview-secondary-action-btn": "More actions",
+  "emissions-overview-more-options-ambition": "Edit ambition",
+  "emissions-overview-more-options-emissions": "Edit emissions",
+  "emissions-overview-more-options-baseline": "Edit baseline",
+  "emissions-overview-more-options-remove": "Remove emissions",
+  "emissions-overview-composed-chart": "Line Chart",
+  "emissions-overview-bar-chart": "Bar Chart",
+
+  "emissions-trendline-heading": "Future emissions trendline",
+  "emissions-trendline-disclaimer": "* The accuracy of the trendline depends on the historic data submitted. We use Polynomial Regression to determine the emissions trendline, which may change in time due to macro-economic factors.",
+  "emissions-trendline-read-more": "Read more about our calculation here",
+  "emissions-trendline-amount-unit": "tCO2e",
+  "emissions-trendline-empty-heading": "Missing your historic data",
+  "emissions-trendline-empty-message": "We need 3 years of historic data to show your emissions trendline",
+  "emissions-trendline-empty-cta-primary": "Add emissions",
+  "emissions-trendline-hide-toast-success": "We’ll show this component again when you have 3 years of historic data.",
+  "emissions-trendline-hide-toast-error": "Something went wrong. Please try again.",
+  "emissions-trendline-chart-y-label": "tCO2e",
+  "emissions-trendline-chart-legend-scope1": "Scope 1",
+  "emissions-trendline-chart-legend-scope2": "Scope 2",
+  "emissions-trendline-chart-legend-scope3": "Scope 3",
+  "emissions-trendline-chart-tooltip-historic": " - historic data",
+  "emissions-trendline-chart-tooltip-prediction": " - trends",
+  "emissions-trendline-chart-tooltip-insufficient-data": "Insufficient historic data to calculate - min. 3 years",
+
+  "highlight-last-year-your-emission": "Your {{ year }} net emission",
+  "highlight-last-year-edit-emission": "Edit emission",
+  "highlight-last-year-add-emission": "Add emission",
+  "highlight-last-year-from": "from",
+  "highlight-last-year-decrease": "decrease",
+  "highlight-last-year-increase": "increase",
+
+  "highlight-your-target-ambition": "Your {{ year }} absolute ambition",
+  "highlight-target-edit-target": "Edit ambition",
+  "highlight-target-add-target": "Add ambition",
+  "highlight-target-your-ambition": "your ambition",
+  "highlight-target-percentage": "% to reach",
+  "highlight-target-reached": "you have reached",
+
+  "highlight-supplier-rank": "Your scope 1 + 2 ranking in",
+  "ranking-table": "ranking table",
+
+  "no-variation": "no variation",
+  "in": "in",
+  "you-were": "You were",
+
+  "company-relationships-invites-alert-link": "Go to my account",
+  "company-relationships-invites-alert-title": "You have {{ invitationCount }} outstanding requests to review",
+  "company-relationships-invites-alert-subtitle": "For more details go to your company account page",
+
+  "missing-privacy-info-modal-header": "Welcome back, {{ name }}",
+  "missing-privacy-info-modal-body": "We need your help to increase transparency, throught out the supply chain network. For that we'll need to know which of your data is publicy available. This should only take a couple of minutes.",
+  "missing-privacy-info-start-now": "Let's start",
+  "missing-privacy-info-modal-body-add-later": "I'll do it later"
+}

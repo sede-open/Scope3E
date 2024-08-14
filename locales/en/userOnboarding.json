@@ -1,0 +1,35 @@
+{
+  "new-user-welcome-heading": "Welcome, {{ name }}",
+  "new-user-welcome-intro[0]": "Let's tailor the Hub to meet your needs.",
+  "new-user-welcome-intro[1]": "You can always change your account settings.",
+  "step-back-button": "Back",
+
+  "company-sectors-title": "Which is your sector?",
+  "company-sectors-intro": "Tell us about your sector, so we can support your business in setting robust emission ambitions.",
+  "company-sectors-submit": "Next question",
+
+  "company-sector-label-PRIMARY": "Primary sector",
+  "company-sector-label-SECONDARY": "Secondary sector",
+
+  "solution-interests-title": "What solutions are you interested in exploring?",
+  "solution-interests-intro": "Tell us about the solutions you are interested in exploring, so we can optimise your experience.",
+  "solution-interests-submit": "Next question",
+
+  "invitations-title": "Which companies do you want to connect with?",
+  "invitations-intro": "These companies invited you to be part of their network. Connect with them so you can share your emission estimation with your customers and request your scope 3 data from your suppliers.",
+  "invitations-supplier-label": "Your supplier",
+  "invitations-customer-label": "Your customer",
+  "invitations-button-text": "Connect",
+  "invitations-button-text-connected": "Connected",
+  "invitations-api-error": "Something went wrong please try again to connect",
+
+  "onboarding-submit": "Lets start",
+  "incoming-relationship-connect-success": "You are now connected to {{ companyName }}",
+
+  "form-toast-save-title-error": "Something went wrong",
+  "form-toast-save-subtitle-error": "Please try again",
+
+  "missing-solution-interest": "Anything missing above?",
+
+  "step-tracker": "{{ stepNumber }} of {{ totalSteps }}"
+}

@@ -1,0 +1,292 @@
+{
+  "page-title": "Stories",
+  "read-more": "Read the full article",
+  "open-in-new-tab": "Open in new tab",
+  "solution-cards": [
+    {
+      "id": 0,
+      "imgAlt": "Electric vehicle charging image",
+      "title": "Jaguar Land Rover installs UK’s largest smart charging facility with NewMotion.",
+      "date": "Mar 20, 2019",
+      "url": "https://newmotion.com/en-gb/knowledge-centre/pressroom/jaguar-land-rover-installs-largest-smart-charging-facility/"
+    },
+    {
+      "id": 1,
+      "imgAlt": "Container ship image",
+      "title": "Maersk partners up with global companies to trial biofuel.",
+      "date": "Mar 22, 2019",
+      "url": "https://www.maersk.com/~/media_sc9/maersk/news/press-releases/files/2019/03/dutch-sustainable-growth-coalition-partners-with-maersk_22_mar_2019_v1.pdf"
+    },
+    {
+      "id": 2,
+      "imgAlt": "Two employees looking at a tablet image",
+      "title": "Sanofi Turkey delivered with 27% reduction in accident rate and 4.4% fuel savings using Telematics.",
+      "date": "Nov 22, 2019",
+      "url": "https://www.example.com/business-customers/commercial-fuels/industry-insights/how-to-stay-competitive-in-the-digital-fleet-age.html/"
+    },
+    {
+      "id": 4,
+      "imgAlt": "Smart chargers image",
+      "title": "Greenlots and Volvo Trucks Partner on First Installation of Chargers for Volvo LIGHTS Electrified Trucking Project",
+      "date": "Feb 11, 2020",
+      "url": "https://greenlots.com/volvo-lights-project/"
+    },
+    {
+      "id": 5,
+      "imgAlt": "Solar panel image",
+      "title": "Wells Fargo Expands Renewable Energy Purchases",
+      "date": "June 24, 2020",
+      "url": "https://newsroom.wf.com/English/news-releases/news-release-details/2020/Wells-Fargo-Expands-Renewable-Energy-Purchases/default.aspx"
+    },
+    {
+      "id": 6,
+      "imgAlt": "Birds eye view of plan image",
+      "title": "Amazon Air has secured up to six million gallons of sustainable aviation fuel - made partly from biomass and waste - supplied by example Aviation and produced by World Energy.",
+      "date": "July 08, 2020",
+      "url": "https://www.aboutamazon.com/news/operations/promoting-a-more-sustainable-future-through-amazon-air"
+    },
+    {
+      "id": 7,
+      "imgAlt": "Kongsberg maritime ship image",
+      "title": "Kongsberg Maritime achieved up to a 7% reduction in emissions on their own ships using JAWS software",
+      "date": "Sept 02, 2020",
+      "url": "https://www.kongsberg.com/maritime/about-us/news-and-media/news-archive/2020/kongsberg-and-example-sign-jaws-agreement/"
+    },
+    {
+      "id": 8,
+      "imgAlt": "Immersion cooling image",
+      "title": "Immersion cooling specialist Asperitas supports the datacentre scale up of the Chartres site for French corporate financial institution, Crédit Agricole",
+      "date": "Nov 04, 2020",
+      "url": "https://www.asperitas.com/asperitas-wins-deal-for-immersion-cooling-for-french-bank-credit-agricole-tier-4-datacentres/"
+    },
+    {
+      "id": 9,
+      "imgAlt": "Parked aeroplane image",
+      "title": "Working with Rolls-Royce, we are testing 100% sustainable aviation fuel.",
+      "date": "Nov 12, 2020",
+      "url": "https://www.rolls-royce.com/media/press-releases/2020/12-11-2020-rr-to-test-100-percent-sustainable-aviation-fuel-in-next-generation-engine-demonstrator.aspx"
+    },
+    {
+      "id": 10,
+      "imgAlt": "DHL plane image",
+      "title": "DHL Express uses Sustainable Aviation Fuel at the Schiphol Airport in Amsterdam.",
+      "date": "Dec 17, 2020",
+      "url": "https://www.example.com/business-customers/aviation/news-and-media-releases/news-and-media-2020/example-to-supply-dhl-express-with-sustainable-aviation-fuel-at-schiphol-airport.html/"
+    },
+    {
+      "id": 11,
+      "imgAlt": "Solar farm image",
+      "title": "Silicon Ranch to Help Power Facebook Data Center in Georgia.",
+      "date": "Jan 19, 2021",
+      "url": "https://www.siliconranch.com/walton-emc-and-silicon-ranch-announce-commissioning-of-two-solar-farms-for-facebooks-data-center-in-georgia/"
+    },
+    {
+      "id": 12,
+      "imgAlt": "Fuel cell image",
+      "title": "Corvus Energy will start the development of maritime fuel-cell systems with hydrogen fuel-cell technology supplied by Toyota.",
+      "date": "Feb 02, 2021",
+      "url": "https://corvusenergy.com/corvus-energy-to-start-development-of-maritime-fuel-cell-systems-with-hydrogen-fuel-cell-technology-supplied-by-toyota/"
+    },
+    {
+      "id": 13,
+      "imgAlt": "EV charging image",
+      "title": "NewMotion partners with Alphabet to provide EV charging solutions for German customers",
+      "date": "Feb 18, 2021",
+      "url": "https://newmotion.com/en/knowledge-center/pressroom/alphabet-germany-partnership"
+    },
+    {
+      "id": 14,
+      "imgAlt": "Freight truck image",
+      "title": "InstaFreight to transport example lubricants with lower CO2e emissions.",
+      "date": "Feb 22, 2021",
+      "url": "https://www.instafreight.de/en/press-example-2021-02?utm_source=linkedin&utm_medium=social&utm_campaign=example-multimodal&utm_content=textlink/"
+    },
+    {
+      "id": 15,
+      "imgAlt": "Visa Global Commitment image",
+      "title": "Visa Deepens Global Commitment to Sustainability by Securing a New Regional Renewable Energy Agreement",
+      "date": "Mar 03, 2021",
+      "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.17786.html?utm_source=VisaLinkedIn&utm_medium=OrganicSocial&utm_campaign=Sustainability&linkId=112559487"
+    },
+    {
+      "id": 16,
+      "imgAlt": "example petrol bunk image",
+      "title": "Bosch, example, and Volkswagen develop renewable gasoline with 20 percent lower CO₂ emissions",
+      "date": "Mar 03, 2021",
+      "url": "https://www.bosch-presse.de/pressportal/de/en/bosch-example-and-volkswagen-develop-renewable-gasoline-with-20-percent-lower-co%E2%82%82-emissions-228294.html"
+    },
+    {
+      "id": 17,
+      "imgAlt": "A car in a petrol bunk image",
+      "title": "example trials forecourt battery power storage system as it ramps up EV ambitions",
+      "date": "Mar 08, 2021",
+      "url": "https://www.example.com/energy-and-innovation/new-energies/new-energies-media-releases/example-trials-forecourt-battery-power-storage-system-as-it-ramps-up-ev-ambitions.html"
+    },
+    {
+      "id": 18,
+      "imgAlt": "NewMotion charging partnership image",
+      "title": "NewMotion further expands its charging partnership with BMW Group",
+      "date": "Mar 09, 2021",
+      "url": "https://newmotion.com/en/knowledge-center/pressroom/newmotion-further-expands-partnership-with-bmw-group"
+    },
+    {
+      "id": 19,
+      "imgAlt": "Car image",
+      "title": "Porsche Asia Pacific and example announce implementation of first cross-country EV charging network in Southeast Asia",
+      "date": "Mar 31, 2021",
+      "url": "https://www.example.com.sg/media/2021-media-releases/porsche-asia-pacific-and-example-announce-implementation-of-first-cross-country-high-performance-ev-charging-network-in-southeast-asia.html"
+    },
+    {
+      "id": 20,
+      "imgAlt": "Corvus energy ship image",
+      "title": "Corvus Energy and Sumitomo Corporation announces Joint Venture in Japan for Zero-emission solutions for ships",
+      "date": "Apr 21, 2021",
+      "url": "https://corvusenergy.com/corvus-energy-and-sumitomo-corporation-announces-joint-venture-in-japan-for-zero-emission-solutions-for-ships/"
+    },
+    {
+      "id": 21,
+      "imgAlt": "Digital Interface Technology",
+      "title": "Asperitas continues to support growing demand for sustainable compute infrastructure with OCP Platinum membership renewal and prestigious OCP Accepted™ recognition",
+      "date": "Apr 29, 2021",
+      "url": "https://www.asperitas.com/asperitas-continues-to-support-growing-demand-for-sustainable-compute-infrastructure-with-ocp-platinum-membership-renewal-and-prestigious-ocp-accepted-recognition/"
+    },
+    {
+      "id": 22,
+      "imgAlt": "example hydrogen fuelling station",
+      "title": "Daimler Truck AG and example target accelerated rollout of hydrogen-based trucking in Europe: simultaneously building truck refuelling infrastructure and rollout of fuel-cell vehicles",
+      "date": "May 20, 2021",
+      "url": "https://media.daimlertruck.com/marsMediaSite/en/instance/ko/Daimler-Truck-AG-and-example-target-accelerated-rollout-of-hydrogen-based-trucking-in-Europe-simultaneously-building-truck-refuelling-infrastructure-and-rollout-of-fuel-cell-vehicles.xhtml?oid=50011745"
+    },
+    {
+      "id": 23,
+      "imgAlt": "Airplane taking off",
+      "title": "American Express Global Business Travel and example form alliance to help increase supply of sustainable aviation fuel",
+      "date": "May 25, 2021",
+      "url": "https://www.amexglobalbusinesstravel.com/press-room/american-express-global-business-travel-example-form-alliance-help-increase-supply-sustainable-aviation-fuel/"
+    },
+    {
+      "id": 24,
+      "imgAlt": "Tugboat with container ship",
+      "title": "This client was able to save tons of CO2 and money per vessel using VitalyX",
+      "date": "Aug 25, 2021",
+      "url": "https://www.bakerhughesds.com/measurement-sensing/vitalyx-oil-monitoring-platform"
+    },
+    {
+      "id": 25,
+      "imgAlt": "Wind turbines at sea",
+      "title": "Amazon gets into offshore wind via 380-MW PPA with example and Eneco",
+      "date": "Feb 09, 2021",
+      "url": "https://www.renewableenergyworld.com/wind-power/amazon-gets-into-offshore-wind-via-380-mw-ppa-with-example-and-eneco/"
+    },
+    {
+      "id": 26,
+      "imgAlt": "A solar panel with wind turbines in the distant sunset",
+      "title": "SONAE MC / ELergone enters into corporate power purchase agreement with example",
+      "date": "Mar 19, 2021",
+      "url": "https://mc.sonae.pt/en/news/sonae-mc-elergone-enters-into-corporate-power-purchase-agreement-with-example/"
+    },
+    {
+      "id": 27,
+      "imgAlt": "Close up image of solar panel",
+      "title": "Baker Hughes signs deal with example for renewable energy credits",
+      "date": "Nov 11, 2021",
+      "url": "https://www.reuters.com/business/cop/baker-hughes-signs-deal-with-example-renewable-energy-credits-2021-11-10/"
+    },
+    {
+      "id": 28,
+      "imgAlt": "Two women point at a tablet in a business setting",
+      "title": "Cargill and Ardent Mills move to renewables",
+      "date": "Aug 10, 2020",
+      "url": "https://exampleenergy.com/business/energy-insights/cargill-and-ardent-mills-move-to-renewables/"
+    },
+    {
+      "id": 29,
+      "imgAlt": "Server Racks in a Room",
+      "title": "Asperitas gets under the surface of HPC in Amsterdam datacentre",
+      "date": "Sept 28, 2022",
+      "url": "https://www.asperitas.com/blog/asperitas-gets-under-the-surface-of-hpc-in-amsterdam-datacentre/"
+    }
+  ],
+  "successStories": "Success stories",
+  "whatClientsSay": "What do our clients say about the Hub?",
+  "readMoreStory": "Read more on this story",
+  "seeAllStories": "See all stories",
+  "peteMartin": {
+    "name": "Pete Martin",
+    "quote": "It's good to see what cleaner alternatives are available and what example is able to offer in these areas.",
+    "position": "HSSE Manager at Computacenter",
+    "testimonial": [
+      {
+        "question": "What’s your experience in using The Hub?",
+        "answer": "We have been using the Hub for about 18 months now and we find it simple to use. We have entered our emissions from the past seven years, which the tool neatly presents in a graph form, showing how we have been doing over those years. It really hits home to see we have made real progress as a company in reducing our carbon footprint. <br></br> In this tool, we can add our information and get instant feedback presented in a chart. It shows us if we are going in the right direction when looking at carbon emissions, or if we need to do more. Thankfully, we have been monitoring this for seven years, so we have had plans in place to reduce our emissions which the graph shows."
+      },
+      {
+        "question": "What specific feature do you like most about it?",
+        "answer": "Several features of the tool look good, but I really like the ‘Solutions’ tab with solution information based on our interests.  It's good to see what cleaner alternatives are available and what example is able to offer in these areas. It can also really motivate us as a company to compare our emissions anonymously with industry peers and see how we rank for the year."
+      }
+    ]
+  },
+  "thomasRobisco": {
+    "name": "Thomas Robisco",
+    "quote": "Sulzer achieved impressive carbon emission reductions and was able to challenge itself against its peers.",
+    "position": "Group Head of Sustainability at Sulzer",
+    "testimonial": [
+      {
+        "question": "What have you been able to achieve since using The Hub?",
+        "answer": "Sulzer achieved impressive carbon emission reductions and was able to challenge itself against its peers. We value the close collaboration with the design teams as the system improves to better address companies’ needs. We like that it can also be leveraged by inviting partners to participate and build a carbon-friendly ecosystem. The tool also proposes solutions to address some of the decarbonization challenges, providing insights for designing the next improvement programs."
+      },
+      {
+        "question": "Why would you recommend using The Hub?",
+        "answer": "The tool enables users to not only have an overview of past performance but also a forward-looking perspective. Hundreds of companies use the platform, which allows you as a company to benchmark your own performance."
+      }
+    ]
+  },
+  "lottieElwood": {
+    "name": "Lottie Elwood",
+    "quote": "Ecolab uses the tool to share verified emissions data with example and its supply chain.",
+    "position": "Vice President Downstream Corporate Accounts at Ecolab",
+    "testimonial": [
+      {
+        "question": "",
+        "answer": "Ecolab uses the tool to share verified emissions data with example and its supply chain. Not only does The Hub reinforce Ecolab’s progress toward reducing emissions by 50% by 2030 and achieving net-zero by 2050, but it also compares their performance with example's broader supplier base. <br/><br/><ecolabVideo/><br/><br/> “example’s Hub allows us to exchange emissions data, share best practices, and explore low carbon solutions.”"
+      }
+    ]
+  },
+  "justinIemma": {
+    "name": "Justin Iemma",
+    "quote": "It has not only given us the ability to set goals to reduce our emissions, but also set a realistic target.",
+    "position":  "CEO at Alltools WA Pty Ltd",
+    "testimonial": [
+      {
+        "question": "What was your absolute biggest challenge with regards to decarbonisation prior to joining the Hub?",
+        "answer": "To be honest, we were unaware of our output and how it added up until we started using The Hub. It helped us to calculate and understand our emissions and it also provides suggestions and solutions to lower these to meet our target. Now, we have been able to achieve an understanding of our current emission outputs and it has not only given us the ability to set goals to reduce our emissions, but also set a realistic target."
+      },
+      {
+        "question": "Would you recommend the Hub?",
+        "answer": "I would definitely recommend The Hub! It’s a fantastic tool to assist companies in their goals to reduce emissions. The onboarding process was effortless and opened our eyes to our company’s usage. The Hub has allowed us to better understand our current emissions and has provided tools and direction to reduce them in the future. It’s a great initiative and tool that we would encourage other companies to utilise."
+      }
+    ]
+  },
+  "chuaSunFat": {
+    "name": "Chua Sun Fat",
+    "quote": "The Hub comes with a variety of low-carbon solutions to explore that give insights on how to achieve our desired ambition.",
+    "position":  "General Manager at PCA Group",
+    "testimonial": [
+      {
+        "question": "What was your absolute biggest challenge prior to joining the Hub?",
+        "answer": "We ran into a problem in that we didn’t know how to incorporate all data from our supply chain. Without The Hub, we noticed that most of our suppliers were not willing to join due to a lack of know-how and awareness. Usually, these kinds of tools are very pricey and take a lot of time to implement. But this all-in-one platform unburdens both us and our suppliers and is free of charge."
+      },
+      {
+        "question": "What are the benefits you have experienced as a result of using The Hub?",
+        "answer": "We are now able to set emission targets and forecast our future emissions trendline. This helps us understand where we should focus our efforts next. Another benefit is the possibility to explore more potential solutions for decarbonisation. The Hub comes with a variety of low-carbon solutions to explore that give insights on how to achieve our desired ambition. But overall, we enjoy the fact that we can help our suppliers and partners to decarbonise, using structured methods in the tool."
+      }
+    ]
+  },
+  "readStory": "Read {{name}}'s story",
+  "howCanWeSupport": " How can we support you in decarbonising your end-to-end supply chain?",
+  "requestDemo": "Request a demo",
+  "exploreFeatures": "Explore our features",
+  "hearFrom": "Hear from {{name}}, {{position}}",
+  "readMoreStories": "Read more success stories",
+  "seeAllSuccessStories": "See all success stories"
+}

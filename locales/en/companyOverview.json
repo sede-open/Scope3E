@@ -1,0 +1,91 @@
+{
+  "back": "Back",
+  "privateTarget": "Private target",
+  "publicTarget": "Public target",
+  "estimatedEmployees": "{{number}} estimated employees",
+  "usdEstimatedRevenue": "{{number}} USD estimated revenue",
+  "scienceBasedInitiativeTarget": "SBTi target",
+  "empty": {
+    "title": "Company data private",
+    "privateDesc": "This company's privacy settings don’t allow us to share their data.",
+    "requestDesc": "This company's privacy settings don’t allow us to share their data. Send them a request to share their data, so you can better understand their decarbonisation strategy.",
+    "request": "Send request to share data",
+    "requestSent": "Request sent",
+    "inviteDesc": "This company data is set to private to companies outside their network. Send them an invitation to be part of their network.",
+    "invite": "Invite company",
+    "inviteSent": "Invitation sent"
+  },
+  "emissionsOverview": "Emissions overview",
+  "carbonIntensityOverview": "Carbon intensity overview",
+  "emissionsAllocatedToYourCompany": "Emissions allocated to your company",
+  "emissionsAllocated": "Emissions allocated",
+  "tCO2e": "tCO2e",
+  "noEmissionsAllocated": "No emissions allocated",
+  "hasNotAllocated": "This company has not allocated any emissions to your company",
+  "benchmarkHeaderTitle": "Peer benchmark",
+  "benchmarkHeaderSubtitle": "Comparison of publicly available data",
+  "benchmarkHeaderDescription": "This table only shows publicly available data of companies in the same sectors and consists of scope 1 & 2 data, that is self-reported through the Hub and is not necessarily audited or verified. Submitting companies may use significantly different methods and standards to establish their data and therefore the accuracy of comparison across entries is limited.",
+  "benchmarkHeaderReadMore": "Read more about benchmark calculations, antitrust, and data privacy here.",
+  "intensityDropdownLabel": "Show Last Year intensity per",
+  "readMoreTitle": "Calculations & data privacy",
+  "readMoreSections": [
+    {
+      "title": "Is this data publicly available?",
+      "description": "We only show data of companies that gave us their permission. Although our goal is to create transparency, companies will always stay in control of their data, through the Settings page."
+    },
+    {
+      "title": "How is the size of the company estimated?",
+      "description": "This data is an estimation provided by DnB. The size is calculated by the sum of individuals employed at a parent or headquarters location and all locations that roll into it, or attributed to an organisation which is a single location, which is not supported by an official financial statement:",
+      "unorderedList": [
+        "Micro-sized: 1 - 6 employees",
+        "Small-sized: less than 250 employees",
+        "Medium-sized: less than 500 employees",
+        "Large-sized: less than 1000 employees",
+        "Enterprise-sized: more than 1001 employees"
+      ]
+    },
+    {
+      "title": "How is the total emission variance data calculated?",
+      "description": "The total emission is the percentage variance between the emissions reported in baseline year versus the latest reporting year emissions."
+    },
+    {
+      "title": "How is the annual emissions data calculated?",
+      "description": "Annual emission is the compound annual growth rate over the period between the baseline year and latest reporting year."
+    }
+  ],
+  "ok": "Ok",
+  "benchmarkHeader": {
+    "COMPANY_NAME": "COMPANY NAME",
+    "ESTIMATED_NUMBER_OF_EMPLOYEES": "SIZE",
+    "BASELINE_YEAR": "BASELINE YEAR",
+    "TOTAL_EMISSION_VARIANCE": "TOTAL EMISSION VARIANCE",
+    "ANNUAL_EMISSION_VARIANCE": "ANNUAL EMISSION VARIANCE",
+    "CARBON_INTENSITY_RATIO": "LAST YEAR tCO2e / {{intensityMetric}}",
+    "COMPANY_RELATIONSHIP": "NETWORK CONNECTION"
+  },
+  "yourCustomer": "Your customer",
+  "yourSupplier": "Your supplier",
+  "customer": "customer",
+  "supplier": "supplier",
+  "invitationSent": "Invitation sent",
+  "invite": "Invite",
+  "inviteSentModal": {
+    "info": "An invitation was sent to this company. You’ll be informed by e-mail when the company accepts or rejects your invitation.",
+    "moreInfo": "If you want to learn more about the invitation process visit <link>our network page</link>."
+  },
+  "invitationReceived": "Invitation received",
+  "invitationReceivedModal": {
+    "info": "{{companyName}} have requested to connect with your company as your {{relationship}}.",
+    "moreInfo": "Go to the <link>Network</link> page to accept the invitation."
+  },
+  "inviteCustomer": "Invite as a customer",
+  "inviteSupplier": "Invite as a supplier",
+  "size": {
+    "enterprise": "Enterprise",
+    "large": "Large",
+    "small": "Small",
+    "micro": "Micro"
+  },
+  "notApplicable": "n/a",
+  "naTooltip": "Data is not available due to this company's privacy settings preferences"
+}

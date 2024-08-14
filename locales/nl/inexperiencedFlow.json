@@ -1,0 +1,90 @@
+{
+    "baseline-select-title": "Kies een referentiejaar",
+    "baseline-select-subtitle": "Een referentiejaar is het startpunt of eerste jaar vanaf wanneer u uw emissiereductie gaat bijhouden. Als u dus 2020 als uw referentiejaar kiest, gaat u 2021, 2022 enz. hiermee vergelijken om vast te stellen met hoeveel u uw uitstoot hebt verminderd. ",
+    "baseline-select-label": "Referentiejaar",
+  
+    "scope-1-select-title": "Kies uw Scope 1-emissiebronnen",
+    "scope-1-select-subtitle": "Scope 1-emissies is directe uitstoot uit eigen bronnen of door uw organisatie gecontroleerde bronnen",
+  
+    "stationary-mobile-combustion-title": "Stationaire en mobiele verbranding",
+    "stationary-mobile-combustion-subtitle": "Brandstofverbruik door voertuigen (bijv. auto's, vrachtwagens, vliegtuigen en boten) en door stationaire apparatuur (bijv. ketels, ovens, turbines).",
+    "industrial-processes-title": "Uitstoot door industriële processen en koelmiddelen",
+    "industrial-processes-subtitle": "Emissies die vrijkomen tijdens industriële processen en productie op locatie (bijv. productie van cement) of lekkage van koelmiddel.",
+    "purchased-electricity-title": "Ingekochte elektriciteit",
+    "purchased-electricity-subtitle": "Elektriciteit gekocht bij uw plaatselijke nutsbedrijf (dat niet ter plaatse wordt verbrand).",
+    "purchased-heat-cooling-title": "Ingekochte warmte, koeling en stoom",
+    "purchased-heat-cooling-subtitle": "Ingekochte warmte, koeling en stoom gebruikt om binnenklimaat te regelen en water en mechanisch werk te verwarmen of direct als procesmedium.",
+  
+    "scope-2-select-title": "Kies uw Scope 2-emissiebronnen",
+    "scope-2-select-subtitle": "Indirecte Scope 2-emissies zijn afkomstig van ingekochte elektriciteit, stoom, warmte en koeling die u gebruikt. Deze uitstoot komt voor bij bronnen die u niet bezit of controleert",
+  
+    "data-needed-title": "Wat u moet weten op uw reis naar een koolstofvrije toekomst ",
+    "data-needed-subtitle": "Zorg ervoor dat u alle nodige gegevens bij de hand hebt voordat u begint. U kunt niet halverwege stoppen. ",
+  
+    "data-needed-fuels": "Soorten brandstof (L) in {{ year }}",
+    "data-needed-refrigirants": "Koelmiddel (kg) gebruikt in {{ year }}",
+    "data-needed-process": "Procesemissies (tCO2e) in {{ year }}",
+    "data-needed-electricity": "Elektriciteit (kWh) ingekocht per land in {{ year }}",
+    "data-needed-heat-cooling": "Warmte en stoom (kWh) ingekocht per land in {{ year }}",
+  
+    "combustion-title": "Stationaire en mobiele verbranding",
+    "combustion-subtitle": "Een deel van uw Scope 1-emissies betreft brandstofverbruik door voertuigen (zoals auto's, vrachtwagens, vliegtuigen en boten) die in eigendom zijn van of geleased worden door uw bedrijf, en door stationaire apparatuur (bijv. ketels, fornuizen, turbines).",
+    "combustion-total-name": "Totale uitstoot voor uw stationaire & mobiele verbranding",
+    "combustion-total-description": "We schatten de uitstoot als gevolg van de verbranding van brandstoffen door de geselecteerde brandstofemissiefactor te vermenigvuldigen met de hoeveelheid brandstof.",
+    "combustion-total-read-more-link-text": "Lees meer over brandstoffactoren.",
+    "combustion-total-read-more-link-url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891106/Conversion_Factors_2020_-_Full_set__for_advanced_users_.xlsx",
+  
+    "summary-title": "Schatting totale uitstoot",
+    "summary-subtitle": "De gegevens die uit deze tool worden afgeleid, zijn slechts schattingen en vormen geen enkele vorm van aanbeveling, advies of verzekering door ons.",
+    "data-verification": "Gegevensverificatie",
+    "data-verification-info": "Dit is geen hulpmiddel voor naleving of gegevensborging. Wij bieden u en/of uw bedrijf geen consultancy- of assurancediensten aan. U moet de beoordelingen zelf verifiëren bij een onafhankelijke, geaccrediteerde adviseur. De verstrekte gegevens kunnen worden gecontroleerd door een organisatie met de huidige ISO 14065 of gelijkwaardige accreditatie.",
+    "summary-scope1": "Scope 1",
+    "summary-scope2": "Scope 2",
+    "summary-combustion": "Stationaire en mobiele verbranding",
+    "summary-process-refrigerants": "Uitstoot door processen en koelmiddelen",
+    "summary-electricity": "Ingekochte elektriciteit",
+    "summary-heat-cooling-steam": "Ingekochte warmte, koeling en stoom",
+    "summary-total-emissions": "Totale uitstoot in {{ year }}",
+  
+    "process-refrigerant-title": "Uitstoot door processen en koelmiddelen",
+    "process-refrigerant-subtitle": "Een deel van uw Scope 1-emissies, procesemissies, verwijzen naar lekken van apparatuur uit verbindingen, afdichtingen, verpakkingen, en naar vluchtige emissies, zoals uit afval, en procesemissies in fysieke of chemische processen, zoals CO2 (kooldioxide) door calcinatie in cementproductie, enz.",
+    "process-refrigerant-total-name": "Totale uitstoot van uw procesemissies en emissies uit koelmiddelen",
+    "process-refrigerant-total-description": "We schatten de emissies van industriële processen en koelmiddelen door het geselecteerde type gasemissiefactor te vermenigvuldigen met de hoeveelheid.",
+    "process-refrigerant-total-read-more-link-text": "Lees meer over emissiefactoren van gasvormige processen en koelmiddel.",
+    "process-refrigerant-total-read-more-link-url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891106/Conversion_Factors_2020_-_Full_set__for_advanced_users_.xlsx",
+  
+    "electricity-title": "Ingekochte elektriciteit",
+    "electricity-subtitle": "Een deel van uw Scope 2-emissies betreft elektriciteit en andere energiebronnen gekocht bij uw plaatselijke nutsbedrijf (die niet ter plaatse worden verbrand).",
+    "electricity-total-name": "Totale uitstoot voor ingekochte elektriciteit",
+    "electricity-total-description": "We schatten de uitstoot van ingekochte elektriciteit door de geselecteerde netemissiefactor te vermenigvuldigen met de hoeveelheid elektriciteit.",
+  
+    "heat-cooling-title": "Ingekochte warmte, koeling en stoom",
+    "heat-cooling-subtitle": "Een deel van uw Scope 2-emissies bestaat uit ingekochte warmte, koeling en stoom, waardevolle energiebronnen voor industriële processen. Warmte en koeling worden gebruikt om het binnenklimaat te regelen en de watertemperatuur te wijzigen. Stoom wordt gebruikt voor mechanisch werk of direct als procesmedium.",
+    "heat-cooling-total-name": "Totale uitstoot voor ingekochte warmte & stoom",
+    "heat-cooling-total-description": "We schatten de uitstoot van ingekochte warmte en stoom door de ingekochte elektriciteit te vermenigvuldigen met de gemiddelde emissiefactor. Uw netemissiefactor kan worden verkregen bij uw energieleverancier.",
+  
+    "gridtype-electricity-LOCATION": "Per land",
+    "gridtype-electricity-meta-LOCATION": "Gebruik deze optie als u de netfactor van uw specifieke energieleverancier niet weet. In plaats daarvan gebruiken we dan de netfactor voor uw land.",
+    "gridtype-electricity-CUSTOM": "Aangepaste waarde in kg CO2e/kWh",
+    "gridtype-electricity-meta-CUSTOM": "Gebruik deze optie als uw lokale energieleveranciers een andere netfactor hebben dan die van uw land. Bijvoorbeeld als uw hernieuwbare elektriciteit inkoopt.",
+    "gridtype-heat-cooling-DEFRA": "DEFRA",
+    "gridtype-heat-cooling-meta-DEFRA": "Gebruik deze optie als u de netfactor van uw specifieke energieleverancier niet weet. In plaats daarvan gebruiken we dan de netfactor voor uw land van DEFRA.",
+    "gridtype-heat-cooling-CUSTOM": "Aangepaste waarde in kg CO2e/kWh",
+    "gridtype-heat-cooling-meta-CUSTOM": "Als er andere leveranciersspecifieke gegevens beschikbaar komen, die gebaseerd zijn op een echte brandstofmix voor de specifieke infrastructuur van een organisatie, dan moeten deze als alternatief worden gebruikt.",
+    "type-of-fuel": "Soort brandstof",
+    "type-of-gas": "Soort gas",
+    "grid-factor": "Netfactor ",
+    "amount": "Hoeveelheid",
+    "add-fuel-type": "Voeg andere brandstofsoort toe",
+    "add-emission-type": "Voeg andere soort uitstoot toe",
+    "add-source": "Voeg andere bron toe",
+  
+    "cancel-confirmation-title": "Weet u zeker dat u wilt annuleren?",
+    "cancel-confirmation-text": "Uw voortgang wordt niet opgeslagen en deze actie kan niet ongedaan worden gemaakt.",
+    "cancel-confirmation-cancel": "Nee, ga terug",
+    "cancel-confirmation-confirm": "Ja, annuleer",
+  
+    "inexperienced-flow-add-actual-emission-title": "Nieuwe uitstoot toevoegen",
+    "inexperienced-flow-add-actual-emission-select-year": "Jaar ingediend"
+}
+  

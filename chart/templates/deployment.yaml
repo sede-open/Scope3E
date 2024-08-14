@@ -1,0 +1,141 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Chart.Name }}
+  labels:
+    app: {{ .Values.app }}
+    name: {{ .Chart.Name }}
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+      app: {{ .Values.app }}
+  template:
+    metadata:
+      labels:
+        affinity: {{ .Chart.Name }}
+        app: {{ .Values.app }}
+        name: {{ .Chart.Name }}
+    spec:
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+            - matchExpressions:
+              - key: kubernetes.azure.com/agentpool
+                operator: NotIn
+                values:
+                  - ld64s
+                  - ld48s
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: affinity
+                      operator: In
+                      values:
+                        - {{ .Chart.Name }}
+                topologyKey: kubernetes.io/hostname
+              weight: 1
+      containers:
+        - env:
+            - name: SENTRY_AUTH_TOKEN
+              valueFrom:
+                secretKeyRef:
+                  key: SENTRY_AUTH_TOKEN
+                  name: abcd-ui-secret
+            - name: AKAMAI_CLIENT_ID
+              valueFrom:
+                secretKeyRef:
+                  key: AKAMAI_CLIENT_ID
+                  name: abcd-ui-secret
+            - name: AKAMAI_SECRET
+              valueFrom:
+                secretKeyRef:
+                  key: AKAMAI_SECRET
+                  name: abcd-ui-secret
+            - name: AUTHURL_CLIENT_ID
+              valueFrom:
+                secretKeyRef:
+                  key: AUTHURL_CLIENT_ID
+                  name: abcd-ui-secret
+            - name: AUTHURL_CLIENT_SECRET
+              valueFrom:
+                secretKeyRef:
+                  key: AUTHURL_CLIENT_SECRET
+                  name: abcd-ui-secret
+            - name: LAUNCH_DARKLY_SERVER_SDK_KEY
+              valueFrom:
+                secretKeyRef:
+                  key: LAUNCH_DARKLY_SERVER_SDK_KEY
+                  name: abcd-ui-secret
+            - name: NEXT_PUBLIC_LAUNCH_DARKLY_CLIENT_SDK_KEY
+              valueFrom:
+                secretKeyRef:
+                  key: NEXT_PUBLIC_LAUNCH_DARKLY_CLIENT_SDK_KEY
+                  name: abcd-ui-secret
+            - name: ENVIRONMENT
+              value: {{ .Values.environment }}
+            - name: VERSION
+              value: {{ .Values.version }}
+            - name: API_HOST
+              value: {{ .Values.apiHost }}
+            - name: NEXT_PUBLIC_SENTRY_DSN
+              value: {{ .Values.sentryDsn }}
+            - name: SENTRY_ORG
+              value: {{ .Values.sentryOrg }}
+            - name: SENTRY_PROJECT
+              value: {{ .Values.sentryProject }}
+            - name: AKAMAI_LOGIN_CALLBACK_URL
+              value: {{ .Values.akamaiLoginCallbackUrl }}
+            - name: AKAMAI_LOGIN_URL
+              value: {{ .Values.akamaiLoginUrl }}
+            - name: AKAMAI_TOKEN_API
+              value: {{ .Values.akamaiTokenApi }}
+            - name: AKAMAI_LOGOUT_API
+              value: {{ .Values.akamaiLogoutApi }}
+            - name: AKAMAI_LOGOUT_CALLBACK_URL
+              value: {{ .Values.akamaiLogoutUrl }}
+            - name: NEXT_PUBLIC_SEGMENT_KEY
+              value: {{ .Values.segmentAnalyticsKey }}
+            - name: SITE_URL
+              value: {{ .Values.siteUrl }}
+            - name: AUTHURL_LOGIN_API
+              value: {{ .Values.authurlLoginApi }}
+            - name: AUTHURL_TOKEN_API
+              value: {{ .Values.authurlTokenApi }}
+            - name: AUTHURL_REVOCATION_API
+              value: {{ .Values.authurlRevocationApi }}
+            - name: AUTHURL_CALLBACK_URL
+              value: {{ .Values.authurlCallbackUrl }}
+
+          name: {{ .Chart.Name }}
+          image: {{ .Values.image }}
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: webserver
+              containerPort: {{ .Values.port }}
+          livenessProbe:
+            httpGet:
+              path: /api/healthz
+              port: webserver
+            initialDelaySeconds: 3 # The liveness probe starts after 3 seconds
+            periodSeconds: 6
+          readinessProbe:
+            httpGet:
+              path: /api/healthz
+              port: webserver
+            initialDelaySeconds: 6 # The readiness probe starts after 6 seconds
+            periodSeconds: 6
+          resources:
+            limits:
+              cpu: {{ .Values.cpuLimit }}
+              memory: {{ .Values.memoryLimit }}
+            requests:
+              cpu: {{ .Values.cpuRequest }}
+              memory: {{ .Values.memoryRequest }}
+          securityContext:
+            allowPrivilegeEscalation: false
+      securityContext:
+        runAsUser: {{ .Values.appUser }}

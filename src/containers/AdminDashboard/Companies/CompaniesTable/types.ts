@@ -1,0 +1,6 @@
+export enum CompanyDisplayStatus {
+  PENDING = 'PENDING',
+  ACTIVE = 'ACTIVE',
+  PENDING_USER_ACTIVATION = 'PENDING_USER_ACTIVATION',
+  VETOED = 'VETOED',
+}

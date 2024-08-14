@@ -1,0 +1,13 @@
+{
+  "extends": "./src/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "public/*": ["../public/*"]
+    },
+    "jsx": "preserve"
+  },
+  "moduleNameMapper": {
+    "\\.svg$": "<rootDir>/__mocks__/svgrMock.js"
+  }
+}

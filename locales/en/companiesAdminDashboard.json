@@ -1,0 +1,37 @@
+{
+  "companies-dashboard-heading": "Companies dashboard",
+  "companies-dashboard-subtitle": "Use the table below to manage companies",
+
+  "companies-table-header-company": "company name",
+  "companies-table-header-country": "country",
+  "companies-table-header-user-details": "user details",
+  "companies-table-header-account-manager": "Account Manager",
+  "companies-table-header-status": "status",
+  "companies-table-header-actions": "actions",
+
+  "status-ACTIVE": "Active",
+  "status-PENDING_USER_ACTIVATION": "Pending user activation",
+  "status-INVITATION_DECLINED": "Invitation declined",
+  "status-VETOED": "Vetoed",
+  "status-PENDING": "Pending since",
+
+  "approve-company-confirmation-title": "Approve company",
+  "approve-company-confirmation-text[0]": "By approving <b>{{ name }}</b>, they will be able to finish their registration process and join the Hub. Are you sure you want to approve this company? ",
+  "approve-company-confirmation-text[1]": "This action and cannot be undone.",
+  "confirm-approve-company": "Yes, approve",
+  "cancel-approve-company": "No, cancel",
+  "veto-company-confirmation-title": "Veto company",
+  "veto-company-confirmation-text[0]": "By vetoing <b>{{ name }}</b>, they won’t be able to finish their registration process and <b>they will not be able to join the Hub while their status is vetoed</b>. Are you sure you want to veto this company? ",
+  "veto-company-confirmation-text[1]": "This action and cannot be undone.",
+  "confirm-veto-company": "Yes, veto",
+  "cancel-veto-company": "No, cancel",
+
+  "ADMIN": "Admin",
+  "ACCOUNT_MANAGER": "Account Manager",
+  "SUPPLIER_EDITOR": "Editor",
+  "SUPPLIER_VIEWER": "Viewer",
+
+  "users": "users",
+  "user-details": "Users details",
+  "company-has-users": "{{company}} has {{userCount}} users linked to their account"
+}

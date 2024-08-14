@@ -1,0 +1,1459 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`emissions utils getTargetData() when offsets are included when scope 1 and 2 and scope 3 targets have been defined should return data for AGGRESSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 17143,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 60000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 14884,
+    "scope3TargetEmission": 35019,
+    "totalTargetEmission": 49903,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 13948,
+    "scope3TargetEmission": 31772,
+    "totalTargetEmission": 45720,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 13231,
+    "scope3TargetEmission": 29281,
+    "totalTargetEmission": 42512,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 12625,
+    "scope3TargetEmission": 27181,
+    "totalTargetEmission": 39806,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 12092,
+    "scope3TargetEmission": 25330,
+    "totalTargetEmission": 37422,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 11610,
+    "scope3TargetEmission": 23658,
+    "totalTargetEmission": 35268,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 11167,
+    "scope3TargetEmission": 22119,
+    "totalTargetEmission": 33286,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 10754,
+    "scope3TargetEmission": 20687,
+    "totalTargetEmission": 31441,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10367,
+    "scope3TargetEmission": 19343,
+    "totalTargetEmission": 29710,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 18071,
+    "totalTargetEmission": 28071,
+    "year": 2030,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 16861,
+    "totalTargetEmission": 26861,
+    "year": 2031,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 15705,
+    "totalTargetEmission": 25705,
+    "year": 2032,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 14596,
+    "totalTargetEmission": 24596,
+    "year": 2033,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 13529,
+    "totalTargetEmission": 23529,
+    "year": 2034,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 12500,
+    "totalTargetEmission": 22500,
+    "year": 2035,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are included when scope 1 and 2 and scope 3 targets have been defined should return data for MODERATE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 17143,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 60000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 16429,
+    "scope3TargetEmission": 40833,
+    "totalTargetEmission": 57262,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 15714,
+    "scope3TargetEmission": 38810,
+    "totalTargetEmission": 54524,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 15000,
+    "scope3TargetEmission": 36786,
+    "totalTargetEmission": 51786,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 14286,
+    "scope3TargetEmission": 34762,
+    "totalTargetEmission": 49048,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 13571,
+    "scope3TargetEmission": 32738,
+    "totalTargetEmission": 46309,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 12857,
+    "scope3TargetEmission": 30714,
+    "totalTargetEmission": 43571,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 12143,
+    "scope3TargetEmission": 28690,
+    "totalTargetEmission": 40833,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 11429,
+    "scope3TargetEmission": 26667,
+    "totalTargetEmission": 38096,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10714,
+    "scope3TargetEmission": 24643,
+    "totalTargetEmission": 35357,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 22619,
+    "totalTargetEmission": 32619,
+    "year": 2030,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 20595,
+    "totalTargetEmission": 30595,
+    "year": 2031,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 18571,
+    "totalTargetEmission": 28571,
+    "year": 2032,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 16548,
+    "totalTargetEmission": 26548,
+    "year": 2033,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 14524,
+    "totalTargetEmission": 24524,
+    "year": 2034,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 12500,
+    "totalTargetEmission": 22500,
+    "year": 2035,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are included when scope 1 and 2 and scope 3 targets have been defined should return data for PASSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 17143,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 60000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 17071,
+    "scope3TargetEmission": 42722,
+    "totalTargetEmission": 59793,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 16857,
+    "scope3TargetEmission": 42317,
+    "totalTargetEmission": 59174,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 16500,
+    "scope3TargetEmission": 41643,
+    "totalTargetEmission": 58143,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 16000,
+    "scope3TargetEmission": 40698,
+    "totalTargetEmission": 56698,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 15357,
+    "scope3TargetEmission": 39484,
+    "totalTargetEmission": 54841,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 14571,
+    "scope3TargetEmission": 38000,
+    "totalTargetEmission": 52571,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 13643,
+    "scope3TargetEmission": 36246,
+    "totalTargetEmission": 49889,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 12571,
+    "scope3TargetEmission": 34222,
+    "totalTargetEmission": 46793,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 11357,
+    "scope3TargetEmission": 31929,
+    "totalTargetEmission": 43286,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 29365,
+    "totalTargetEmission": 39365,
+    "year": 2030,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 26532,
+    "totalTargetEmission": 36532,
+    "year": 2031,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 23429,
+    "totalTargetEmission": 33429,
+    "year": 2032,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 20056,
+    "totalTargetEmission": 30056,
+    "year": 2033,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 16413,
+    "totalTargetEmission": 26413,
+    "year": 2034,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 12500,
+    "totalTargetEmission": 22500,
+    "year": 2035,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are included when scope 3 emission has not been defined should return data for AGGRESSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are included when scope 3 emission has not been defined should return data for MODERATE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are included when scope 3 emission has not been defined should return data for PASSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are included when scope 3 target has not been set should return data for AGGRESSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 17143,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 60000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 14884,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 57741,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 13948,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 56805,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 13231,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 56088,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 12625,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 55482,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 12092,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 54949,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 11610,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 54467,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 11167,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 54024,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 10754,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 53611,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10367,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 53224,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 52857,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are included when scope 3 target has not been set should return data for MODERATE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 17143,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 60000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 16429,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 59286,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 15714,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 58571,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 15000,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 57857,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 14286,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 57143,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 13571,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 56428,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 12857,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 55714,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 12143,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 55000,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 11429,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 54286,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10714,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 53571,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 52857,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are included when scope 3 target has not been set should return data for PASSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 17143,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 60000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 17071,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 59928,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 16857,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 59714,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 16500,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 59357,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 16000,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 58857,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 15357,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 58214,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 14571,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 57428,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 13643,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 56500,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 12571,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 55428,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 11357,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 54214,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 42857,
+    "totalTargetEmission": 52857,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 1 and 2 and scope 3 targets have been defined should return data for AGGRESSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 70000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 16838,
+    "scope3TargetEmission": 40318,
+    "totalTargetEmission": 57156,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 15528,
+    "scope3TargetEmission": 36307,
+    "totalTargetEmission": 51835,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 14523,
+    "scope3TargetEmission": 33229,
+    "totalTargetEmission": 47752,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 13675,
+    "scope3TargetEmission": 30635,
+    "totalTargetEmission": 44310,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 12929,
+    "scope3TargetEmission": 28349,
+    "totalTargetEmission": 41278,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 12254,
+    "scope3TargetEmission": 26283,
+    "totalTargetEmission": 38537,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 11633,
+    "scope3TargetEmission": 24383,
+    "totalTargetEmission": 36016,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 11056,
+    "scope3TargetEmission": 22614,
+    "totalTargetEmission": 33670,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10513,
+    "scope3TargetEmission": 20953,
+    "totalTargetEmission": 31466,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 19381,
+    "totalTargetEmission": 29381,
+    "year": 2030,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 17887,
+    "totalTargetEmission": 27887,
+    "year": 2031,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 16459,
+    "totalTargetEmission": 26459,
+    "year": 2032,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 15089,
+    "totalTargetEmission": 25089,
+    "year": 2033,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 13772,
+    "totalTargetEmission": 23772,
+    "year": 2034,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 12500,
+    "totalTargetEmission": 22500,
+    "year": 2035,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 1 and 2 and scope 3 targets have been defined should return data for MODERATE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 70000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 19000,
+    "scope3TargetEmission": 47500,
+    "totalTargetEmission": 66500,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 18000,
+    "scope3TargetEmission": 45000,
+    "totalTargetEmission": 63000,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 17000,
+    "scope3TargetEmission": 42500,
+    "totalTargetEmission": 59500,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 16000,
+    "scope3TargetEmission": 40000,
+    "totalTargetEmission": 56000,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 15000,
+    "scope3TargetEmission": 37500,
+    "totalTargetEmission": 52500,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 14000,
+    "scope3TargetEmission": 35000,
+    "totalTargetEmission": 49000,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 13000,
+    "scope3TargetEmission": 32500,
+    "totalTargetEmission": 45500,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 12000,
+    "scope3TargetEmission": 30000,
+    "totalTargetEmission": 42000,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 11000,
+    "scope3TargetEmission": 27500,
+    "totalTargetEmission": 38500,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 25000,
+    "totalTargetEmission": 35000,
+    "year": 2030,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 22500,
+    "totalTargetEmission": 32500,
+    "year": 2031,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 20000,
+    "totalTargetEmission": 30000,
+    "year": 2032,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 17500,
+    "totalTargetEmission": 27500,
+    "year": 2033,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 15000,
+    "totalTargetEmission": 25000,
+    "year": 2034,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 12500,
+    "totalTargetEmission": 22500,
+    "year": 2035,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 1 and 2 and scope 3 targets have been defined should return data for PASSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 70000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 19900,
+    "scope3TargetEmission": 49833,
+    "totalTargetEmission": 69733,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 19600,
+    "scope3TargetEmission": 49333,
+    "totalTargetEmission": 68933,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 19100,
+    "scope3TargetEmission": 48500,
+    "totalTargetEmission": 67600,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 18400,
+    "scope3TargetEmission": 47333,
+    "totalTargetEmission": 65733,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 17500,
+    "scope3TargetEmission": 45833,
+    "totalTargetEmission": 63333,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 16400,
+    "scope3TargetEmission": 44000,
+    "totalTargetEmission": 60400,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 15100,
+    "scope3TargetEmission": 41833,
+    "totalTargetEmission": 56933,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 13600,
+    "scope3TargetEmission": 39333,
+    "totalTargetEmission": 52933,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 11900,
+    "scope3TargetEmission": 36500,
+    "totalTargetEmission": 48400,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 33333,
+    "totalTargetEmission": 43333,
+    "year": 2030,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 29833,
+    "totalTargetEmission": 39833,
+    "year": 2031,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 26000,
+    "totalTargetEmission": 36000,
+    "year": 2032,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 21833,
+    "totalTargetEmission": 31833,
+    "year": 2033,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 17333,
+    "totalTargetEmission": 27333,
+    "year": 2034,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 12500,
+    "totalTargetEmission": 22500,
+    "year": 2035,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 3 emission has not been defined should return data for AGGRESSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 20000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 16838,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 16838,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 15528,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 15528,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 14523,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 14523,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 13675,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 13675,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 12929,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 12929,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 12254,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 12254,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 11633,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 11633,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 11056,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 11056,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10513,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10513,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 3 emission has not been defined should return data for MODERATE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 20000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 19000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 19000,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 18000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 18000,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 17000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 17000,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 16000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 16000,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 15000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 15000,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 14000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 14000,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 13000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 13000,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 12000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 12000,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 11000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 11000,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 3 emission has not been defined should return data for PASSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 20000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 19900,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 19900,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 19600,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 19600,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 19100,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 19100,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 18400,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 18400,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 17500,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 17500,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 16400,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 16400,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 15100,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 15100,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 13600,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 13600,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 11900,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 11900,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 0,
+    "totalTargetEmission": 10000,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 3 target has not been set should return data for AGGRESSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 70000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 16838,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 66838,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 15528,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 65528,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 14523,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 64523,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 13675,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 63675,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 12929,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 62929,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 12254,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 62254,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 11633,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 61633,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 11056,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 61056,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 10513,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 60513,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 60000,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 3 target has not been set should return data for MODERATE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 70000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 19000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 69000,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 18000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 68000,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 17000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 67000,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 16000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 66000,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 15000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 65000,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 14000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 64000,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 13000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 63000,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 12000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 62000,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 11000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 61000,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 60000,
+    "year": 2030,
+  },
+]
+`;
+
+exports[`emissions utils getTargetData() when offsets are not included when scope 3 target has not been set should return data for PASSIVE strategy 1`] = `
+[
+  {
+    "scope1And2TargetEmission": 20000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 70000,
+    "year": 2020,
+  },
+  {
+    "scope1And2TargetEmission": 19900,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 69900,
+    "year": 2021,
+  },
+  {
+    "scope1And2TargetEmission": 19600,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 69600,
+    "year": 2022,
+  },
+  {
+    "scope1And2TargetEmission": 19100,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 69100,
+    "year": 2023,
+  },
+  {
+    "scope1And2TargetEmission": 18400,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 68400,
+    "year": 2024,
+  },
+  {
+    "scope1And2TargetEmission": 17500,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 67500,
+    "year": 2025,
+  },
+  {
+    "scope1And2TargetEmission": 16400,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 66400,
+    "year": 2026,
+  },
+  {
+    "scope1And2TargetEmission": 15100,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 65100,
+    "year": 2027,
+  },
+  {
+    "scope1And2TargetEmission": 13600,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 63600,
+    "year": 2028,
+  },
+  {
+    "scope1And2TargetEmission": 11900,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 61900,
+    "year": 2029,
+  },
+  {
+    "scope1And2TargetEmission": 10000,
+    "scope3TargetEmission": 50000,
+    "totalTargetEmission": 60000,
+    "year": 2030,
+  },
+]
+`;

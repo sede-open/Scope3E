@@ -1,0 +1,32 @@
+export const testimonialData = [
+  {
+    testimonialId: 'testimonial[0]',
+    imagePath: '/images/PublicSite/Testimonials/Testimonial[0].png',
+    imageTitle: 'testimonial[0]',
+    testimonialContent: 'testimonial[0]-content',
+    testimonialSpeaker: 'testimonial[0]-speaker',
+    testimonialSpeakerDesignation: 'testimonial[0]-speaker-designation',
+    companyLogoPath: '/images/PublicSite/Testimonials/Logo[0].png',
+    companyLogoAltText: 'testimonial[0]-company-logo-alt-text',
+  },
+  {
+    testimonialId: 'testimonial[1]',
+    imagePath: '/images/PublicSite/Testimonials/Testimonial[1].png',
+    imageTitle: 'testimonial[1]',
+    testimonialContent: 'testimonial[1]-content',
+    testimonialSpeaker: 'testimonial[1]-speaker',
+    testimonialSpeakerDesignation: 'testimonial[1]-speaker-designation',
+    companyLogoPath: '/images/PublicSite/Testimonials/Logo[1].png',
+    companyLogoAltText: 'testimonial[1]-company-logo-alt-text',
+  },
+  {
+    testimonialId: 'testimonial[2]',
+    imagePath: '/images/PublicSite/Testimonials/Testimonial[2].png',
+    imageTitle: 'testimonial[2]',
+    testimonialContent: 'testimonial[2]-content',
+    testimonialSpeaker: 'testimonial[2]-speaker',
+    testimonialSpeakerDesignation: 'testimonial[2]-speaker-designation',
+    companyLogoPath: '/images/PublicSite/Testimonials/Logo[2].png',
+    companyLogoAltText: 'testimonial[2]-company-logo-alt-text',
+  },
+];

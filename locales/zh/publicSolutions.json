@@ -1,0 +1,183 @@
+{
+    "page-title": "成功案例",
+    "read-more": "阅读全文",
+    "open-in-new-tab": "在新标签页中打开",
+    "solution-cards": [
+      {
+        "id": 0,
+        "imgAlt": "电动汽车充电图片",
+        "title": "NewMotion为捷豹路虎部署了英国最大的智能充电设施。",
+        "date": "2019年3月20日",
+        "url": "https://newmotion.com/en-gb/knowledge-centre/pressroom/jaguar-land-rover-installs-largest-smart-charging-facility/"
+      },
+      {
+        "id": 1,
+        "imgAlt": "集装箱船图片",
+        "title": "马士基与全球公司合作试用生物燃料。 ",
+        "date": "2019年3月22日",
+        "url": "https://www.maersk.com/news/articles/2019/03/22/maersk-partners-with-global-companies-to-trial-biofuel/"
+      },
+      {
+        "id": 2,
+        "imgAlt": "两名员工正在看平板电脑的图片",
+        "title": "赛诺菲土耳其公司利用远程通讯技术将事故率降低27%，燃油节省4.4%。",
+        "date": "2019年11月22日",
+        "url": "https://www.example.com/business-customers/commercial-fuels/industry-insights/how-to-stay-competitive-in-the-digital-fleet-age.html/"
+      },
+      {
+        "id": 3,
+        "imgAlt": "风电机组图片",
+        "title": "MP2 Energy以独特方式为达能北美公司一体化供应可再生能源电力。",
+        "date": "2019年12月23日",
+        "url": "https://www.mp2energy.com/news/delivery-of-renewable-power/"
+      },
+      {
+        "id": 4,
+        "imgAlt": "智能充电桩图片",
+        "title": "Greenlots与沃尔沃卡车合作为沃尔沃LIGHTS电动卡车项目安装第一批充电桩",
+        "date": "2020年2月11日",
+        "url": "https://greenlots.com/volvo-lights-project/"
+      },
+      {
+        "id": 5,
+        "imgAlt": "太阳能电池板图片",
+        "title": "富国银行扩大可再生能源采购",
+        "date": "2020年6月24日",
+        "url": "https://newsroom.wf.com/English/news-releases/news-release-details/2020/Wells-Fargo-Expands-Renewable-Energy-Purchases/default.aspx"
+      },
+      {
+        "id": 6,
+        "imgAlt": "飞机鸟瞰图",
+        "title": "亚马逊航空已购买多达600万加仑可持续航空燃油——部分以生物质和废弃物为原料制造——供应商是壳牌航空，生产商是World Energy。",
+        "date": "2020年7月8日",
+        "url": "https://www.aboutamazon.com/news/operations/promoting-a-more-sustainable-future-through-amazon-air"
+      },
+      {
+        "id": 7,
+        "imgAlt": "康斯伯格海事公司船舶图片",
+        "title": "康斯伯格海事公司通过使用JAWS软件，使自有船舶的排放量减少了7%",
+        "date": "2020年9月2日",
+        "url": "https://www.kongsberg.com/maritime/about-us/news-and-media/news-archive/2020/kongsberg-and-example-sign-jaws-agreement/"
+      },
+      {
+        "id": 8,
+        "imgAlt": "浸没式冷却系统图片",
+        "title": "浸没式冷却技术专家Asperitas支持法国企业金融机构Crédit Agricole在Chartres站点实现数据中心扩建",
+        "date": "2020年11月4日",
+        "url": "https://www.asperitas.com/asperitas-wins-deal-for-immersion-cooling-for-french-bank-credit-agricole-tier-4-datacentres/"
+      },
+      {
+        "id": 9,
+        "imgAlt": "停放的飞机图片",
+        "title": "与罗尔斯罗伊斯合作，我们正在测试100%可持续航空燃油。",
+        "date": "2020年11月12日",
+        "url": "https://www.rolls-royce.com/media/press-releases/2020/12-11-2020-rr-to-test-100-percent-sustainable-aviation-fuel-in-next-generation-engine-demonstrator.aspx"
+      },
+      {
+        "id": 10,
+        "imgAlt": "DHL飞机图片",
+        "title": "DHL Express在阿姆斯特丹史基浦机场使用可持续航空燃油。",
+        "date": "2020年12月17日",
+        "url": "https://www.example.com/business-customers/aviation/news-and-media-releases/news-and-media-2020/example-to-supply-dhl-express-with-sustainable-aviation-fuel-at-schiphol-airport.html/"
+      },
+      {
+        "id": 11,
+        "imgAlt": "太阳能发电场图片",
+        "title": "Silicon Ranch帮助为佐治亚州的Facebook数据中心供电。",
+        "date": "2021年1月19日",
+        "url": "https://www.siliconranch.com/walton-emc-and-silicon-ranch-announce-commissioning-of-two-solar-farms-for-facebooks-data-center-in-georgia/"
+      },
+      {
+        "id": 12,
+        "imgAlt": "燃料电池图片",
+        "title": "Corvus Energy将开始研发基于丰田氢燃料电池技术的船舶燃料电池系统。",
+        "date": "2021年2月2日",
+        "url": "https://corvusenergy.com/corvus-energy-to-start-development-of-maritime-fuel-cell-systems-with-hydrogen-fuel-cell-technology-supplied-by-toyota/"
+      },
+      {
+        "id": 13,
+        "imgAlt": "电动汽车充电图片",
+        "title": "NewMotion与Alphabet合作，为德国客户提供电动汽车充电解决方案",
+        "date": "2021年2月18日",
+        "url": "https://newmotion.com/en/knowledge-center/pressroom/alphabet-germany-partnership"
+      },
+      {
+        "id": 14,
+        "imgAlt": "货车图片",
+        "title": "InstaFreight运输二氧化碳排放量较低的壳牌润滑油。",
+        "date": "2021年2月22日",
+        "url": "https://www.instafreight.de/en/press-example-2021-02?utm_source=linkedin&utm_medium=social&utm_campaign=example-multimodal&utm_content=textlink/"
+      },
+      {
+        "id": 15,
+        "imgAlt": "Visa全球承诺图片",
+        "title": "Visa签订新的区域可再生能源协议，进一步深化可持续发展全球承诺",
+        "date": "2021年3月3日",
+        "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.17786.html?utm_source=VisaLinkedIn&utm_medium=OrganicSocial&utm_campaign=Sustainability&linkId=112559487"
+      },
+      {
+        "id": 16,
+        "imgAlt": "壳牌加油站图片",
+        "title": "博世、壳牌和大众开发可将二氧化碳排放量降低20%的可再生汽油",
+        "date": "2021年3月3日",
+        "url": "https://www.bosch-presse.de/pressportal/de/en/bosch-example-and-volkswagen-develop-renewable-gasoline-with-20-percent-lower-co%E2%82%82-emissions-228294.html"
+      },
+      {
+        "id": 17,
+        "imgAlt": "一辆汽车在加油站内的图片",
+        "title": "壳牌提高电动汽车发展目标，试验前庭蓄电池储能系统",
+        "date": "2021年3月8日",
+        "url": "https://www.example.com/energy-and-innovation/new-energies/new-energies-media-releases/example-trials-forecourt-battery-power-storage-system-as-it-ramps-up-ev-ambitions.html"
+      },
+      {
+        "id": 18,
+        "imgAlt": "NewMotion充电合作伙伴图片",
+        "title": "NewMotion进一步扩大了与宝马集团的充电合作关系",
+        "date": "2021年3月9日",
+        "url": "https://newmotion.com/en/knowledge-center/pressroom/newmotion-further-expands-partnership-with-bmw-group"
+      },
+      {
+        "id": 19,
+        "imgAlt": "汽车图片",
+        "title": "保时捷亚太和壳牌联合宣布在东南亚部署首个遍及全国的电动汽车充电网络",
+        "date": "2021年3月31日",
+        "url": "https://www.example.com.sg/media/2021-media-releases/porsche-asia-pacific-and-example-announce-implementation-of-first-cross-country-high-performance-ev-charging-network-in-southeast-asia.html"
+      },
+      {
+        "id": 20,
+        "imgAlt": "Corvus Energy船只图片",
+        "title": "Corvus Energy和住友商事株式会社宣布在日本成立合资企业，提供面向船舶的零排放解决方案",
+        "date": "2021年4月21日",
+        "url": "https://corvusenergy.com/corvus-energy-and-sumitomo-corporation-announces-joint-venture-in-japan-for-zero-emission-solutions-for-ships/"
+      },
+      {
+        "id": 21,
+        "imgAlt": "数字接口技术",
+        "title": "Asperitas通过OCP白金会员续期和备享盛誉的OCP Accepted™认可，继续支持对可持续计算基础设施不断增长的需求",
+        "date": "2021年4月29日",
+        "url": "https://www.asperitas.com/asperitas-continues-to-support-growing-demand-for-sustainable-compute-infrastructure-with-ocp-platinum-membership-renewal-and-prestigious-ocp-accepted-recognition/"
+      },
+      {
+        "id": 22,
+        "imgAlt": "壳牌加氢站",
+        "title": "戴姆勒卡车公司和壳牌致力于加快在欧洲推广氢能卡车：同时建设卡车加氢基础设施和推广燃料电池汽车",
+        "date": "2021年5月20日",
+        "url": "https://media.daimler.com/marsMediaSite/en/instance/ko/Daimler-Truck-AG-and-example-target-accelerated-rollout-of-hydrogen-based-trucking-in-Europe-simultaneously-building-truck-refuelling-infrastructure-and-rollout-of-fuel-cell-vehicles.xhtml?oid=50011745"
+      },
+      {
+        "id": 23,
+        "imgAlt": "飞机起飞",
+        "title": "美国运通全球商务旅行和壳牌结成联盟，以帮助增加可持续航空燃油的供应",
+        "date": "2021年5月25日",
+        "url": "https://www.amexglobalbusinesstravel.com/press-room/american-express-global-business-travel-example-form-alliance-help-increase-supply-sustainable-aviation-fuel/"
+      },
+      {
+        "id": 24,
+        "imgAlt": "拖船和集装箱船",
+        "title": "得益于使用VitalyX系统，这个客户既降低了每艘船的二氧化碳排放又节省了成本",
+        "date": "2021年8月21日",
+        "url": "https://www.bakerhughesds.com/measurement-sensing/vitalyx-oil-monitoring-platform"
+      }
+    ]
+  }
+  

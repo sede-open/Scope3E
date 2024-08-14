@@ -1,0 +1,26 @@
+{
+  "error-required": "必填字段",
+  "error-less-than-billion": "最大值是10亿",
+  "error-less-than-trillion": "最大值是1万亿",
+  "error-validate-external-email": "无法添加壳牌电子邮件",
+  "error-max-percentage": "百分比不得超过100%",
+  "error-pattern": "必须是有效的电子邮件地址",
+  "error-large-file": "所选文件太大",
+  "error-wrong-media-type": "不支持所选文件类型",
+  "error-max-length": "已达到最大字符数",
+  "year-select-from-prefix": "发件人：",
+  "year-select-to-prefix": "收件人：",
+  "min-2-characters": "需要至少2个字符",
+  "max-255-characters": "不超过225个字符",
+
+  "include-carbon-offset-error-required": "请选择减排目标抵消选项",
+  "strategy-error-required": "请选择策略类型",
+  "scope-3-reduction-required": "若想添加范围3减排，则必填此字段",
+  "form-no-results": "查找无果",
+  "more-than-1": "最小值是1",
+  "minimum-length": "必需的最小字符数是 {{ length }}",
+  "less-than-hundred-million": "最大值是100,000,000",
+  "less-than-hundred": "最大值是100",
+  "less-than-billion": "最大值为 1,000,000,000",
+  "positive-number-required": "请输入正数"
+}

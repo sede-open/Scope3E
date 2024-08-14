@@ -1,0 +1,91 @@
+{
+    "baseline-select-title": "选择您的基准年份",
+    "baseline-select-subtitle": "基准年份是您开始跟踪减排的起始点或年份。因此，选择2020年作为基准年份，即以2020年为基准来衡量2021年、2022年等等，以确定所实现的减排水平。",
+    "baseline-select-label": "基准年份",
+  
+    "scope-1-select-title": "选择您的范围1排放源",
+    "scope-1-select-subtitle": "范围1排放是由您的组织控制的或自有的直接排放源",
+  
+    "stationary-mobile-combustion-title": "固定和移动设备的燃料燃烧",
+    "stationary-mobile-combustion-subtitle": "交通工具（如汽车、卡车、飞机和船只）和固定设备（如锅炉、熔炉、涡轮机）的燃料消耗量。",
+    "industrial-processes-title": "工业过程和制冷剂排放",
+    "industrial-processes-subtitle": "工业过程和现场制造（如水泥生产）释放的排放物或制冷剂泄漏。",
+    "purchased-electricity-title": "外购电力",
+    "purchased-electricity-subtitle": "从当地电力公司外购的电力（不由现场燃料燃烧产生）。",
+    "purchased-heat-cooling-title": "外购供热、供冷和蒸汽",
+    "purchased-heat-cooling-subtitle": "外购供热、供冷和蒸汽，用于控制室内温湿度、加热水和机械供能，或直接作为工艺介质。",
+  
+    "scope-2-select-title": "选择您的范围2排放源",
+    "scope-2-select-subtitle": "范围2间接排放来自您所使用的外购电力、蒸汽、供热和供冷。这些排放发生在不属于您拥有或控制的排放源",
+  
+    "data-needed-title": "为了开启脱碳之旅，您需要知道什么 ",
+    "data-needed-subtitle": "开始之前，务必确保您拥有所有必要的数据。您不能半途进行保存。",
+  
+    "data-needed-fuels": " {{ year }} 中的燃料类型（升）",
+    "data-needed-refrigirants": " {{ year }} 中使用的制冷剂（公斤）",
+    "data-needed-process": " {{ year }} 中的工艺过程排放（吨二氧化碳当量）",
+    "data-needed-electricity": "{{ year }} 中的外购电力，不同国别（千瓦时）",
+    "data-needed-heat-cooling": "{{ year }} 中的外购供热和蒸汽，不同国别（千瓦时）",
+  
+    "combustion-title": "固定和移动设备的燃料燃烧",
+    "combustion-subtitle": "属于范围1排放，指贵公司自有的或租赁的交通工具（如汽车、卡车、飞机和船只）以及固定设备（如锅炉、熔炉、涡轮机）的燃料消耗量。",
+    "combustion-total-name": "固定和移动设备的燃料燃烧排放总量",
+    "combustion-total-description": "燃料燃烧产生的排放量的估算方法是，所选燃料排放系数乘以燃料量。",
+    "combustion-total-read-more-link-text": "进一步了解燃料系数。",
+    "combustion-total-read-more-link-url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891106/Conversion_Factors_2020_-_Full_set__for_advanced_users_.xlsx",
+  
+    "summary-title": "总排放量估算",
+    "summary-subtitle": "从这个工具得出的数据仅为估算值，不构成我们作出任何形式的推荐、建议或保证。",
+    "data-verification": "数据验证",
+    "data-verification-info": "这不是合规或数据保证工具。我们不向您和/或贵公司提供任何咨询或保证服务。您需要由独立注册咨询师来验证评估结果。所提供的数据可以由具备现行的ISO 14065认证或同等认证的组织给予保证。",
+    "summary-scope1": "范围1",
+    "summary-scope2": "范围2",
+    "summary-combustion": "固定和移动设备的燃料燃烧",
+    "summary-process-refrigerants": "过程和制冷剂排放",
+    "summary-electricity": "外购电力",
+    "summary-heat-cooling-steam": "外购供热、供冷和蒸汽",
+    "summary-total-emissions": " {{ year }} 中的总排放量",
+  
+    "process-refrigerant-title": "过程和制冷剂排放",
+    "process-refrigerant-subtitle": "属于范围1排放，工艺过程排放是指接头、密封件、包装等处发生的设备泄漏，以及废物等产生的逃逸性排放，还有物理或化学过程中的工艺排放，如水泥制造中的煅烧工艺产生的CO2（二氧化碳）等。",
+    "process-refrigerant-total-name": "过程和制冷剂排放总量",
+    "process-refrigerant-total-description": "工业过程和制冷剂产生的排放量的估算方法是，所选气体类型的排放系数乘以气体排放量。",
+    "process-refrigerant-total-read-more-link-text": "进一步了解气体工艺和制冷剂排放系数。",
+    "process-refrigerant-total-read-more-link-url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/891106/Conversion_Factors_2020_-_Full_set__for_advanced_users_.xlsx",
+  
+    "electricity-title": "外购电力",
+    "electricity-subtitle": "属于范围2排放，从当地公用事业公司外购的电力及其他能源（不来自现场燃料燃烧）。",
+    "electricity-total-name": "外购电力排放总量",
+    "electricity-total-description": "外购电力产生的排放量的估算方法是，所选电网排放系数乘以电量。",
+  
+    "heat-cooling-title": "外购供热、供冷和蒸汽",
+    "heat-cooling-subtitle": "属于范围2排放，外购供热、供冷和蒸汽是工业过程的重要能源。供热和供冷可用于控制室内温湿度和改变水温。蒸汽用于做机械作业或直接用作工艺介质。",
+    "heat-cooling-total-name": "外购供热和蒸汽排放总量",
+    "heat-cooling-total-description": "外购供热和蒸汽产生的排放量的估算方法是，购得电力乘以平均排放系数。自定义电网排放系数可从当地电力公司获取。",
+  
+    "gridtype-electricity-LOCATION": "按国家",
+    "gridtype-electricity-meta-LOCATION": "如果您不知道当地电力公司的电网排放系数，则使用此选项。我们将使用国家电网排放系数来替代。",
+    "gridtype-electricity-CUSTOM": "定制值单位：每公斤二氧化碳当量/千瓦时",
+    "gridtype-electricity-meta-CUSTOM": "如果当地电力公司的电网排放系数与国家电网不同，则使用此选项。譬如，当您外购的是可再生能源电力时。",
+    "gridtype-heat-cooling-DEFRA": "DEFRA",
+    "gridtype-heat-cooling-meta-DEFRA": "如果您不知道当地电力公司的电网排放系数，则使用此选项。我们将使用DEFRA的国家电网排放系数来替代。",
+    "gridtype-heat-cooling-CUSTOM": "定制值单位：每公斤二氧化碳当量/千瓦时",
+    "gridtype-heat-cooling-meta-CUSTOM": "如果有其它的供应商特定数据可用，并且这些数据是基于该组织的特定基础设施的真实燃料混合情况，则应使用这些数据来替代。",
+    "type-of-fuel": "燃料类型",
+    "type-of-gas": "燃气类型",
+    "grid-factor": "电网排放系数 ",
+    "amount": "量",
+    "add-fuel-type": "添加另一种燃料类型",
+    "add-emission-type": "添加另一种排放类型",
+    "add-source": "添加另一种排放源",
+  
+    "cancel-confirmation-title": "您确定要取消？",
+    "cancel-confirmation-text": "您的进度不会保存，此操作无法撤消。",
+    "cancel-confirmation-cancel": "不，返回",
+    "cancel-confirmation-confirm": "是，取消",
+  
+    "inexperienced-flow-add-actual-emission-title": "添加新的排放量",
+    "inexperienced-flow-add-actual-emission-select-year": "提交年份"
+  
+}
+  

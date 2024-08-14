@@ -1,0 +1,47 @@
+{
+    "baseline-new-title": "基准年份数据",
+    "baseline-new-subtitle": "请与我们分享您的信息",
+    "baseline-year": "您的基准年份",
+    "scope1-label": "范围1排放",
+    "scope2-label": "范围2排放",
+    "scope3-label": "范围3排放",
+    "offset-label": "碳抵消",
+    "example-percentage-label": "与壳牌有关的碳排放量（%）",
+    "example-headcount-label": "员工数量",
+    "validation-label": "经ISO 14065认证咨询师核验的数据？",
+    "validation-checkbox-yes": "是",
+    "validation-checkbox-no": "否",
+    "net-emissions-label": "与壳牌有关的净排放量估算值",
+  
+    "actual-new-title": "添加新的排放量",
+    "actual-new-subtitle": "随后您可以根据需要随时编辑数据",
+    "actual-new-year": "提交年份",
+    "actual-new-subtitle-inexperienced-flow": "选择更符合您的情况的路径",
+  
+    "actual-edit-title": "编辑排放量",
+    "actual-edit-subtitle": "随后您可以根据需要随时编辑数据",
+    "actual-edit-year": "选择要编辑的年份",
+    "actual-save": "保存排放量数据",
+  
+    "baseline-edit-title": "编辑基准年份数据",
+    "baseline-edit-subtitle": "随后您可以根据需要随时编辑数据",
+    "baseline-edit-year": "您的基准年份",
+    "baseline-save": "保存基准数据",
+  
+    "scope-one-tooltip": "自有或控制的排放源头产生的直接排放，包括现场燃烧燃料如燃气炉、车队车辆和空调泄漏。",
+    "scope-two-tooltip": "外购能源在其生产过程中产生的间接排放。我们认为基于市场的方法优于基于地点的方法（有关这些方法的更多信息，请参见温室气体核算体系）。",
+    "scope-three-tooltip": "公司的价值链上产生的所有间接排放量（不含在范围2内的） 这些通常占碳足迹的最大份额，包括与商务旅行、采购、废物和水等相关的排放量。",
+    "offset-tooltip": "按照温室气体核算体系：“抵消量是用于补偿（即抵消）其他地方的温室气体排放量的单独的温室气体减排量。抵消量的计算是相对于基准数据，基准数据代表了在没有减排项目产生抵消的情况下的假设排放情景。” 譬如，有多种不同项目适于在壳牌的全球业务组合中产生碳抵消，包括自然保护、重新造林和植树造林等项目。高质量抵消来自经国际公认标准机构（包括第三方独立审计机构）认证的项目。譬如，我们使用的碳信用标准机构有：Verra、美国碳注册（American Carbon Registry）、黄金标准（Gold Standard）、中国核证自愿减排量（CCER）计划。",
+    "percentage-tooltip": "可通过多种方法来分配贵公司的排放量。大多数供应商都采用经济（如营收）或产销量（千米/公吨）方法。若想进一步了解贵公司适用的合理分配方法，请参见温室气体核算体系。",
+    "headcount-tooltip": "输入员工总数是可选项，可以随时输入或更改。这样一来，您就可以比较碳强度随时间而变化的情况。您最有可能在人力资源或财务部门找到这些数值。",
+    "scope2-market-type": "市场",
+    "scope2-location-type": "地点",
+    "verification-file-label": "独立验证",
+    "verification-file-description[0]": "提交按公认标准输入的温室气体排放量证明。",
+    "verification-file-description[1]": "单击此处，查看示例。",
+    "verification-file-description[2]": "支持PDF格式，不超过20 MB",
+    "verification-file-description-link": "https://www.goldmansachs.com/our-commitments/sustainability/sustainable-finance/documents/carbon-emissions-verification.pdf",
+  
+    "scope3-minimum-message": "取决于供应商分配的允许最小值：{{ allocations }} 吨二氧化碳当量"
+}
+  

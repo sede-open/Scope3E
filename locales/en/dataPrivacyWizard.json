@@ -1,0 +1,37 @@
+{
+  "EMISSION-entity-type-header": "About your historical emissions data",
+  "ABSOLUTE_AMBITION-entity-type-header": "About your absolute ambition",
+  "INTENSITY_AMBITION-entity-type-header": "About your intensity ambition",
+  "EMISSION-entity-type-description": "Indicate, what data is already publicly available, for the general public, without the need for special permissions, or privileges. For example, if your company released reports with the emissions data.",
+  "ABSOLUTE_AMBITION-entity-type-description": "Indicate, what data is already publicly available, for the general public, without the need for special permissions, or privileges.",
+  "INTENSITY_AMBITION-entity-type-description": "Indicate, what data is already publicly available, for the general public, without the need for special permissions, or privileges.",
+
+  "info-alert-title": "Why are we asking these questions?",
+  "info-alert-paragraphs": [
+    {
+      "text": "example respects your company data, we want you to feel secure about how we treat and store it.",
+      "key": "info-alert-paragraph-1"
+    },
+    {
+      "text": "Indicating if your data is publicly available is the first step to create transparency in your supply chain regarding your emissions and ambitions.",
+      "key": "info-alert-paragraph-2"
+    },
+    {
+      "text": "If you indicate that the data is publicly available, you will be able to share it with your supply chain network. In the Settings page, you can decide what data you wish to show to other companies. Although our goal is to create transparency, in this way, you will always stay in control of your data.",
+      "key": "info-alert-paragraph-3"
+    }
+  ],
+  "back": "Back",
+  "cancel": "Cancel",
+  "next": "Save and continue",
+  "next-and-exit": "Save and return to dashboard",
+  "emission-step-header": "Is your {{ year }} data publicly available?",
+  "emission-step-subheader": "You can edit this information later and as ofter as you want, by editing the emission data form",
+  "intensity-step-header": "Is your intensity ambition publicly available?",
+  "intensity-step-subheader": "You can edit this information later and offer as you want, by editing the ambition form",
+  "absolute-step-header": "Is your absolute ambition publicly available?",
+  "absolute-step-subheader": "You can edit this information later and offer as you want, by editing the ambition form",
+
+  "scope-one-and-two-shared-reduction-publicly": "Have you shared scope 1 & 2 desired reduction publicly?",
+  "scope-three-shared-reduction-publicly": "Have you shared scope 3 desired reduction publicly?"
+}

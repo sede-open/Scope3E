@@ -1,0 +1,2303 @@
+{
+  "back-btn": "Back to all solutions",
+  "arrow-left": "Arrow left",
+  "alternative-solutions-grid-title": "Explore more low-carbon solutions",
+  "square-graphic-text": "Square graphic",
+  "squares-graphic-text": "Squares graphic",
+  "sales-team-photo-alt-text": "Employees posing for a portrait",
+
+  "lng-title": "Liquified Natural Gas for Transport",
+  "lng-subtext": "Liquified natural gas can be a cost-competitive and cleaner fuel for heavy-duty road transport, shipping and industrial users.",
+  "lng-img-alt": "example LNG station",
+  "lng-content-blocks": [
+    {
+      "type": "title",
+      "content": "LNG as a lower-carbon fuel"
+    },
+    {
+      "type": "paragraph",
+      "content": "Our roads and ports are becoming increasingly busy as the global population grows and more of us live in cities. A range of vehicles and fuels, including liquefied natural gas (LNG), will be needed to meet increasing demand for transport as the world seeks to tackle emissions. example LNG can provide up to 22% CO2 reduction compared to conventional Diesel."
+    },
+    {
+      "type": "paragraph",
+      "content": "example believes that natural gas could form a bigger part of the transport energy mix as a lower-carbon fuel, alongside developments in vehicle efficiency, biofuels, hydrogen and electric mobility."
+    },
+    {
+      "type": "title",
+      "content": "What is LNG for transport?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Cooling natural gas to -162° Celsius (-260° Fahrenheit) turns it into a liquid and reduces its volume by 600 times. LNG is easy and economical to ship to where it is needed."
+    },
+    {
+      "type": "paragraph",
+      "content": "example is an LNG pioneer with more than 50 years of expertise. We are expanding the use of LNG as a transport fuel for trucks and ships with potential economic and environmental benefits compared to diesel and fuel oil. Other uses include in trains, the mining sector and industrial applications. We are also looking at ways to use LNG more in our own operations."
+    },
+    {
+      "type": "paragraph",
+      "content": "example LNG helps customers to manage the Total Costs of Ownership (TCO), Compliance with regulations and Sustainability."
+    },
+    {
+      "type": "title",
+      "content": "Heavy-duty road transport"
+    },
+    {
+      "type": "paragraph",
+      "content": "example LNG offers a number of benefits to road transport customers:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "A fast expanding, pan-European LNG Retail network",
+        "Lower fuel costs due to higher energy density",
+        "Well-to-Wheel emissions reduction",
+        "Engine Noise reduction",
+        "Diesel equivalent engine performance",
+        "We need to act today to achieve net zero emissions in a near future. Up to December 2020, 35,673 \n   tons of CO2 has been saved with the use of LNG as a fuel, equating to the emissions of driving 33.2 \n   million kilometres in a HDV."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "LNG is cost competitive with Diesel as the higher CAPEX will be offset by a lower OPEX."
+    },
+    {
+      "type": "paragraph",
+      "content": "The number of LNG sites and growth in the use of LNG by our customers doubled in 2020. example has 30 LNG sites, present in 7 European countries. Our ambition until the end of 2022 is to grow our LNG network by 80 sites along some main international transport corridors."
+    },
+    {
+      "type": "paragraph",
+      "content": "Bio-LNG offers further reductions in a fleet's carbon footprint by using organic waste as feedstock in the production process. Our first plant in the Netherlands, which will be operational in June 2021 will produce enough bio-LNG to enable 13Mln kilometres of CO2-neutral transportation. By January 2023, example will offer carbon neutrality to 35 + sites in Germany from the 100kt of Bio-LNG produced in the liquefaction plant we are building in Cologne."
+    },
+    {
+      "type": "paragraph",
+      "content": "Together with the example Card, example can provide a one-stop shop. The example card offers fraud detection, card management online, e-invoicing and many other benefits to help manage your fleet."
+    },
+    {
+      "type": "title",
+      "content": "Shipping"
+    },
+    {
+      "type": "paragraph",
+      "content": "In Europe and North America, environmental regulations introduced in 2015 require shipping operators to reduce local emissions. LNG fuel, which is virtually free of sulphur and particulates, can help them meet these requirements. LNG can be used by cruisers, ferries, barges and tug boats."
+    },
+    {
+      "type": "paragraph",
+      "content": "example LNG offers a number of benefits to marine customers:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Help to reduce local emissions, as it is virtually sulphur free and can significantly reduce particulates \n   and NOx emissions",
+        "Help to reduce greenhouse gas emissions",
+        "Provide a cost competitive fuel choice versus conventional fuels"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "example is investing in supply infrastructure in key global ports to serve marine customers who have chosen LNG as the cleaner fuel choice."
+    },
+    {
+      "type": "title",
+      "content": "LNG in our operations"
+    },
+    {
+      "type": "paragraph",
+      "content": "In 2018, example chartered four LNG dual-fuel Aframax crude oil tankers on a long-term basis. In Europe, we have signed a charter agreement for 15 dual-fuel inland barges to transport mineral oil products in northwest Europe, which will run mainly on LNG. The 110-metre-long barges will feature main engines built by Wärtsilä, running 95-98% on LNG fuel, and using diesel for ignition."
+    },
+    {
+      "type": "paragraph",
+      "content": "In the USA, we have chartered three LNG-powered offshore supply vessels equipped with dual-fuel Wärtsilä engines to support our drilling operations in the US Gulf of Mexico. The vessels meet the stringent requirements of the ABS “ENVIRO+, Green Passport” notation, making them the most environmentally-friendly offshore supply vessels in the region."
+    },
+    {
+      "type": "paragraph",
+      "content": "On shore, we are using LNG to power more of our drilling rigs."
+    }
+  ],
+  "lng-quote": "“During the test we managed to reach the expected ranges, realised lower fuel comsumption while carrying large loads and faced no significant reliability issues. Furthermore, we received positive feedback from our drivers about the engine characteristics.”",
+  "lng-quote-name": "Barna Erdélyi",
+  "lng-quote-role": "Deputy CEO, Waberer's",
+  "lng-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "lng-decarbonisation-highlight-subtext": "Up to 22% reduction",
+  "lng-regions-highlight-subtext": "Road transport \nEurope: Poland, Germany, Netherlands, Belgium, France, Spain and Turkey \n\nShipping \nexample is investing in supply infrastructure in key global ports",
+  "lng-delivering-organisation-highlight-subtext": "example",
+
+  "hydrogen-title": "Hydrogen for Industry and Transport",
+  "hydrogen-subtext": "Hydrogen has the potential to be an important, safe, low-carbon fuel source for industry and transport, particularly for the heavy-duty.",
+  "hydrogen-img-alt": "Close up of a hydrogen truck at The Port of Los Angeles",
+  "hydrogen-content-blocks": [
+    {
+      "type": "title",
+      "content": "Hydrogen can decarbonize multiple sectors"
+    },
+    {
+      "type": "paragraph",
+      "content": "As governments, businesses and energy consumers continue to align on the need for net-zero emissions in the future, support for hydrogen is gathering pace. Hydrogen is versatile, can be produced from renewable sources and has the potential to decarbonise different sectors."
+    },
+    {
+      "type": "paragraph",
+      "content": "example sees great potential for the use of hydrogen in a range of sectors, from production to industry."
+    },
+    {
+      "type": "title",
+      "content": "Types of Hydrogen"
+    },
+    {
+      "type": "paragraph",
+      "content": "Producing low or zero-emission hydrogen is crucial to ensure its potential as a clean form of energy. Most of the hydrogen available today is produced using energy from hydrocarbons, particularly natural gas. Hydrogen produced in this way is known as “grey” hydrogen."
+    },
+    {
+      "type": "paragraph",
+      "content": "While this process generates significant carbon emissions, it can be made almost emission-free by using carbon capture and storage to store any carbon emissions produced safely underground. The product is then known as “blue” hydrogen."
+    },
+    {
+      "type": "paragraph",
+      "content": "Hydrogen can also be made via electrolysis, by splitting water into oxygen and hydrogen using electricity from renewable sources. When produced like this, the process is also almost emission-free, and the hydrogen is known as “green” hydrogen."
+    },
+    {
+      "type": "paragraph",
+      "content": "Production of green hydrogen is example's ultimate goal, but in order to achieve net-zero emissions ambitions set by companies and governments both blue and green hydrogen production will be required."
+    },
+    {
+      "type": "title",
+      "content": "Industry"
+    },
+    {
+      "type": "paragraph",
+      "content": "Some industrial sectors cannot be easily electrified, for example the iron, steel and cement industry. These are expected to see a need for energy-dense gaseous fuels for decades to come. This is where hydrogen can play a role."
+    },
+    {
+      "type": "paragraph",
+      "content": "In industries where hydrogen is already used as a feedstock, or fuel, to power processed, replacing grey hydrogen with green or blue alternatives can lower the carbon emissions of the industrial process."
+    },
+    {
+      "type": "paragraph",
+      "content": "At the Port of Rotterdam, example is a key partner in H-vision, a consortium of around 10 companies looking to decarbonise industry by replacing refinery fuel gases and coal with blue hydrogen. This will enable the industry to realise a substantial reduction of CO2 emissions and help achieve the Dutch Climate Accord goals before 2030."
+    },
+    {
+      "type": "title",
+      "content": "Heavy-duty road transport"
+    },
+    {
+      "type": "paragraph",
+      "content": "Hydrogen has the potential to be an important, safe, low-carbon transport fuel, particularly for heavy-duty transport such as trucks, buses and shipping."
+    },
+    {
+      "type": "paragraph",
+      "content": "example is involved in H2Accelerate, a mobility consortium designed to create the conditions for a large-scale rollout of hydrogen trucking infrastructure across Europe in the next decade. Working together with Daimler AG, IVECO, OMV and Volvo Group, H2Accelerate aims to prove the viability of hydrogen for heavy duty in Europe, first in small clusters then rapidly across the continent by 2030."
+    },
+    {
+      "type": "paragraph",
+      "content": "In May 2021, example and Daimler announced plans to help accelerate the rollout of hydrogen trucks in Europe. example intends initially to roll out a hydrogen refueling network joining three green hydrogen production hubs at the Port of Rotterdam, Cologne and Hamburg. From 2024, example aims to launch heavy-duty refueling stations between the three locations and Daimler Truck aims to hand over the first heavy-duty hydrogen truck to customers subsequently in 2025."
+    },
+    {
+      "type": "paragraph",
+      "content": "The plan aims to expand the hydrogen powered freight corridor continuously, which will cover 1200 kilometres by 2025, in order to deliver 150 hydrogen refueling stations and around 5,000 Mercedes-Benz heavy-duty fuel cell truck by 2030."
+    },
+    {
+      "type": "paragraph",
+      "content": "In California, example is part of a consortium that is developing three new large-capacity refueling stations for heavy-duty hydrogen fuel-cell trucks, in collaboration with Toyota and Kenworth Truck Company. These stations will form the first hydrogen truck refueling newrok in California. In doing so they will help reduce emissions along a heavily polluted road that connects teh Port of Los Angeles with a major warehouse complex inland."
+    },
+    {
+      "type": "title",
+      "content": "Light-duty road transport"
+    },
+    {
+      "type": "paragraph",
+      "content": "example is providing world leading hydrogen road infrastructure for hydrogen fuel cell cars, in line with customer demand. Today, example has opened around 50 hydrogen stations for light duty vehicles and has approved the construction of 50 more."
+    },
+    {
+      "type": "paragraph",
+      "content": "Hydrogen vehicles store energy as compressed hydrogen fuel. These vehicles can drive up to 700 km on one tank of fuel and take only a few minutes to refill."
+    },
+    {
+      "type": "paragraph",
+      "content": "Hydrogen vehicles also produce no greenhouse gases from the exhaust pipe - the only emission is water vapour. Indeed, when renewable electricity is used to produce the hydrogen, then the process of driving a hydrogen vehicle is nearly entirely emission-free."
+    }
+  ],
+  "hydrogen-estimated-cost-highlight-subtext": "Above $100/tCO2e",
+  "hydrogen-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "hydrogen-regions-highlight-subtext": "Asia: \nChina \n\nEurope \n\nAmericas: United States and Canada",
+  "hydrogen-delivering-organisation-highlight-subtext": "example",
+
+  "nature-based-title": "Investing in Natural Ecosystems",
+  "nature-based-subtext": "Immediate, scalable and cost-effective pathways to significant net emission reductions, necessary for society to achieve the Paris Agreement targets.",
+  "nature-based-img-alt": "Trees in Peru forest",
+  "nature-based-content-blocks": [
+    {
+      "type": "title",
+      "content": "Nature-based Solutions"
+    },
+    {
+      "type": "paragraph",
+      "content": "The vegetation covering around a third of the world's surface is vital to maintaining the planet's natural balance. It supports intricate wildlife systems and helps maintain a healthy atmosphere, by taking in carbon dioxide (CO2) and releasing oxygen."
+    },
+    {
+      "type": "paragraph",
+      "content": "Yet it is under threat: from human activities, such as clearing woodland for farming and illegal logging, as well as climate change."
+    },
+    {
+      "type": "paragraph",
+      "content": "The world needs a range of measures to limit carbon dioxide (CO2) emissions while meeting rising energy demand. They include the protection and restoration of natural ecosystems such as forests, grasslands and wetlands."
+    },
+    {
+      "type": "paragraph",
+      "content": "Nature-based solutions, or natural climate solutions, are projects which protect, transform, or restore land. In this way nature absorbs more CO2 emissions from the atmosphere. These projects can lead to the marketing, trading and sale of carbon credits. A credit representes the avoidance or removal of greenhouse gases equivalent to 1 tonne of CO2."
+    },
+    {
+      "type": "paragraph",
+      "content": "The protection and restoration of natural ecosystems could play an important role in limiting global warming to below 1.5°C, while bringing additional environmental and social benefits, according to studies cited by the International Panel on Climate Change."
+    },
+    {
+      "type": "paragraph",
+      "content": "They also have further benefits such as offering alternative sources of income to local communities, improving soil productivity, cleaning air and water, and maintaining biodiversity."
+    },
+    {
+      "type": "title",
+      "content": "Why is example investing in nature?"
+    },
+    {
+      "type": "paragraph",
+      "content": "We are working to cut the emissions from our own operations, as well as reducing greenhouse gas emissions per unit of energy that our customers use. There is no single solution."
+    },
+    {
+      "type": "paragraph",
+      "content": "Our approach includes improving the energy efficiency of our operations; selling more, cleaner-burning natural gas; generating electricity from solar and wind; and providing lower-carbon fuels such as biofuels and hydrogen, as well as more electric-vehicle charging points. We are also supporting nature-based solutions."
+    },
+    {
+      "type": "paragraph",
+      "content": "Nature-based solutions can make a big contribution to our ambition to be a net-zero emissions energy business by 2050, or sooner. They have a role to play in reducing the carbon intensity of the energy products we sell, as well as addressing our customers' emissions footprint when they use energy products bought from example."
+    },
+    {
+      "type": "title",
+      "content": "What is example doing in nature-based solutions?"
+    },
+    {
+      "type": "paragraph",
+      "content": "example intends to make significant investments in projects that use nature to reduce CO2 emissions, while bringing wider benefits."
+    },
+    {
+      "type": "paragraph",
+      "content": "As a start, in the Netherlands, we are supporting Staatsbosbeheer, the Dutch National Forestry Department, to plant more than 5 million trees over the next 12 years."
+    },
+    {
+      "type": "paragraph",
+      "content": "example has also signed an agreement with Land Life Company to create a 300-hectare reforestation project in Spain. Around 300,000 trees have been planted in the Castilla y Leon region."
+    },
+    {
+      "type": "paragraph",
+      "content": "In the UK, example has partnered with Forestry and Land Scotland, the Scottish government agency. Over the coming years, our support will help plant or regenerate around 1 million trees."
+    },
+    {
+      "type": "paragraph",
+      "content": "We also buy and sell carbon credits and are one of the most established traders of carbon credits in the world. The growing number of verified projects from which we buy credits is helping more customers meet their sustainability commitments."
+    },
+    {
+      "type": "title",
+      "content": "High-quality credits"
+    },
+    {
+      "type": "paragraph",
+      "content": "example will use high-quality nature-based solutions, independently verified to determine their carbon impact and their social and biodiversity benefits. In line with our approach of avoid, reduce and only then mitigate, we expect to offer our customers nature-based solutions to offset around 120 million tonnes per annum of our Scope 3 emissions by 2030."
+    },
+    {
+      "type": "paragraph",
+      "content": "Today, for example, we offer customers carbon-neutral driving using nature-based carbon offsets in seven countries. We also offer carbon-neutral liquefied natural gas cargoes, which use nature-based carbon credits to offset full life-cycle emissions, including methane."
+    }
+  ],
+  "nature-based-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "nature-based-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "nature-based-regions-highlight-subtext": "Asia, Africa, Europe, Americas and Oceania",
+  "nature-based-delivering-organisation-highlight-subtext": "example",
+
+  "vessels-software-title": "JAWS low-cost software for all vessels",
+  "vessels-software-subtext": "Save up to 8% fuel consumption by applying advanced analytical methods with example's patented optimisation software.",
+  "vessels-software-img-alt": "Large container ship at sea",
+  "vessels-software-content-blocks": [
+    {
+      "type": "title",
+      "content": "Immediately available"
+    },
+    {
+      "type": "paragraph",
+      "content": "example's patented draft and trim optimisation software, Just Add Water System (JAWS) has been deployed on 62 example-operated vessels, each delivering up to 8% reductions in fuel consumption and associated emissions. This has been licensed to Kongsberg Maritime, now making it available to the wider industry. Kongsberg Maritime will enable JAWS to be immediately available to thousands of shipping customers who are already benefitting from Kongsberg Maritime's established, reliable K-IMS solution, as well as to new Kongsberg Maritime customers. JAWS is applicable to any commercial ship type and hull form, allowing owners with multiple ship types to be able to benefit from the software."
+    },
+    {
+      "type": "title",
+      "content": "About the technology"
+    },
+    {
+      "type": "paragraph",
+      "content": "The JAWS software uses historic, high-frequency data from the vessel to determine the optimal conditions on previous voyages, which enables the system to advise on how best to enhance a vessel's draft and trim at any given speed to reduce fuel consumption and lower emissions. JAWS also monitor and reports live fuel and emissions savings back to managers, to give real-time insight into the benefits of deploying this technology across a fleet."
+    },
+    {
+      "type": "title",
+      "content": "Unlock every efficiency to reduce fuel use"
+    },
+    {
+      "type": "paragraph",
+      "content": "Real-life testing of the JAWS system, delivered through Kongsberg Maritime's interactive, web-based K-IMS application suite, demonstrates that the software can be valuable for situational awareness, lending insights to vessel handling and decision making."
+    },
+    {
+      "type": "paragraph",
+      "content": "The DNV GL Technology Qualification is the process whereby the developer can provide evidence to an independent third party to assess whether new technologies will meet safety and reliability criteria with an acceptable level of confidence. DNV GL has assisted the development of JAWS by assessing the methodologies employed and ensuring that the calculations provided by the software are based on the accurate and reliable use of data."
+    },
+    {
+      "type": "paragraph",
+      "content": "Kongsberg Maritime said that by uniting all data-logging and communication channels into one secure solution, the collaborative K-IMS solution presents a comprehensive information flow which provides a common, user-friendly solution for fleet owners, charterers and third parties alike. To date, more than 200 deliveries of K-IMS have been made within the LNG sector, and K-IMS is also establishing an appreciable market footprint in the offshore segment, adds the company."
+    },
+    {
+      "type": "title",
+      "content": "Potential to reduce even more CO2e"
+    },
+    {
+      "type": "paragraph",
+      "content": "example's research found that if used more widely, existing energy efficiency technologies, such as air lubrication, example's JAWS technology (hydrodynamic optimisation), wind technologies and improved hull coatings, could further reduce emissions by up to 25% compared to today's leading designs. These can be partnered with lubricants that can considerably improve engine efficiency. Marine lubricants reduce friction and consequently wear and tear, therefore extending the life of engines and vessels, and reducing a ship's environmental impact. Using existing technologies to get closer to net zero must be a priority for the industry today."
+    }
+  ],
+  "vessels-software-quote": "“We are looking forward to seeing JAWS and K-IMS contributing significantly to the reduction of greenhouse gas emissions and fuel costs for both vessel owners and charterers.”",
+  "vessels-software-quote-name": "Egil Haugsdal",
+  "vessels-software-quote-role": "President, Kongsberg Maritime",
+  "vessels-software-estimated-cost-highlight-subtext": "Dependent on the type of application",
+  "vessels-software-decarbonisation-highlight-subtext": "Up to 8% reduction",
+  "vessels-software-regions-highlight-subtext": "Asia, Africa, Europe, Americas and Oceania",
+  "vessels-software-delivering-organisation-highlight-subtext": "Kongsberg Maritime",
+
+  "lubricant-solutions-title": "Lubricant Solutions",
+  "lubricant-solutions-subtext": "example Lubricant Solutions offers a range of products and services designed to help organisations embed sustainability into business strategy.",
+  "lubricant-solutions-img-alt": "Employee pouring oil into engine",
+  "lubricant-solutions-content-blocks": [
+    {
+      "type": "title",
+      "content": "A range of solutions"
+    },
+    {
+      "type": "paragraph",
+      "content": "example is the number one global lubricant supplier, delivering market-leading lubricants to consumers in over 100 countries. example Lubricants brings world-class technological insights to its products. Embedding sustainable practices is critical in ensuring the long-term success of your business, as we move towards a greener global economy. example Lubricant Solutions provides a range of solutions to help our customers achieve operational excellence and reduce environmental impact."
+    },
+    {
+      "type": "title",
+      "content": "CO2 emission reduction"
+    },
+    {
+      "type": "paragraph",
+      "content": "Reducing CO2 emissions is top of the business agenda across all industries, as tighter regulation and consumer demand shifts towards a low carbon economy. But the pressure to maximise output and increase productivity at the same time creates operational challenges. example helps customers employ more sustainable practices which serve to avoid or reduce emissions, and provides opportunities for CO2 offsets."
+    },
+    {
+      "type": "title",
+      "content": "Biodegradability"
+    },
+    {
+      "type": "paragraph",
+      "content": "Energy, transport and industry operate in increasingly remote and diverse locations. It's key to develop innovative solutions which ensure businesses can flourish while preserving these sensitive environments. example offers a range of readily biodegradable lubricants which help our customers grow their business, safely and sustainably: "
+    },
+    {
+      "type": "list",
+      "content": [
+        "example Naturelle S2 Hydraulic Fluid 32 is a readily biodegradable hydraulic fluid for advanced performance in environmentally sensitive areas",
+        "example Diala S5 BD is a high-performance transformer oil which is readily biodegradable."
+      ]
+    },
+    {
+      "type": "title",
+      "content": "Waste and consignment"
+    },
+    {
+      "type": "paragraph",
+      "content": "To ensure the environments in which we operate are protected, new regulations and industry practices encourage businesses to manage their waste in a more efficient way. example Lubricant Solutions' products are designed to extend equipment life to reduce waste and encourage recycling of used lubricants. "
+    },
+    {
+      "type": "list",
+      "content": [
+        "example has increased the recycled content of their lubricants' plastic bottles to 25% in Europe and 40% in North America.",
+        "Plastic pails used for example Naturelle range currently include 25% post-consumer resin.",
+        "example Gadus Lube-Shuttle Screw Cartridges help to ensure that the grease in the container is fully utilised, reducing waste.",
+        "example Omala S5 Wind 320 offers exceptional lubrication performance and defends against deposit formation to extend gear and oil life.",
+        "example Tellus S4 VE hydraulic oil offers a longer oil life and a significant decrease in energy use."
+      ]
+    },
+    {
+      "type": "title",
+      "content": "Towards a circular economy"
+    },
+    {
+      "type": "paragraph",
+      "content": "As we progress towards a more circular economy, business is increasingly responsible for finding ways to reuse, recycle or repurpose products. Working with a partner with the right expertise allows customers to unlock the ability to increase both profitability and sustainability. example helps its customers and partners reach their sustainability goals in different ways. example educates maintenance managers on performance benefits of regenerated oils with base oils made from recycled sources. example also helps to identify alternative circular economy components which can be used in bitumen to reduce virgin materials and the energy required to build roads. Finally, example reviews the use of sustainably sourced raw materials."
+    },
+    {
+      "type": "title",
+      "content": "Nature-based solutions (NBS)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Nature-based solutions are projects which reduce emissions by protecting, transforming or restoring natural ecosystems. To help businesses compensate for unavoidable CO2 emissions, they can be used as 'carbon credits', where each credit represents the avoidance or removal of gases equivalent to one tonne of CO2. It is estimated that natural climate solutions can provide up to a third of climate mitigation needed between now and 2030 to achieve the 1.5ºC target of the 2015 Paris Climate Agreement. Our nature-based solutions programmes support conservation and reforestation projects in the Americas, Europe, Africa, and Asia. From 2021, example Lubricant Solutions will extend our offer of carbon neutral products across a series of products in selected markets. Please contact your local example representative to learn if carbon neutral product offers are available in your market and for the full list of products."
+    }
+  ],
+  "lubricant-solutions-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "lubricant-solutions-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "lubricant-solutions-regions-highlight-subtext": "Asia, Africa, Europe, Americas and Oceania",
+  "lubricant-solutions-delivering-organisation-highlight-subtext": "example",
+
+  "sustainable-aviation-title": "Sustainable Aviation Fuel",
+  "sustainable-aviation-subtext": "Sustainable Aviation Fuel (SAF) is made from sustainable feedstock and can be blended with conventional fuels. It can deliver up to 80% emissions reduction (neat SAF).",
+  "sustainable-aviation-img-alt": "Close up of an aircraft on Manchester Airport runway",
+  "sustainable-aviation-content-blocks": [
+    {
+      "type": "title",
+      "content": "What is the role of SAF in the aviation industry?"
+    },
+    {
+      "type": "paragraph",
+      "content": "The aviation industry has a key role in driving global growth and prosperity, but it has come under increased societal scrutiny because of its contribution to global GHG emissions. In fact, it was accounting for ~2-3% of global GHG emissions in 2018."
+    },
+    {
+      "type": "paragraph",
+      "content": "The options available to the aviation industry are mainly two: increased fuel efficiency and technological innovation. Although aircrafts keep becoming more efficient in their consumption, this is not enough to reduce absolute emissions. A solution can be represented by hydrogen-fueled planes or battery-powered planes, but these technologies are decades away from being economically viable and implemented at scale."
+    },
+    {
+      "type": "paragraph",
+      "content": "Sustainable Aviation Fuel represents the only short to medium term options which is readily available and easy to implement."
+    },
+    {
+      "type": "title",
+      "content": "What is SAF and how does it work?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Sustainable Aviation Fuel, sometimes referred to as Biojet, is a substitute for fossil jet fuel. It is made from sustainable feedstocks, like inedible waste fats and oils, instead of being refined from petroleum."
+    },
+    {
+      "type": "paragraph",
+      "content": "SAF is proven and safe: it has been first trialed in 2008 and has powered over 250,000 commercial flights since. It can be blended up to 50% with conventional fuels."
+    },
+    {
+      "type": "paragraph",
+      "content": "One process - Hydrotreated Esters and Fatty Acids (HEFA) is producing SAF at commercial scale today, with five additional production pathways approved for use by the global standards body ASTM International, offering opportunities to scale up production."
+    },
+    {
+      "type": "paragraph",
+      "content": "SAF is ready to be implemented as a solution without retrofitting engines or having to make any change to the current infrastructure. It can be used as 100% SAF in theory, but current industry standards stipulate blending with conventional jet fuel up to 50%. It can be handled and transported using the machinery and infrastructure that is already available."
+    },
+    {
+      "type": "title",
+      "content": "What are the sustainability benefits of SAF?"
+    },
+    {
+      "type": "paragraph",
+      "content": "The use of SAF causes up to 80% less CO2 emissions compared to the fossil baseline. As its feedstock comes from waste it helps recycling and causes no additional emissions to obtain the input for the production process. The carbon released by the combustion constitutes no net addition to the atmosphere. In the future, research is aiming at using biomass, agricultural, municipal and industrial waste as production input to scale up production and widen further the positive impact SAF has on recycling and the circular economy."
+    },
+    {
+      "type": "paragraph",
+      "content": "In addition to the CO2 savings, SAF has a direct contribution to improving air quality as it emits up to 90% less Particulate Matter and 100% less sulphurs."
+    }
+  ],
+  "sustainable-aviation-estimated-cost-highlight-subtext": "Dependent on the type of application",
+  "sustainable-aviation-decarbonisation-highlight-subtext": "Up to 80% reduction",
+  "sustainable-aviation-regions-highlight-subtext": "Europe \n\nAmericas: United State West Coast",
+  "sustainable-aviation-delivering-organisation-highlight-subtext": "example",
+
+  "telematics-title": "Telematics to reduce fuel consumption",
+  "telematics-subtext": "example Telematics uses market leading technology to provide insights to help manage your fleet's fuel consumption with Advanced Analytics reports.",
+  "telematics-img-alt": "Close up of example telematics device",
+  "telematics-content-blocks": [
+    {
+      "type": "title",
+      "content": "A streamlined solution"
+    },
+    {
+      "type": "paragraph",
+      "content": "Telematics technology can give you incredible insights into how your fleet operates and can help you bring down your Total Cost of Ownership (TCO). But managing all of your data can be a huge job. We can help you take on that challenge with a solution that makes managing your data more streamlined, more intuitive and less time consuming. Whatever the size or type of your fleet, you can choose the package of features that will work best for your business, and it's all managed through a user-friendly online portal."
+    },
+    {
+      "type": "title",
+      "content": "Driver performance is the key to fleet performance"
+    },
+    {
+      "type": "paragraph",
+      "content": "As every Fleet Manager knows, a well-trained, well-supported team of drivers is a critical component that keeps operations on track. example Telematics helps you to focus on this vital area of your business, giving you the information you need to help get the very best out of your team."
+    },
+    {
+      "type": "paragraph",
+      "content": "Drivers influence 70-80% of a fleet's TCO, including vehicle wear and tear, fuel consumption, delivery performance, asset safety, compliance and insurance."
+    },
+    {
+      "type": "title",
+      "content": "How does it work?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Apply for both the example Fleet card and a Telematics device and then:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Transaction, Vehicle and driver data is securely stored in the cloud",
+        "Data is processed and turned into actionable insights",
+        "Fleet manager can act on key information, e.g. initiate driver coaching to improve driver safety and reduce accidents"
+      ]
+    },
+    {
+      "type": "title",
+      "content": "The key benefits"
+    },
+    {
+      "type": "paragraph",
+      "content": "The key benefits of the Telematics solution include:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Efficiency: Track your vehicles for better fleet planning, choose fuel-efficient routes and optimise delivery times, assign jobs more effectively and manage customer expectations on estimated arrival time.",
+        "Productivity: Work smarter with instant data and a paperless system, simplify administration such as handling timesheets and tracking business/private mileage, schedule maintenance proactively and increase vehicle availability and finally receive alerts when AdBlue® levels fall under 20% so you can fill up quickly.",
+        "Safety: Monitor driver performance and help reduce accidents, track poor driving behaviour such as speeding, harsh driving, seat belt usage and excessive idling and use the scoring system to engage drivers and incentivise improved driving skills.",
+        "Security: Increase financial control and tackle fraud and theft, monitor transactions and receive alerts of unusual fuel card activity and know where your vehicles are and receive alerts of unexpected use."
+      ]
+    },
+    {
+      "type": "title",
+      "content": "example Fleet Solutions"
+    },
+    {
+      "type": "paragraph",
+      "content": "With a global network and a range of services to help you reduce costs and operate more sustainably, example Fleet Solutions provides a hub for all your on-the-road needs. From telematics to tolling, we're here to help you achieve your goals in an industry that's constantly evolving. Your destination might be to discover smarter ways of working, to improve security, to maximise efficiency, to increase savings, or to make more sustainable choices. Wherever you need to go, example Fleet Solutions is finding new and better ways to help you get there."
+    }
+  ],
+  "telematics-quote": "“Having a dialogue with example helped to ensure the product met our requirements, allowing us to offer full transparency about what the system can do for drivers and during internal engagement conversations.”",
+  "telematics-quote-name": "Scott Murray",
+  "telematics-quote-role": "Director of Homes, Halton Housing",
+  "telematics-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "telematics-decarbonisation-highlight-subtext": "Up to 15% reduction* \n*Gartner, market guide for Transportation Mobility Technology",
+  "telematics-regions-highlight-subtext": "Asia: India, Indonesia, Malaysia and Singapore \n\nEurope: Belgium, Germany, Luxembourg, Netherlands, Turkey and United Kingdom \n\nAmericas: Canada, Mexico and United States",
+  "telematics-delivering-organisation-highlight-subtext": "example",
+
+  "e-mobility-title": "Charging your electric vehicle",
+  "e-mobility-subtext": "Your electric vehicle fleet can be charged at the office through the installation of charge pointsor on the go at one of the many charging points across the globe.",
+  "e-mobility-img-alt": "Two people charging their electric vehicles at work",
+  "e-mobility-content-blocks": [
+    {
+      "type": "title",
+      "content": "Electric vehicle charging"
+    },
+    {
+      "type": "paragraph",
+      "content": "example is working to meet the charging needs of electric vehicle drivers - at home, at work or on the road. Electric vehicles are expected to play an increasingly important role in transporting people and products. Effective recharging systems will be vital to ensure drivers can charge without disrupting their own journeys or stressing the broader power grid."
+    },
+    {
+      "type": "title",
+      "content": "Recharging options"
+    },
+    {
+      "type": "paragraph",
+      "content": "Unlike traditional cars, which usually only refuel at petrol stations, electric cars have the potential to be recharged at home, at work or on the go. They can also be charged in shared locations such as forecourts, car parks or supermarkets. \n\nSpeed, availability and reliability of charging infrastructure are currently the biggest potential deterrents to buying an electric car. example believes this could change with better access to a choice of recharging options that are suited to the needs of customers and their lifestyles."
+    },
+    {
+      "type": "title",
+      "content": "Charging at home or at work"
+    },
+    {
+      "type": "paragraph",
+      "content": "As one of the world's largest energy suppliers, example is exploring how to serve the world's increasing number of electric car drivers, both at home, at work or on the go."
+    },
+    {
+      "type": "paragraph",
+      "content": "Charging electric cars at home is often the most convenient and cost-effective way to recharge, particularly as most private vehicles are usually parked overnight. Home-base overnight charging, in most cases, is the cheapest time to recharge.  Charging at work can be a convenient way for people to recharge their electric cars while they are parked during their working hours or for companies with electric fleets to provide employees an option for charging."
+    },
+    {
+      "type": "title",
+      "content": "Installation of a charge point by example"
+    },
+    {
+      "type": "paragraph",
+      "content": "example's NewMotion is one of Europe's largest electric-vehicle charging providers and gives you access to more than 200,000 private electric charge points across 35 countries."
+    },
+    {
+      "type": "paragraph",
+      "content": "example's Greenlots is headquartered in Los Angeles with projects across the globe, Greenlots is committed to achieving a net-zero emissions future, and to helping our customers achieve their own sustainability targets."
+    },
+    {
+      "type": "paragraph",
+      "content": "Through NewMotion and Greenlots, example is developing more flexible solutions for electric vehicle drivers to charge at home or at work."
+    },
+    {
+      "type": "title",
+      "content": "How does it work?"
+    },
+    {
+      "type": "list",
+      "content": [
+        "example and its partners provide easy-to-use fast charge points and end-to-end installation.",
+        "Smart Charging Services allow you to manage, monitor and control your charging infrastructure.",
+        "Support Services offer you unparalleled support from charging experts.",
+        "Mobility Services offer you carefree on-the-go charging across Europe.",
+        "Partner services offer you the possibility to provide your own branded charging experience."
+      ]
+    },
+    {
+      "type": "title",
+      "content": "Charging on the go"
+    },
+    {
+      "type": "paragraph",
+      "content": "example offers customers a flexible way to access a wide charging network to charge while on the go. Using a single charge card, drivers can access a network of public charge points."
+    },
+    {
+      "type": "paragraph",
+      "content": "A growing number of example forecourts are offering “example Recharge” fast charging service. This takes only around 30 minutes to fully charge. This service also provides electric car drivers a shorter option to just top up to get them to their destination."
+    },
+    {
+      "type": "paragraph",
+      "content": "example is increasing the number of electric vehicle charging points globally - for homeowners and businesses and for use on our forecourts - from more than 60,000 today to more than 500,000 by 2025 and to 2.5 million by 2030."
+    }
+  ],
+  "e-mobility-quote": "“example NewMotion fulfils all our charging needs and offers a solution that is really easy to use, both from a user and fleet manager perspective.”",
+  "e-mobility-quote-name": "Denis Mauffré",
+  "e-mobility-quote-role": "Reporter Energy/Process and Performance, Air France",
+
+  "e-mobility-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "e-mobility-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "e-mobility-regions-highlight-subtext": "Asia: Singapore, Thailand, India and China \n\nEurope \n\nAmericas: United States and Canada",
+  "e-mobility-delivering-organisation-highlight-subtext": "example",
+
+  "machinemax-title": "MachineMax",
+  "machinemax-subtext": "MachineMax provides a digital equipment management platform for heavy equipment users, to help them to reduce emissions and maximise the efficiency and profitability of their off-highway fleets.",
+  "machinemax-img-alt": "Engineer using tablet to check and control heavy equipment",
+  "machinemax-content-blocks": [
+    {
+      "type": "title",
+      "content": "An award-winning platform"
+    },
+    {
+      "type": "paragraph",
+      "content": "MachineMax provides an award winning revolutionary equipment management platform, using cutting edge IoT sensors and AI to help users of heavy equipment gain complete visibility of their fleet. We can connect every piece of equipment in a fleet, providing full visibility of data, and actionable insights."
+    },
+    {
+      "type": "paragraph",
+      "content": "MachineMax enables:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "<strong>Visibility:</strong> Track all machines - owned, rented, contracted, globally.",
+        "<strong>Cost:</strong> Cut costs & emissions - manage idling, reduce fuel, maintenance, rental costs and capex.",
+        "<strong>Productivity:</strong> Increase output by identifying bottlenecks, reduce cycle time, optimise shifts.",
+        "<strong>Safety:</strong> Avoid no go zones, monitor speed, out of hours operation, prevent theft."
+      ]
+    },
+    {
+      "type": "title",
+      "content": "How does it work?"
+    },
+    {
+      "type": "paragraph",
+      "content": "MachineMax aggregates and integrates all existing equipment data using cloud-based algorithms to combine, normalise, store and analyse incoming datasets. Sources include OEM telematics, 3rd party telematics and other relevant IoT data streams. MachineMax can also provide a battery-powered magnetic sensor for non-connected machines, to track location, identify machine operating state and fuel burn. Machine learning is then used to deliver only the metrics relevant to you and real-time actionable insights. Equipment data can be reported to your own platforms: all data can be provided via AEMP APIs."
+    },
+    {
+      "type": "paragraph",
+      "content": "On average machines idle about 40% of the time that the engine is running. Although idling can't be entirely eliminated, real time data highlighting when this is happening can be used to significantly reduce it, resulting in decreased fuel and emissions. MachineMax can assist by connecting the entire fleet, surfacing the data in a single platform so that site inefficiencies are visible in real time, providing actionable insights and highlighting trends."
+    },
+    {
+      "type": "title",
+      "content": "How much will I save?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Past deployments of MachineMax have shown that idle time can be reduced from an industry average of 40% to 30%. A fleet of a 100 medium-sized dump trucks operating a standard shift pattern using MachineMax could therefore reduce the fuel burned by 113,700 litres or reduce emissions of approximately 300 tonnes of CO2."
+    },
+    {
+      "type": "paragraph",
+      "content": "Pricing for the service depends on the solution deployed, the number of machines connected and the duration of the contract. As an indication, a typical solution would cost $30,000 for 100 machines for 12-months."
+    }
+  ],
+  "machinemax-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "machinemax-decarbonisation-highlight-subtext": "Up to 40% reduction",
+  "machinemax-regions-highlight-subtext": "Asia, Africa, Europe, Americas and Oceania",
+  "machinemax-delivering-organisation-highlight-subtext": "example",
+
+  "instafreight-title": "Decarbonise your road freight",
+  "instafreight-subtext": "By optimising routes via road and rail transport, InstaFreight enables you to save up to 82% of your CO2e emissions.",
+  "instafreight-img-alt": "Aerial view of a truck on a forest road",
+  "instafreight-content-blocks": [
+    {
+      "type": "title",
+      "content": "Logistics meets technology"
+    },
+    {
+      "type": "paragraph",
+      "content": "example and InstaFreight are partnering to transform the European freight market. After successfully raising an investment from example's corporate venturing arm, example Ventures, InstaFreight will be working together with example to expand their digital services to carrier companies in Europe."
+    },
+    {
+      "type": "paragraph",
+      "content": "Did you know that 4 billion trees would be needed to offset the annual emissions of the logistics industry in Europe. That is equivalent to a forest the size of Germany. Fact is, the logistics industry has a significant impact on our greenhouse emissions. Every year, approximately 200 million tons of CO2 are emitted by trucks on European roads. Reducing these emissions requires a smart logistics solution like InstaFreight."
+    },
+    {
+      "type": "paragraph",
+      "content": "InstaFreight follows the vision of a more efficient and thus sustainable road logistics industry. To get your goods on the road, we combine logistics expertise with technology. This way, we not only increase your efficiency, but can also reduce your CO2 footprint significantly. To achieve this, we take several approaches."
+    },
+    {
+      "type": "title",
+      "content": "Reporting on emissions"
+    },
+    {
+      "type": "paragraph",
+      "content": "It's like driving on the highway at night without your lights on: As a shipper, if you don't know the emissions your transports are causing, then you won't be able to meet your sustainability targets."
+    },
+    {
+      "type": "paragraph",
+      "content": "With InstaFreight's sustainability reporting, you'll have clear numbers at your fingertips as we track your actual driven ton kilometres, by integrating with 450+ telematic systems. Thereby you always have an overview of your CO2 emissions on lane- or even shipment-level, based on the international Global Logistics Emissions Council(GLEC) guidelines."
+    },
+    {
+      "type": "paragraph",
+      "content": "Starting from that, we can jointly develop a sustainability strategy for your transports."
+    },
+    {
+      "type": "title",
+      "content": "Sustainable carrier matching algorithm"
+    },
+    {
+      "type": "paragraph",
+      "content": "Digital is key! InstaFreight works with an intelligent matching algorithm that identifies the right carrier for your goods and enables environmentally friendly transportation."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Carrier fleet composition</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "We have a large network of over 25,000 carriers, which we evaluate in terms of their eco friendliness. Euro norm, fuel type and relevant certificates play a role, as does the truck type and fuel consumption per kilometer driven. This way, InstaFreight can help you to choose the most eco friendly solution for your transports."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Intelligent transport allocation</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "Empty trucks on our roads? Due to inefficient transport planning, this is still commonplace. With the help of our matching algorithm, we can arrange suitable (back)loads and thus avoid empty runs. It also allows us to always identify the truck that is closest to you, in order to circumvent long journeys to the point of loading. As a result, we can reduce empty runs by up to 50 km per transport."
+    },
+    {
+      "type": "title",
+      "content": "Shift from road to rail"
+    },
+    {
+      "type": "paragraph",
+      "content": "The (green) future lies in rail  - at least a big part of it. Shifting freight from road to rail is InstaFreight's second green logistics approach. We look at whether your transport orders can be carried out entirely or partially by rail - domestically and internationally. Currently, we are already carrying out intermodal transports for several large companies, including example."
+    },
+    {
+      "type": "paragraph",
+      "content": "In terms of CO2, there is great potential for savings: you can reduce up to 82% of your CO2 emissions when using rail transport, especially for orders with large transport volumes and long distances. Intermodal transports are not only good for the environment, but can also be very good for your wallet."
+    },
+    {
+      "type": "title",
+      "content": "Alternative Fuels"
+    },
+    {
+      "type": "paragraph",
+      "content": "Ready to start the engine? The market for alternative fuels is also picking up speed in freight transport."
+    },
+    {
+      "type": "paragraph",
+      "content": "We already have a strong focus on alternative fuels such as LNG. Depending on the fuel used, the CO2 footprint of your transport orders can be significantly reduced. For example, you can save around 10 % in CO2 emissions by contracting your transport to carriers driving with LNG."
+    },
+    {
+      "type": "paragraph",
+      "content": "Whether it's intelligent carrier matching, the shift from road to rail or alternative fuels - with these three sustainable approaches, we can help you to decarbonise your road freight."
+    }
+  ],
+  "instafreight-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "instafreight-decarbonisation-highlight-subtext": "Up to 82% reduction (intermodal)",
+  "instafreight-regions-highlight-subtext": "Europe: Available in most European countries",
+  "instafreight-delivering-organisation-highlight-subtext": "InstaFreight",
+
+  "immersion-cooling-title": "Immersion cooling redefined",
+  "immersion-cooling-subtext": "Enabling sustainable and future-ready datacentres anywhere and on a global scale.",
+  "immersion-cooling-img-alt": "Close up of wiring in an IT equipment",
+  "immersion-cooling-content-blocks": [
+    {
+      "type": "title",
+      "content": "Asperitas Immersed Computing®"
+    },
+    {
+      "type": "paragraph",
+      "content": "example invested in Asperitas to support the acceleration of Asperitas' mission to enable sustainable datacentres on a global scale. Asperitas is a clean and high-tech company, that developed the award-winning Immersed Computing® technology solution. This plug and play liquid cooling solution helps datacentres become more energy efficient."
+    },
+    {
+      "type": "paragraph",
+      "content": "Immersion cooling is a base technology which fully captures all thermal energy in liquid. The Asperitas innovative concept of Immersed Computing® focuses on the integration of IT equipment with immersion cooling. This allows the deployment of immersion cooling with warm water cooling and high reliability of IT equipment, as it includes the optimisation of IT equipment for this type of technology. However, to address global datacentre challenges regarding sustainability, efficiency and flexibility, Asperitas goes far beyond just the technology. The solution embraces the most efficient model for operating IT equipment, reducing the energy footprint of said equipment by eliminating overhead energy."
+    },
+    {
+      "type": "title",
+      "content": "Immersion cooling and datacentre sustainability"
+    },
+    {
+      "type": "paragraph",
+      "content": "Asperitas' immersion cooling technology actively helps datacentre operators fulfil their sustainability goals, as using this approach makes it possible to reduce the energy footprint by up to 50%. Presently, datacentres are consuming around 4% of the global energy supply, using energy for IT and cooling. Each datacentre consistently churns out warm air which is too low in temperature to efficiently distribute and transport. Changing the common air cooling medium for the much more efficient medium of liquid, is a game changer for datacentres. It addresses the global challenges, preparing datacentres for a future of high density and performance hardware, facility efficiency anywhere and sustainability."
+    },
+    {
+      "type": "title",
+      "content": "The solution"
+    },
+    {
+      "type": "paragraph",
+      "content": "The Asperitas' 15” and the more recently launched 21” ready AIC24 immersion cooling solutions, are designed to enable efficient, sustainable and high performing datacentres. The new AIC24 solution allows for twenty-four 1U 21” wide servers to be integrated and for two additional switches. It is designed to meet the demand for high density compute both on a system and server level."
+    },
+    {
+      "type": "paragraph",
+      "content": "The 21” wide server space allows OEMs and integrators flexibility to design cutting edge servers, utilising the full potential of Asperitas' Immersed Computing®. Both units are driven by the natural convection method, and can therefore be deployed in high ambient temperatures, even up to 45 degrees Celsius. The liquid cooling concept is spearheaded by the fully immersed cooling of the IT within a synthetic fluid, rather than cooling it using traditional air methods. The fluid is high-quality medicinal white oil, based on the GTL (gas-to-oil) technology, provided by example. The next generation hardware for emerging digital technologies is of a high performance, but also very powerful, going up to 400 watts per chip. This energy then turns into heat and requires advanced cooling methods to even maintain performance. An entire new model is needed to design and operate datacentres sustainably."
+    },
+    {
+      "type": "paragraph",
+      "content": "Compared to an average aircooled datacentre, the AIC24 module takes up 80% less physical footprint and 95% less cooling energy for datacentres."
+    },
+    {
+      "type": "paragraph",
+      "content": "Asperitas' technology is utilised by cloud providers, telecom operators, global enterprises like financial institutions and high performance computing users like universities in multiple countries."
+    },
+    {
+      "type": "title",
+      "content": "example S5 X cooling fluid"
+    },
+    {
+      "type": "paragraph",
+      "content": "Asperitas has an exclusive partnership with example, who have created the example immersion Cooling Fluid, the S5X cooling fluid (a dielectric fluid), which is a synthetic single-phase liquid, made from gas using example's GTL technology. It is designed to ensure the highest possible lifetime and optimisation for the IT equipment. The fluid is single-phase, which means little to no evaporation (therefore you are not required to 'top-up'). Asperitas' Immersed Computing® technology makes use of a natural convection driven fluid circulation, allowing for warm water cooling. This unique approach enables free cooling up to 50 degrees Celsius."
+    },
+    {
+      "type": "paragraph",
+      "content": "The fluid is safe and pure, with the product meeting the EU and US pharmaceutical purity requirements. It's non-halogenated, food-grade, free from allergen and has an extremely low volatility level."
+    },
+    {
+      "type": "title",
+      "content": "Heat Reuse"
+    },
+    {
+      "type": "paragraph",
+      "content": "Immersion cooling combined with warm water cooling has the ability to capture a large portion of the IT energy by making the energy available for heat reuse. Asperitas reduces the footprint of a third-party with the heat demand, enabling the transformation of datacentres from heavy energy consumers, into energy suppliers and contributors to the circular economy (100% energy reuse ready)."
+    },
+    {
+      "type": "paragraph",
+      "content": "The key goal for immersion cooling is to enable sustainable and high performing datacentres that facilitate all emerging digital technologies, anywhere and on any scale. The real opportunity is to enable datacentres to run with a PUE of 1.04 anywhere and add value by optimal IT performance and heat delivery. Asperitas believes in thinking differently, with responsibility towards the creation of an energy efficient world."
+    }
+  ],
+  "immersion-cooling-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "immersion-cooling-decarbonisation-highlight-subtext": "Up to 30% reduction",
+  "immersion-cooling-regions-highlight-subtext": "Asia, Africa, Europe, Americas and Oceania",
+  "immersion-cooling-delivering-organisation-highlight-subtext": "Asperitas",
+  "sustainable-bitumen-title": "Sustainable Bitumen",
+  "sustainable-bitumen-subtext": "example Bitumen focuses on increasing the recyclability and reducing the environmental impact of bitumen with technology that lowers energy consumption, emissions and odour.",
+  "sustainable-bitumen-img-alt": "Tanker at Bitumen plant, UK",
+  "sustainable-bitumen-content-blocks": [
+    {
+      "type": "title",
+      "content": "Why Bitumen?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Bitumen, as a co-product of the oil and gas refining process, can play an important role in a more sustainable paving future. Found everywhere from roads and airports, to roofing and racetracks, bitumen can make a positive difference to people's everyday lives."
+    },
+    {
+      "type": "paragraph",
+      "content": "example has over 100 years of experience in producing and marketing bitumen, with customers ranging from airports and highways to Formula One™ tracks. example has filed patents for more than 200 bitumen and asphalt related inventions and supplies enough bitumen to resurface 500km of roads everyday: enough to travel around the world 4.5 times in a year."
+    },
+    {
+      "type": "paragraph",
+      "content": "Construction companies are facing increasing pressure to reduce their carbon footprint. The construction sector is expected to reach $16.6 trillion by 2025 and currently accounts for 36% of energy use and 39% of all CO2e emissions. example Bitumen can play and important part in reaching their sustainability goals."
+    },
+    {
+      "type": "title",
+      "content": "What is example able to offer?"
+    },
+    {
+      "type": "paragraph",
+      "content": "example Bitumen helps customers avoid emissions in two ways: extending the pavement life and encouraging recycling through our products."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Low Temperature Bitumen</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "Heating bitumen is one of the major contributors to emissions in asphalt production. example Low Temperature Bitumen is designed to work at production temperatures up to 30°C lower than conventional asphalt, reducing both energy use and the risk of thermal oxidization and binder-ageing, which can lead to cracking and degradation."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Cariphalte</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "The production and laying phases both contribute to a roadway's footprint, so a longer life has a positive impact in reducing the GHG emissions generated over the life cycle of a road. Using example Cariphalte helps avoid CO2-eq emissions per tonne of bitumen, compared to conventional penetration grade. It provides a range of benefits including increased asphalt life, improved elasticity recovery and viscosity, reduced likelihood of fatigue cracking, low temperature cracking, improved fuel resistance and adhesion/cohesion."
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Soft Binders and Cariphalte RC</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "Asphalt is currently the most recycled construction material in the world. Reducing carbon footprint can be achieved through changes to various parts of the asphalt product supply chain, and also by reducing the amount of resources required. example Cariphalte RC is formulated to deliver a higher concentration of polymer to compensate for the dilution with Reclaimed Asphalt Pavement (RAP) - with no drop in performance."
+    }
+  ],
+  "sustainable-bitumen-estimated-cost-highlight-subtext": "Dependent on the type of application",
+  "sustainable-bitumen-decarbonisation-highlight-subtext": "Up to 70% reduction",
+  "sustainable-bitumen-regions-highlight-subtext": "Asia, Africa, Europe, and Oceania",
+  "sustainable-bitumen-delivering-organisation-highlight-subtext": "example",
+
+  "reducing-co2-intensity-with-example-chemicals-title": "Reducing CO2 intensity with example Chemicals",
+  "reducing-co2-intensity-with-example-chemicals-subtext": "Working across the value chain to provide our customers with high-quality circular products and sustainable chemicals.",
+  "reducing-co2-intensity-with-example-chemicals-img-alt": "Pipeline facility",
+  "reducing-co2-intensity-with-example-chemicals-content-blocks": [
+    {
+      "type": "title",
+      "content": "Solutions for now and tomorrow"
+    },
+    {
+      "type": "paragraph",
+      "content": "example Chemicals develops sustainable products that contribute to society's ability to live, work, care and respond to climate change. Offsets via <link>Nature Based Solutions (NBS)</link> can be offered immediately and can be used to offset the carbon footprint of the products you buy from example. In the long-term, example intends to expand its production of sustainable chemicals. By 2025, example plans to process 1 million tonnes a year of plastic waste in order to produce circular chemicals."
+    },
+    {
+      "type": "title",
+      "content": "Enabling zero emission via offsets now"
+    },
+    {
+      "type": "paragraph",
+      "content": "NBS offer immediate, scalable and cost-effective pathways to significant net emission reductions. example sources a portfolio of high-quality carbon credits from global projects, selected for their demonstrated benefits. You can use these carbon credits to offset the Product Carbon Footprint (PCF) of the chemical products example sells to you. You can extend this to offset the carbon footprint from all the products you produce."
+    },
+    {
+      "type": "title",
+      "content": "Enabling circularity"
+    },
+    {
+      "type": "paragraph",
+      "content": "example uses plastic waste to produce chemicals in our chemical plant at Norco, Louisiana, USA.  The technique, known as pyrolysis, is considered a breakthrough for hard-to-recycle plastics and advances example's ambition of recycling one million tonnes of plastic waste a year in its global chemical plants by 2025."
+    },
+    {
+      "type": "paragraph",
+      "content": "example is working with multiple companies who collect and transform plastic waste in order to scale this solution to industrial and profitable quantities across its chemicals plants - in Asia, Europe and North America."
+    },
+    {
+      "type": "paragraph",
+      "content": "example is a founding member of the Alliance to End Plastic Waste (AEPW). This not-for-profit organisation is bringing together top minds from across the plastics value chain (chemical and plastic manufacturers, consumer goods companies, retailers, converters and waste management companies) and partnering with the financial community, governments and civil society. The AEPW has committed $1.5 billion over the next five years to help end plastic waste in the environment."
+    },
+    {
+      "type": "paragraph",
+      "content": "example is also working with its Mobility, Business Fuels and Lubricants customers to help reduce, reuse and recycle plastic packaging."
+    },
+    {
+      "type": "title",
+      "content": "Reduce fossil dependency"
+    },
+    {
+      "type": "paragraph",
+      "content": "example is developing a chemical portfolio, derived from non-fossil fuel sources such as plant-based materials. The feedstock is either biomass-based or bio-circular and results in products with the same specifications and performance as our conventional products and provide a lower carbon footprint."
+    },
+    {
+      "type": "title",
+      "content": "example Chemicals invests in decarbonisation"
+    },
+    {
+      "type": "paragraph",
+      "content": "As part of our drive to reduce the carbon intensity of our chemicals supply chain, solar PV panels now help power our Moerdijk petrochemicals complex. With 76,000 panels and a peak capacity of 27 megawatts, this is one of the largest solar plants of its kind in the Netherlands."
+    },
+    {
+      "type": "paragraph",
+      "content": "Dow and example are working together to accelerate technology to electrify ethylene steam crackers to reduce CO2 emissions. The joint programme has secured €3.5 million of funding from the Dutch Government, while Dow and example are jointly evaluating the possibility of constructing a multi-megawatt pilot plant with a potential start-up in 2025, subject to investment support."
+    },
+    {
+      "type": "openInNewTabText",
+      "content": "<externalLink>Dow and example joint development media release</externalLink>"
+    }
+  ],
+  "reducing-co2-intensity-with-example-chemicals-estimated-cost-highlight-subtext": "Below $10/tCO2e (based on the Nature-Based Solutions off-set, expected to change in future)",
+  "reducing-co2-intensity-with-example-chemicals-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "reducing-co2-intensity-with-example-chemicals-regions-highlight-subtext": "Asia: Available in most Asian countries \nEurope: Available in most European countries \nAmericas: Canada and United States",
+  "reducing-co2-intensity-with-example-chemicals-delivering-organisation-highlight-subtext": "example",
+  "reducing-co2-intensity-with-example-chemicals-external-link": "https://www.example.com/business-customers/chemicals/media-releases/2021-media-releases/dow-and-example-demonstrate-progress-in-joint-technology.html",
+
+  "highlight-estimated-cost-subtitle": "Estimated cost impact",
+  "highlight-decarbonisation-subtitle": "tCO2e decarbonisation potential",
+  "highlight-regions-subtitle": "Regions",
+  "highlight-delivering-organisation-subtitle": "Delivering organisation",
+  "highlight-explore": "Talk with our experts to explore this solution.",
+  "highlight-btn-text": "Talk to an expert",
+  "highlight-toolip-content": "\nThe estimated cost impact is for indication only. It gives an estimate of the marginal abatement costs and is defined as the avg. cost of reducing 1 ton of CO2e.  \n\nThis is calculated based on this formula: $/TCO2e = NPV/TCO2e avoided x (-1), where NPV is the Net Present Value of the Abatement project.",
+  "highlight-tool-tip-aria-label": "Tell me more about the estimated cost impact",
+  "highlight-btn-aria-label": "Contact us for {{ title }}",
+  "recommendation-disclaimer": "Please note that any recommendation from the Hub is not conclusive. We do not provide any form of advisory or consultancy services to your company. We work with your company to identify low-carbon solutions based on information you have provided us on the Hub, and whether you choose to pursue or implement any solution is entirely your decision. Please also note that example does not provide assurance or guarantee on the result or outcome of any solution as they could be influenced by external factors beyond our control.",
+
+  "corrosion-free-pipelines-title": "Corrosion-free pipelines for offshore",
+  "corrosion-free-pipelines-subtext": "Thermoplastic Composite Pipes (TCP) are a lightweight, low carbon footprint alternative for offshore pipeline needs.",
+  "corrosion-free-pipelines-img-alt": "Thermoplastic composite pipes on the site",
+  "corrosion-free-pipelines-content-blocks": [
+    {
+      "type": "title",
+      "content": "TCP as a low CO2e emissions pipeline"
+    },
+    {
+      "type": "paragraph",
+      "content": "example has been at the forefront of the Thermoplastic Composite Pipe technology, supporting Strohm in the initial development of the technology. Once Strohm commercialised the product and TCP technology, example became a shareholder to further accelerate the adoption of the technology in the conventional energy business. example is still supporting Strohm in product development, particularly for deepwater riser applications. Strohm has a contract in place with example and example has already deployed TCP products in West Africa, the Gulf of Mexico and the North Sea."
+    },
+    {
+      "type": "paragraph",
+      "content": "As the world intensifies its effort to transition away from energy sources with high Greenhouse Gas emissions to lower ones, selecting technologies enabling this reduction is crucial. Thermoplastic Composite Pipes are a great way to lower the CO2e footprint of pipelines for subsea development by up to 60%, in the energy industry and beyond. Strohm is committed to its core values for a sustainable future: reducing the CO2e footprint of pipelines around the globe and providing solutions for hydrogen and carbon capture applications."
+    },
+    {
+      "type": "title",
+      "content": "What is TCP?"
+    },
+    {
+      "type": "paragraph",
+      "content": "TCP is the World's only high-pressure thermoplastic composite pipe that combines a smooth bore with high collapse resistance and flexibility. The inherent characteristics of TCP (lightweight and spoolable) make it suitable to be transported and installed by smaller vessels, further reducing fuel consumption and CO2e emissions. During installation, TCP is laid and connected quicker compared to other solutions, as it does not require welding or complex ancillaries."
+    },
+    {
+      "type": "paragraph",
+      "content": "Furthermore, thanks to its non-metallic nature, choosing TCP alleviates all worries caused by corrosion, inspection and maintenance, recovery and redeployment."
+    },
+    {
+      "type": "title",
+      "content": "Applications"
+    },
+    {
+      "type": "paragraph",
+      "content": "Thanks to its no material properties, TCP does not suffer from CO2-induced corrosion and performs well under high pressures, making it a good cost-effective, high-pressure pipeline option. It can also be pulled through existing infrastructure, avoiding the need for complex removals and retrofitting and thus reducing the environmental impact. TCP can be used in different configurations, such as flowlines, offloading and injecting jumpers, as well as risers from floating vessels."
+    },
+    {
+      "type": "paragraph",
+      "content": "TCP is an enabler of the energy transition, as it is suitable for the application of Carbon Capture and Storage (CCS), hydrogen and offshore solutions. Its resistance to corrosion can support the CCS projects, as well as hydrogen pipeline. TCP pipes can be weight coated to a target weight to ensure on-bottom stability, a great alternative for both fixed-bottom and floating Offshore Wind Farms."
+    }
+  ],
+  "corrosion-free-pipelines-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "corrosion-free-pipelines-decarbonisation-highlight-subtext": "Up to 60% reduction",
+  "corrosion-free-pipelines-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "corrosion-free-pipelines-delivering-organisation-highlight-subtext": "Strohm",
+
+  "adip-ultra-title": "ADIP Ultra for CO2 removal",
+  "adip-ultra-subtext": "A cost-effective, solution to decarbonise industrial processes.",
+  "adip-ultra-img-alt": "Pearl GTL (gas to liquids) plant",
+  "adip-ultra-content-blocks": [
+    {
+      "type": "title",
+      "content": "A solution to tighter CO2 regulations"
+    },
+    {
+      "type": "paragraph",
+      "content": "Gas development projects face growing challenges from resources containing increasing amounts of CO2, tighter sales specifications and stricter environmental emission standards. At the same time, operators in the energy industries are looking for solutions to debottleneck existing plants, while reducing their operating costs and carbon footprint."
+    },
+    {
+      "type": "title",
+      "content": "example Catalysts & Technologies' track record"
+    },
+    {
+      "type": "paragraph",
+      "content": "example Catalysts & Technologies has a long history of developing gas-treating processes; ADIP technology, for example, dates back to the 1950s. Since then, more than 500 example operating facilities and licensees have applied the technology, establishing a solid  track record of high levels of performance and reliability."
+    },
+    {
+      "type": "title",
+      "content": "Process description"
+    },
+    {
+      "type": "paragraph",
+      "content": "ADIP ULTRA technology uses two amines, methyl diethanolamine (MDEA) as the main reactant and piperazine as the accelerator, and water. It can help to reduce the capital and operating costs of grassroots plants and revamps owing to the solvent's high capacity for CO2 and hydrogen sulphide removal, and its low circulation, when compared with using aqueous MDEA. ADIP ULTRA solvent can facilitate efficient and stable operations owing to its characteristics of low levels of hydrocarbon solubility, foaming, fouling, corrosion and degradation."
+    },
+    {
+      "type": "title",
+      "content": "Business case and application"
+    },
+    {
+      "type": "paragraph",
+      "content": "The ADIP ULTRA gas-treating process cost-effectively treats gases with high CO2 levels. Compared with conventional process line-ups it can help to reduce equipment costs by up to 30%, cut regeneration energy requirements by up to 30%, and capture up to 25% more CO2. All the solvent chemicals can be sourced on the open market. When combining ADIP ULTRA with example's new absorption column internals, example Turbo Trays, can further enhance process performance. These can help operators to process higher CO2 concentrations and increase capacity by up to 80%. They can also help to reduce column diameter by up to 30% and weight by up to 50%."
+    }
+  ],
+  "adip-ultra-estimated-cost-highlight-subtext": "Between $10 and $100/tCO2e",
+  "adip-ultra-decarbonisation-highlight-subtext": "Up to 99% reduction",
+  "adip-ultra-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "adip-ultra-delivering-organisation-highlight-subtext": "example",
+
+  "blue-hydrogen-title": "Blue Hydrogen for heavy industries",
+  "blue-hydrogen-subtext": "Transitioning to a decarbonised future.",
+  "blue-hydrogen-img-alt": "Hydrogen Heavy Duty unit, Los Angeles, US",
+  "blue-hydrogen-content-blocks": [
+    {
+      "type": "title",
+      "content": "Why use example's Blue Hydrogen Process?"
+    },
+    {
+      "type": "paragraph",
+      "content": "example is a market leader in developing full-scale Carbon Capture, Usage and Storage (CCUS) projects. Low-carbon blue hydrogen will be part of the future energy mix and the example Blue Hydrogen Process (SBHP) offers a lower levelised cost of hydrogen than alternative line-ups. The technologies that make up the SBHP are proven at the 500-t/d scale in multiple, longstanding applications worldwide thanks to example's market-leading expertise developing full-scale CCUS projects."
+    },
+    {
+      "type": "title",
+      "content": "Why Blue Hydrogen?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Without low-carbon hydrogen, decarbonising heavy industry to achieve international net-zero ambitions would be difficult. Today's hydrogen production is carbon intensive. Green hydrogen (from the electrolysis of water using renewable power) is likely to be a long-term solution, but may not achieve cost parity with blue hydrogen, which is produced from natural gas with carbon capture, utilisation and storage, until about 2045."
+    },
+    {
+      "type": "title",
+      "content": "Technology specifications"
+    },
+    {
+      "type": "paragraph",
+      "content": "The SBHP, which integrates proprietary technologies (example Gas Partial Oxidation (SGP) and ADIP ULTRA technologies), offers significant advantages over the alternatives. Compared with Steam Methane Reforming (SMR), SGP technology saves money by maximising carbon capture efficiency and simplifying the process line-up, which offsets oxygen production costs. Post-combustion carbon capture technology, such as the example CANSOLV2 CO Capture System, can be retrofitted to SMR line-ups to create blue hydrogen. However, for greenfield applications, oxygen-based systems are more cost-effective. This advantage increases with scale, as the relative cost of the air-separation unit decreases. Post-combustion capture is also higher cost than precombustion capture using example ADIP ULTRA solvent technology."
+    },
+    {
+      "type": "paragraph",
+      "content": "Compared with Autothermal Reforming (ATR), SGP technology has a simpler line-up, with no need for substantial feed gas pretreatment, and does not require a fired heater that emits carbon dioxide (CO2). Another advantage is that the SGP process generates, rather than consumes, steam to satisfy the demands of the process and other consumers."
+    },
+    {
+      "type": "paragraph",
+      "content": "The SGP process is also more robust against feed contaminants, which gives refiners greater feed flexibility. Although SGP technology consumes 6% more natural gas for a high-grade hydrogen application, this is offset by power generation from the excess steam. For industrial grade hydrogen, the natural gas consumption can be reduced further."
+    },
+    {
+      "type": "title",
+      "content": "Benefits"
+    },
+    {
+      "type": "paragraph",
+      "content": "These benefits translate into:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "22% lower levelised cost of hydrogen for SGP technology compared with ATR (and even greater benefit when compared with SMR).",
+        "17% lower plant capital expenditure.",
+        "34% lower operating expenditure (excluding natural gas feedstock price) is achieved through reduced compression duties and provides more steam for internal power generation.",
+        "6% higher natural gas consumption offset by having more steam available for power generation."
+      ]
+    }
+  ],
+  "blue-hydrogen-estimated-cost-highlight-subtext": "Levelised cost of $2 per kg of Hydrogen",
+  "blue-hydrogen-decarbonisation-highlight-subtext": "Up to 95% reduction",
+  "blue-hydrogen-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "blue-hydrogen-delivering-organisation-highlight-subtext": "example",
+
+  "decarbonise-your-fleet-title": "Decarbonise your fleet while fuelling",
+  "decarbonise-your-fleet-subtext": "example TapUp allows your vehicle to be refueled without having to go to a fuel station.",
+  "decarbonise-your-fleet-img-alt": "Worker fuelling a truck from a example TapUp vehicle",
+  "decarbonise-your-fleet-content-blocks": [
+    {
+      "type": "title",
+      "content": "What is example TapUp?"
+    },
+    {
+      "type": "paragraph",
+      "content": "example TapUp was launched to support the energy transition, by enabling a mobile refuelling infrastructure to scale up the supply of lower-carbon products to fleet companies globally. We offer a variety of fuels (including alternative fuels) directly to customers' vehicles, fleets, tanks, and construction equipment."
+    },
+    {
+      "type": "paragraph",
+      "content": "Refuelling fleets on location not only saves you time and money, but also helps to avoid additional mileage. In addition, all fuel supplied by example TapUp can be carbon offset. By leveraging example's nature-based solutions offering, example TapUp gives fleet companies the opportunity to drive carbon neutral* through certified CO2-compensation projects."
+    },
+    {
+      "type": "paragraph",
+      "content": "The global fleet industry is experiencing rapid changes and significant new challenges. One of the most significant of these challenges is meeting industry sustainability goals and transitioning to more efficient, low-carbon operations. example TapUp offers solutions to avoid, reduce and offset emissions to help reduce your carbon footprint in a customer-centric manner."
+    },
+    {
+      "type": "title",
+      "content": "Avoid"
+    },
+    {
+      "type": "paragraph",
+      "content": "Avoid carbon emissions with our mobile fuelling service. We fuel direct to your vehicle, fleet of vehicles, tanks, and construction equipment. example TapUp handles the fuelling so that your drivers can avoid driving the extra miles to the fuel stations."
+    },
+    {
+      "type": "title",
+      "content": "Reduce"
+    },
+    {
+      "type": "paragraph",
+      "content": "Reduce your carbon emissions starting today. From adopting alternative fuels (such as example GTL Fuel and Hydrotreated Vegetable Oil) through to using data to ensure that your vehicles are driven in the most efficient and economic ways, example TapUp can help you to reduce your fleet emissions."
+    },
+    {
+      "type": "title",
+      "content": "Offset"
+    },
+    {
+      "type": "paragraph",
+      "content": "Offset carbon emissions that cannot be avoided or reduced. example TapUp offers fleet companies the opportunity to drive carbon neutral and have a significant impact on their footprint today, by offsetting unavoidable CO2 emissions from driving their fleet.*"
+    },
+    {
+      "type": "paragraph",
+      "content": "“Refuelling fleets on location not only saves fleet companies time and money, but also helps them avoid additional road miles driven,” explains Daniel Arbour, Global Head of example TapUp. “Using telematics and data analytics, we also provide insights into fuel consumption and driving behaviour as well as driver training to ensure efficiencies. In addition, leveraging example's nature-based solutions (NBS) offering, we give fleet companies the opportunity to offset their emissions through certified CO2-compensation projects around the world.”"
+    },
+
+    {
+      "type": "title",
+      "content": "How it works?"
+    },
+    {
+      "type": "list",
+      "content": [
+        "1. Schedule: We agree on a schedule and come to your location whenever you want.",
+        "2. Fuel: Our skilled Mobile Service Champions fuel your fleet with our high-quality fuels.",
+        "3. Save: You can carbon offset your fuel while saving time and money."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "* “Carbon neutral” indicates that example has engaged in a transaction where an amount of CO2 equivalent to the CO2e amount associated with the raw material extraction, transport, production, distribution and usage of the fuel has been avoided as emissions through the protection of natural ecosystems or removed from the atmosphere through a nature-based process. CO2e (CO2 equivalent) refers to CO2, CH4, N2O."
+    }
+  ],
+  "decarbonise-your-fleet-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "decarbonise-your-fleet-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "decarbonise-your-fleet-regions-highlight-subtext": "Americas: United States, Europe: United Kingdom",
+  "decarbonise-your-fleet-delivering-organisation-highlight-subtext": "example",
+
+  "onsite-solar-title": "Onsite solar",
+  "onsite-solar-subtext": "Decarbonizing operations and lowering energy costs by generating electricity on your own locations with solar panels.",
+  "onsite-solar-img-alt": "Solar panels on factory rooftop",
+  "onsite-solar-content-blocks": [
+    {
+      "type": "title",
+      "content": "Make a statement with Solar PV on your roof"
+    },
+    {
+      "type": "paragraph",
+      "content": "Onsite solar is a highly visible way to demonstrate commitment to the energy transition, decarbonize part of the total energy demand and reduce energy costs immediately. It is often seen as one of the greenest solutions available. By adding generation capacity onsite, there will be less usage of power from the grid and usage from the available grid capacity. It may help to free up capacity for expansion of the business and further electrification, such as eMobility and eHeat."
+    },
+    {
+      "type": "title",
+      "content": "Generating power onsite increases flexibility and reduces costs"
+    },
+    {
+      "type": "paragraph",
+      "content": "Our approach for onsite solar is focused around the principles of rights sizing and fit with local policy and regulation requirements. Through sizing systems to meet the onsite energy demands, majority of the renewable energy will be consumed onsite. This enables avoidance of cost elements associated with grid supply, such as transmission and distribution charges. Policy differs across jurisdictions, which may require different commercial models to benefit from these differences. example has the capacity to provide different commercial set ups that fit with local market requirements."
+    },
+    {
+      "type": "title",
+      "content": "A fit-for purpose solution thanks to example expertise"
+    },
+    {
+      "type": "paragraph",
+      "content": "Working within customer premises example is committed to their businesses and operations, in terms of continuity, engineering and technical integration. example's high technical, project delivery and safety standards minimize impact on business operations. Where possible opportunities are sought to strengthen the power infrastructure and reliability."
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy B2B Solutions will assess the needs of a customer, recommend the optimal setup, and manage the project installation from start to finish, including the provision of financing. Once in operation, customers will be able to better control their energy consumption, emissions, and protect their business from grid constraints and disruptions."
+    }
+  ],
+  "onsite-solar-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "onsite-solar-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "onsite-solar-regions-highlight-subtext": "Europe: Germany, Italy, Netherlands, Spain, and United Kingdom",
+  "onsite-solar-delivering-organisation-highlight-subtext": "example",
+
+  "battery-storage-title": "Battery storage ",
+  "battery-storage-subtext": "Supporting decarbonizing and limiting the impact of grid constraints by storing electricity on site with your own batteries.",
+  "battery-storage-img-alt": "Battery energy storage facility",
+  "battery-storage-content-blocks": [
+    {
+      "type": "title",
+      "content": "Increase your operations' resilience"
+    },
+    {
+      "type": "paragraph",
+      "content": "A more decentralized and flexible power system is fundamental for the success of the Energy Transition: onsite battery storage can play a crucial part in achieving a more resilient system. Batteries can help to support business operations at a site, e.g. by optimizing renewables consumption and enabling further growth despite grid constraints, and provide support the keep the grid stable and relief congestion."
+    },
+    {
+      "type": "title",
+      "content": "Onsite storage is a value driver"
+    },
+    {
+      "type": "paragraph",
+      "content": "Our approach for onsite storage is to seek the optimal balance between the support of the site and its business operations, and support of the grid and the value that it can deliver, in line with local policy and regulation requirements. Through sizing systems in line with the onsite demand and growth projections driven by electrification, a battery will focus majority of its service to support the sites business operations. In scenarios where some of the capacity is not needed, this will be deployed to support the power grid outside of the site."
+    },
+    {
+      "type": "paragraph",
+      "content": "Typical services a battery provides include:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Increase of renewables consumption",
+        "Peak shaving / load shedding or shifting to optimize against grid capacity",
+        "Provide ancillary services"
+      ]
+    },
+    {
+      "type": "title",
+      "content": "A fit-for purpose solution thanks to example expertise"
+    },
+    {
+      "type": "paragraph",
+      "content": "Working within customer premises example is committed to their businesses and operations, in terms of continuity, engineering and technical integration. example's high technical, project delivery and safety standards minimize impact on business operations. Where possible opportunities are sought to strengthen the power infrastructure and reliability."
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy B2B Solutions will assess the needs of a customer, recommend the optimal setup, and manage the project installation from start to finish, incl providing financing. Once in operation, customers will be able to better control their energy, emissions, and protect their business from effects from grid constraints."
+    }
+  ],
+  "battery-storage-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "battery-storage-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "battery-storage-regions-highlight-subtext": "Europe: Germany, Italy, Netherlands, Spain, and United Kingdom",
+  "battery-storage-delivering-organisation-highlight-subtext": "example",
+
+  "energy-management-title": "Energy Management",
+  "energy-management-subtext": "Working on the demand side of the Energy Transition, helping driving down energy consumption to reduce carbon footprints.",
+  "energy-management-img-alt": "Cityscape data",
+  "energy-management-content-blocks": [
+    {
+      "type": "title",
+      "content": "Data-driven energy management solution"
+    },
+    {
+      "type": "paragraph",
+      "content": "Data, insights and digital are key enablers to maximize the impact from decarbonization efforts. example's energy management approach is rooted in aiming to achieve the optimum between the value of the reduction in energy consumption vs the costs and efforts required."
+    },
+    {
+      "type": "title",
+      "content": "Cost reduction through energy consumption optimisation"
+    },
+    {
+      "type": "paragraph",
+      "content": "Our approach for energy management seeks to provide the maximum reduction in energy consumption at a cost level. This results in a positive impact to the bottom line. Starting from creating more transparency based on available energy data, the aim is to generate actionable insights that will help to raise the energy performance."
+    },
+    {
+      "type": "paragraph",
+      "content": "Based on an assessment of the equipment available onsite, further opportunities may be pursued. These can come from optimizing the energy consumption of the equipment itself, ensuring more energy efficient operations. If the equipment has energy flexibility, this flexibility may provide potential to offer to the energy market to help to maintain stability of the overall power grid. Energy management solutions are offered as part of broader customer projects, e.g. coupled with energy supply and solar."
+    },
+    {
+      "type": "title",
+      "content": "A fit-for purpose solution thanks to example expertise"
+    },
+    {
+      "type": "paragraph",
+      "content": "Working within customer premises example is committed to their businesses and operations, in terms of continuity, engineering and technical integration. example's high technical, project delivery and safety standards minimize impact on business operations. Where possible opportunities are sought to strengthen the power infrastructure and reliability."
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy B2B Solutions will assess the needs of a customer, recommend the optimal setup, and manage the project installation from start to finish, incl providing financing. Once in operation, customers will be able to better control their energy, emissions, and protect their business from effects from grid constraints."
+    }
+  ],
+  "energy-management-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "energy-management-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "energy-management-regions-highlight-subtext": "Europe: Germany, Italy, Netherlands, Spain, and United Kingdom",
+  "energy-management-delivering-organisation-highlight-subtext": "example",
+
+  "corporate-power-purchase-agreements-title": "Corporate Power Purchase Agreements",
+  "corporate-power-purchase-agreements-subtext": "Corporate Power Purchase Agreements (PPAs) enable you to contribute to the development of new renewable assets.",
+  "corporate-power-purchase-agreements-img-alt": "Engineer standing in a solar panels farm",
+  "corporate-power-purchase-agreements-content-blocks": [
+    {
+      "type": "title",
+      "content": "The emerging preference for buying renewable power"
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy can partner with you for the most suitable corporate power purchase agreement (PPA) for your company. You can access a fast-growing global portfolio of renewable power supplies from existing and under-development assets owned by us and, occasionally, third parties. We can handle the power operations and balancing for you. You can fix and manage the power price along the tenure of the PPA. We can publicise the PPA together and increase the environmental attributes of your brand. Corporate PPAs enable you to contribute to the development of new renewable assets."
+    },
+    {
+      "type": "title",
+      "content": "Corporate Power Purchase Agreements"
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy can offer large business energy customers retail supply arrangements where the electricity you are supplied is notionally linked to a specific renewable generator (or generators)."
+    },
+    {
+      "type": "paragraph",
+      "content": "To do this, we sign separate contracts with you and the generator, which will save you the time and complexity of direct negotiations. You will have a fixed electricity retail rate and receive 1 Large-scale Generation Certificate (LGC) per megawatt hour (MWh) of renewable generation."
+    },
+    {
+      "type": "paragraph",
+      "content": "Benefits include no exposure to variable pool prices, no contracts for difference and no electricity derivative accounting requirements."
+    },
+    {
+      "type": "paragraph",
+      "content": "Contract terms and eligibility:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Contracts are negotiated on a case-by-case basis",
+        "Contracts are usually for 3 or 4 year terms, reflecting how far ahead we can offer fixed rates",
+        "Miimum customer volume thresholds may apply (typically at least 50GWh per state and year)",
+        "Only available for large sites with interval meters in the National Electricity Market (NEM)",
+        "Product availability is subject to confirmation and is depdendent on customer demand and appropriate renewable generator availability within the example Energy portfolio"
+      ]
+    },
+    {
+      "type": "title",
+      "content": "Corporate Power Purchase Agreement Services"
+    },
+    {
+      "type": "paragraph",
+      "content": "Already have a direct wholesale agreement with a renewable generator? Let example Energy assist you through our range of corporate Power Purchase Agreement (PPA) services. Specifically, we can help you get the most out of your corporate PPA through the following services:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Financial settlement and reconcilliation services for the wholesale agreement",
+        "Risk management, pool price exposure and price firming solutions",
+        "Simplifying Large-scale Renewable Certificate (LREC) transfers and related actions between the parties"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "If you want to generate renewable energy on your site but do not want the upfront capital costs, talk to us about our onsite Power Purchase Agreements (PPA)."
+    },
+    {
+      "type": "paragraph",
+      "content": "Our expert team will design and install solar or other renewables systems on your site. As agreed in your PPA, we'll deliver your cleaner energy at fixed rates."
+    },
+    {
+      "type": "contentImage",
+      "content": "renewable-project-flow-diagram.png"
+    }
+  ],
+  "corporate-power-purchase-agreements-estimated-cost-highlight-subtext": "Between $10 and $100 /tCO2e",
+  "corporate-power-purchase-agreements-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "corporate-power-purchase-agreements-regions-highlight-subtext": "Most of Americas, Asia, Australia \n\nEurope: Italy, Netherlands, Spain, and United Kingdom",
+  "corporate-power-purchase-agreements-delivering-organisation-highlight-subtext": "example",
+
+  "cansolv-title": "Cansolv Technologies Inc. CO2 capture system",
+  "cansolv-subtext": "Post-combustion CO2 capture, via retrofit to extend life or as a greenfield solution.",
+  "cansolv-img-alt": "Aerial view of Boundary Dam Power Station",
+  "cansolv-content-blocks": [
+    {
+      "type": "title",
+      "content": "Capturing carbon dioxide while reducing sulphur dioxide and nitrogen dioxide emissions"
+    },
+    {
+      "type": "paragraph",
+      "content": "Current and anticipated legislation throughout most of the developed world suggests that a reduction in the amount of CO2 that industry will be allowed to emit in the future is inevitable. Meanwhile, the world's energy demand is expected to increase by nearly 50% by 2030, and fossil fuels are likely to be a significant portion of the world's energy mix for many years to come. The technology can help refiners, utilities and other industries to lower their carbon intensity and meet stringent greenhouse gas abatement requirements by removing CO2 from their exhaust streams, with the added benefit of simultaneously lowering SO2 and NO2 emissions."
+    },
+    {
+      "type": "title",
+      "content": "What does CANSOLV do?"
+    },
+    {
+      "type": "paragraph",
+      "content": "The CANSOLV CO2 Capture System employs a regenerable solvent and a proprietary amine technology that captures the CO2 from the flue gas and releases it as a pure stream, which is delivered to the client for sale into the EOR and commodity markets or for eventual sequestration. example Catalysts & Technologies has used its experience to develop a patented CO2 capture technology that offers cutting-edge performance, including low parasitic energy consumption, fast kinetics and extremely low volatility."
+    },
+    {
+      "type": "title",
+      "content": "How does it work?"
+    },
+    {
+      "type": "paragraph",
+      "content": "The process steps are as follows. Feed gas is quenched and saturated in a circulated water pre- scrubber. Then, gas contacts the lean amine solution in a counter-current mass-transfer packed absorption column. At this stage CO2 is absorbed and the treated gas exits to atmosphere. At the same time, partially loaded amine is removed from the tower, cooled and reintroduced over a layer of mass transfer packing. CO2-rich amine from the absorption column is pumped through a lean-rich amine heat exchanger and then on to the regeneration column. Rising, low-pressure saturated steam in the absorption column regenerates the lean amine solution. CO2 is recovered as a pure, water-saturated product while lean amine is pumped from the stripper reboiler to the absorption column for reuse in capturing CO2. Finally the CO2 is directed to by-product management systems."
+    }
+  ],
+  "cansolv-estimated-cost-highlight-subtext": "Between $10 and $100 /tCO2e",
+  "cansolv-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "cansolv-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "cansolv-delivering-organisation-highlight-subtext": "example",
+
+  "leveraging-distributed-energy-title": "Leveraging distributed energy",
+  "leveraging-distributed-energy-subtext": "Connecting distributed energy assets and controlling their energy flows, GreenCom enables maximum self-consumption, and reduced emissions and costs.",
+  "leveraging-distributed-energy-img-alt": "Worker viewing solar panel usage on mobile application",
+  "leveraging-distributed-energy-content-blocks": [
+    {
+      "type": "title",
+      "content": "Distributed energy assets on the rise"
+    },
+    {
+      "type": "paragraph",
+      "content": "Every day, new solar PV systems are installed in residential homes and new battery storages are connected to those systems. Electric vehicles numbers are rising each year and heat pump installations are soaring. In short, distributed energy asset numbers are growing rapidly: From currently 300 million assets installed worldwide to more than 900 million in 2030. These assets fall right into the large energy industry trends of decarbonisation and decentralisation helping to reduce emissions and costs for end customers while, at the same time, putting them into the driver's seat as they now can make decisions on their energy generation."
+    },
+    {
+      "type": "title",
+      "content": "Leveraging digitalisation the right way"
+    },
+    {
+      "type": "paragraph",
+      "content": "When it comes to digitalisation, much work remains to be done: most already installed assets are not digitally connected and many newly shipped assets are only connected to the original manufacturer offering a fractured experience to homeowners with several assets installed. Furthermore, the strong benefits of several installed assets can only be reaped with a solution covering the whole ecosystem."
+    },
+    {
+      "type": "paragraph",
+      "content": "To solve this problem, GreenCom Networks has built up a large driver library for distributed energy resources. The platform works with the most important asset brands, models and types, such as solar PV, battery storages, heat pumps, EV chargers or storage heaters. Based on this integration, GreenCom provides optimisation capabilities and delivers data for all customer engagement components. An asset in question is not integrated yet? GreenCom has built the tools to quickly integrate new assets."
+    },
+    {
+      "type": "paragraph",
+      "content": "Once all assets are integrated, optimisation taking external and internal data into account can provide the best results. GreenCom's platform ensures the most effective use based on customer optimisation choices and external data like weather forecasts, forecasts of production and usage behaviour and market data."
+    },
+    {
+      "type": "title",
+      "content": "Energy communities enabling energy sharing"
+    },
+    {
+      "type": "paragraph",
+      "content": "Sharing is caring! This is also true for energy. Energy communities are a vital part of the energy transition connecting prosumers, consumers and other players in the energy sector. Based on its solution, GreenCom offers all building blocks for a successful energy community enabling members to share energy in close to real-time with each other not only saving costs but also emissions. In numbers that means members can save up to 20% on their annual energy bill and an average of 1.7 t of CO2 per year."
+    },
+    {
+      "type": "title",
+      "content": "A place for end customers and service companies"
+    },
+    {
+      "type": "paragraph",
+      "content": "Energy used to be grey, boring and very technical. Not anymore. Each GreenCom solution comes with a dedicated and intuitive end customer app offering live energy flows, live data on household consumption, production, customisable dashboards, reports and much more. Via mobile app or desktop app."
+    },
+    {
+      "type": "paragraph",
+      "content": "Visibility and control, of course, are just as vital to service companies installing and running distributed assets though. To address this need, GreenCom offers a single platform providing all customer data and asset performance in one overview and sends alerts when necessary. The results: improved sales conversions by 5% and reduced customer support requests by up to 25% and savings on inefficient customer visits of 40%."
+    }
+  ],
+  "leveraging-distributed-energy-estimated-cost-highlight-subtext": "Between $10 and $100/tCO2e for a user base higher than 100.000; Above $100/tCO2e for a lower user number due to less scaling effects.",
+  "leveraging-distributed-energy-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "leveraging-distributed-energy-regions-highlight-subtext": "Most of Europe, Americas, Asia and Oceania",
+  "leveraging-distributed-energy-delivering-organisation-highlight-subtext": "GreenCom Networks",
+
+  "lo3-energy-consumption-tracking-title": "24/7 Energy consumption tracking",
+  "lo3-energy-consumption-tracking-subtext": "Turnkey accounting platform for renewable energy procurement. Precise energy & financial data, custom metrics and reporting configured to your needs.",
+  "lo3-energy-consumption-tracking-img-alt": "LO3 energy platform dashboard view on laptop and mobile",
+  "lo3-energy-consumption-tracking-content-blocks": [
+    {
+      "type": "title",
+      "content": "LO3 enables you to get hold of your energy procurement"
+    },
+    {
+      "type": "paragraph",
+      "content": "LO3 Energy is a example Ventures portfolio company based in Portland, Oregon. The company has developed its Pando software platform over 5+ years, across projects spanning the US, EU, Japan and Australia. The highly configurable SaaS platform matches hourly production & facility loads across a portfolio of resources and offtake agreements for integrated accounting and reporting. Pando's flexible data intake supports a wide range of metering, and its configurable financial rules engine offers more than basic Scope 1 & 2 emissions reporting: core PPA terms, supply rates and wholesale prices are reflected to provide side-by-side economic and emissions visibility. The software is available in 8+ languages and currencies for highly customized deployments."
+    },
+    {
+      "type": "title",
+      "content": "A platform to capture and manage energy data complexities"
+    },
+    {
+      "type": "paragraph",
+      "content": "“24/7” carbon-free energy requires matching supply & load at increasingly shorter timescales. LO3's Pando platform is highly configurable cloud software to match load & supply and simplify complex accounting for renewable energy procurement. Customers increasingly have a combination of behind-the-meter generation, direct PPAs and grid supply across multiple regions to serve their needs. Such complexity of supply is only increasing."
+    },
+    {
+      "type": "paragraph",
+      "content": "Granular temporal matching of supply and demand can enable differentiated reporting and new economic incentives. Pando's tools connect this real-time matching to new business models and actions. As cloud-hosted software, Pando has been designed to be deployed across a variety of geographies and use cases. Data can be input and reconciled from a variety of existing sources - meter data management systems, direct from devices, inverters - via Pando's flexible data intake pathways. That data is then run through Pando's configurable rules engine which reflects existing retail supply rates, PPA terms, wholesale prices, etc. A custom allocation function enables virtual accounting to be spread across multiple facilities and multiple regions. Data is then visualized through Pando's web application which can be configured for custom reporting and metrics."
+    },
+    { "type": "title", "content": "Available metrics" },
+
+    {
+      "type": "paragraph",
+      "content": "A menu of default, priority metrics is available to users out of the box. Additional metrics and visualizations are available upon request. Key default reports include:"
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Cost & Savings</strong>"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Widgets to visualize real-time savings and avoided utility costs",
+        "Cost breakdowns by resource: local DER performance vs. offtake agreements vs. traditional supply ($$)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Energy Metrics</strong>"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Energy breakdowns by resource: local DER performance vs. offtake agreements vs. traditional supply (MWh)",
+        "Load profiles at hourly/sub-hourly intervals to highlight best-fit load shifting incentives",
+        "At a portfolio level, supply and demand comparison charts to identify anomalies and trends between facilities"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>CO2 Metrics</strong>"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Provides additional granularity to overlay PPA and DER performance against grid supply to track marginal emissions & reductions",
+        "Data available in a downloadable .csv or direct system integration capabilities"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "<strong>Is my data safe?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "content": "Pando employs leading edge cybersecurity and data privacy practices. Such key features include:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Encryption based on best practice at rest and in-transit",
+        "Role-based access identity solution with directory integration support",
+        "Geographically bound data regions",
+        "Minimal PII and pseudonymization throughout layers to reduce risk",
+        "Centralized monitoring and logging for cybersecurity event detection",
+        "Compliance program based on NIST Cybersecurity Framework and SOC 2"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Pando's modern cloud architecture enables nimble and efficient deployment in as little as 2-4 weeks. LO3 has one of the longest commercial track records in the sector and brings best practices and lessons learned from 20 projects across 5 continents. "
+    }
+  ],
+  "lo3-energy-consumption-tracking-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "lo3-energy-consumption-tracking-decarbonisation-highlight-subtext": "Increasing the renewable energy generation mix by 5% above the status quo in the US will reduce emissions by 1.36 Gigatonnes over 10 years.",
+  "lo3-energy-consumption-tracking-regions-highlight-subtext": "Most of Americas, Asia, Europe and Oceania",
+  "lo3-energy-consumption-tracking-delivering-organisation-highlight-subtext": "LO3 Energy, Inc",
+
+  "innowatts-carbon-energy-analytics-title": "Carbon & energy analytics",
+  "innowatts-carbon-energy-analytics-subtext": "By disaggregating and optimising your energy consumption, Innowatts enables you to reduce CO2e emissions by at least 20%.",
+  "innowatts-carbon-energy-analytics-img-alt": "Wind turbines and electricity power lines",
+  "innowatts-carbon-energy-analytics-content-blocks": [
+    {
+      "type": "title",
+      "content": "Innowatts helps you understand and optimise your consumption patterns"
+    },
+    {
+      "type": "paragraph",
+      "content": "Innowatts is an energy analytics platform, enabling consumers to reduce their CO2 footprint while lowering overall energy spend. Innowatts platform is deployed across North America, Europe and Asia with multiple energy consumers, utilities and smart cities."
+    },
+    {
+      "type": "paragraph",
+      "content": "The Innowatts platform ingests energy usage data to provide detailed energy and carbon insights. Currently hosting data from over 45-million meters, Innowatts has expanded its service offering to include analytics that remove the often-cumbersome barriers to electrification and decarbonisation. "
+    },
+    {
+      "type": "paragraph",
+      "content": "Electric and heat consumption is the single largest source of green house emissions, 32% of total emissions. You can reduce the energy consumption specific emissions by at least 20% by just gaining visibility and optimising your energy consumption drivers. Every 1MW of energy demand optimisation is equivalent to planting 15-20 trees."
+    },
+    {
+      "type": "title",
+      "content": "Carbon analytics and forecasting"
+    },
+    {
+      "type": "paragraph",
+      "content": "For commercial and industrial premises, Innowatts can help energy managers analyze the carbon footprint associated with each meter within their portfolio. By ingesting data from the site (whether from metering and / or submetering), Innowatts combines this with grid-level data, focusing on the generation mix and carbon intensity of supply. Once ingested, the Innowatts platform cleanses and harmonizes these datasets, before analysing this to provide deep carbon insights for each site. Users have 24/7 access to the Innowatts web-based platform, whereby they can access and interpret detailed carbon analytics for their sites. This information is often utilized for Scope 2 carbon emissions reporting and informing customers of their actual carbon footprint."
+    },
+    {
+      "type": "title",
+      "content": "DER Product Suitability"
+    },
+    {
+      "type": "paragraph",
+      "content": "By leveraging customer-centric energy intelligence in conjunction with load disaggregation and predictive analytics, Innowatts can further enable portfolio-wide decarbonization and electrification. Once carbon intensive sites and / or outliers have been identified to energy managers, platform users can then rank sites based on their suitability for decarbonization products, including electric heating, solar, demand response, pricing, and storage systems."
+    }
+  ],
+  "innowatts-carbon-energy-analytics-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "innowatts-carbon-energy-analytics-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "innowatts-carbon-energy-analytics-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "innowatts-carbon-energy-analytics-delivering-organisation-highlight-subtext": "Innowatts",
+
+  "renewable-energy-certificates-title": "Renewable Energy Certificates",
+  "renewable-energy-certificates-subtext": "Renewable Energy Certificates (RECs) are a flexible energy product that can help your company decarbonise its footprint and meet regulatory requirement.",
+  "renewable-energy-certificates-img-alt": "Two employees at a solar power station",
+  "renewable-energy-certificates-content-blocks": [
+    {
+      "type": "title",
+      "content": "Invest in clean energy by purchasing RECs"
+    },
+    {
+      "type": "paragraph",
+      "content": "When alternative green power options are not available locally RECs are a flexible product enabling you to source green energy on a pan-European or global scale, overcome the renewable electricity supply gap and met your sustainability targets."
+    },
+    {
+      "type": "title",
+      "content": "Meet regulatory and voluntary sustainability targets with RECs"
+    },
+    {
+      "type": "paragraph",
+      "content": "We leverage our trading capabilities and work with renewable energy producers to provide RECs for businesses just like yours. RECs are issued when one megawatt-hour (MWh) of electricity is generated and delivered to the electricity grid from a renewable energy source. You can purchase these RECs either as a stand-alone product or bundled with energy. Sold, delivered, or purchased separately from electricity, RECs are flexible and cost-effective. They are not tied to an underlying power purchase agreement (PPA) and can come from either a single renewable source or a mix of sources. When purchased alongside electricity from the same renewable source, RECs are less flexible but allow for the option to to claim the purchase of clean energy from a specific project."
+    },
+    {
+      "type": "title",
+      "content": "Generating Green-e certified power"
+    },
+    {
+      "type": "paragraph",
+      "content": "Help meet your sustainability targets with RECs verified by Green-e Energy, the global leader in clean energy and carbon credit certification. Green-e Energy offers certified RECs that meet consumer-protection standards set by the Center for Resource Solutions (CRS)."
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy Europe offers you a variety of renewable energy certificates, which can be used to meet your renewable energy commitments. These include European Guarantees of Origin (GoOs), UK Renewable Obligation Certificates Certificates (ROCs) and UK Renewable Energy Guarantees of Origin (REGOs)."
+    },
+    {
+      "type": "paragraph",
+      "content": "Green-e Energy can:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Source a variety of certificates according to your needs, from the most basic ones to more advanced eco-labels with additional sustainability features.",
+        "Take care of all the administration around your GoOs, ensuring that they are registered, tracked and retired on your behalf in the national registry and providing you with the cancellation statement.",
+        "Maintain 100% renewable fuel mix disclosure in the UK by presenting renewable energy certificates to the regulator."
+      ]
+    },
+    {
+      "type": "title",
+      "content": "Flexibility to source renewable energy anywhere"
+    },
+    {
+      "type": "paragraph",
+      "content": "Renewable energy certificates document that the energy you consume comes from renewable sources. These certificates provide information on the asset type, location and production date of renewable power and thus make it possible to track and trade renewable electricity."
+    },
+    {
+      "type": "paragraph",
+      "content": "This is a flexible product, enabling you to source renewable energy on a pan-European or global scale where alternative renewable power options are not available."
+    }
+  ],
+  "renewable-energy-certificates-estimated-cost-highlight-subtext": "Between $10 and $100 /tCO2e",
+  "renewable-energy-certificates-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "renewable-energy-certificates-regions-highlight-subtext": "Most of Europe",
+  "renewable-energy-certificates-delivering-organisation-highlight-subtext": "example",
+
+  "renewable-power-title": "Renewable Power",
+  "renewable-power-subtext": "Renewable power is a bundled electricity supply with the renewable energy certificate of your choice.",
+  "renewable-power-img-alt": "Cityscape with solar panels",
+
+  "renewable-power-content-blocks": [
+    {
+      "type": "title",
+      "content": "More and cleaner energy solutions"
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy provides your business with advanced and high-value solutions for energy assets and commodities, including natural gas, power and environmental products, across a broad range of European markets. As part of the global network of example Trading, we are active across all stages of the energy value chain from production, transport and storage to trading, sales and customer service. Our expertise, dedicated services and scale enable us to offer our customers market access and supply, optimisation of energy assets and energy management. We also provide single and cross-commodity solutions, including a growing portfolio of renewable energy sources and voluntary carbon credits."
+    },
+    {
+      "type": "title",
+      "content": "All-in-one renewable energy solution"
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy Europe, an established power trader and licensed supplier with 15 years of trading experience, can offer you renewable power products."
+    },
+    {
+      "type": "list",
+      "content": [
+        "We can source and supply electricity at competitive prices and give you the opportunity to fix and unfix your commodity price before your power is delivered.",
+        "You will receive a bespoke renewable power contract and access your invoice and power consumption on the example Energy Customer Portal.",
+        "We will guarantee that the volume of your actual power consumption is the same as the retired renewable energy certificates and provide you with the cancellation statement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "With our renewable power offering, you can be active in reducing emissions and showcase your commitment to tackling climate change."
+    },
+    {
+      "type": "paragraph",
+      "content": "Electricity will play an increased role in future energy systems. example is building a significant power business, one that in the future will sit alongside oil, gas and chemicals. We are involved at almost every stage of the process, from generating electricity, to buying and selling it, to supplying it directly to customers. We are expanding our existing electricity business and moving into new areas such as smart grids, distributed generation, domestic and industrial-scale batteries and electric vehicle charging."
+    },
+    {
+      "type": "paragraph",
+      "content": "5,000 MW+ of renewable power capacity production under management globally, including wind, hydro and solar. We partner with renewable power producers and developers, off-taking both short and long-term electricity from wind and solar plants in the UK, The Netherlands, Spain and Italy."
+    },
+    {
+      "type": "paragraph",
+      "content": "In Europe we have traded power for almost 20 years, since early liberalisation, consolidating our presence in 14 European power markets and in most of the power exchanges. example has invested in the Blauwwind consortium that will build and operate the Borssele 3 and 4 wind farms off the Dutch coast. example is managing a total installed capacity of 366 MW, enough to power around 825,000 Dutch households."
+    },
+    {
+      "type": "paragraph",
+      "content": "In the US, our solar interests currently include: Silicon Ranch, US; solar deployments at our own facilities; and Greenfield solar and storage projects in development. Our wind projects in operation, and under development, have the potential to bring 6 GW of power to the grid."
+    },
+    {
+      "type": "paragraph",
+      "content": "Our portfolio includes: Four operating windfarms in the US, powering approximately 97,000 homes. Two offshore wind farms under development, set to generate more than 4 GW combined."
+    },
+    {
+      "type": "paragraph",
+      "content": "example Energy provides your business with advanced and high-value solutions for energy assets and commodities, including natural gas, power and environmental products, across a broad range of European markets. As part of the global network of example Trading, we are active across all stages of the energy value chain from production, transport and storage to trading, sales and customer service. Our expertise, dedicated services and scale enable us to offer our customers market access and supply, optimisation of energy assets and energy management. We also provide single and cross-commodity solutions, including a growing portfolio of renewable energy sources and voluntary carbon credits."
+    }
+  ],
+  "renewable-power-estimated-cost-highlight-subtext": "Between $10 and $100 /tCO2e",
+  "renewable-power-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "renewable-power-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "renewable-power-delivering-organisation-highlight-subtext": "example",
+
+  "sustainable-land-asset-enhancement-title": "Sustainably enhance your land assets",
+  "sustainable-land-asset-enhancement-subtext": "AiDash ISMS (Intelligent Sustainability Management System) helps you to benchmark and improve your land's Carbon absorption potential along with biodiversity and other natural capital metrics.",
+  "sustainable-land-asset-enhancement-img-alt": "Aerial view of electircity power lines",
+  "sustainable-land-asset-enhancement-content-blocks": [
+    {
+      "type": "title",
+      "content": "A data-driven approach to manage land"
+    },
+
+    {
+      "type": "paragraph",
+      "content": "AiDash ISMS platform enables landowners to take stock of the natural capital value of their land assets. Using ISMS, landowners can plan, track and restore the ecosystem for climate protection, carbon absorption and biodiversity net gains."
+    },
+    {
+      "type": "paragraph",
+      "content": "AiDash is an AI-first vertical SaaS company on a mission to transform operations, maintenance, and sustainability in industries with geographically distributed assets by using satellites and AI at scale. With access to a continual, near real-time stream of critical data, utilities, energy, mining, and other core industries can make more informed decisions and build optimized long-term plans, all while reducing costs, improving reliability, and achieving sustainability goals."
+    },
+    {
+      "type": "title",
+      "content": "AiDash adds Artificial Intelligence and Satellites in a Project Manager's toolkit"
+    },
+
+    {
+      "type": "paragraph",
+      "content": "The Intelligent Sustainability Management System (ISMS) is designed to enable large landowners to increase the carbon absorption potential of their land assets by measuring and classifying  their land using satellite and AI image recognition - removing the need for manual ecological land surveys."
+    },
+    {
+      "type": "paragraph",
+      "content": "The resulting GIS information along with automated environmental calculations are used to establish a natural capital inventory across land estates or multiple site portfolios. Clients typically set enhancement goals aligned with their corporate ESG mission statement and access their data through the secure ISMS web application - a point data repository solution for sustainability land management. ISMS equips clients with the ability to risk assess land developments - balancing benefits across Carbon absorption, biodiversity, pollution removal, community benefits and many other Natural Capital metrics (selected from our library or added as a bespoke metric)."
+    },
+    {
+      "type": "paragraph",
+      "content": "ISMS includes planning, project governance, audit and bespoke reporting features enabling Clients to rapidly create and assess planning options, manage projects per corporate segregation of duties and structures, optimise and monitor enhancement changes at a site/project level and manage performance against targets across their portfolio. We recognise the importance of management/ annual reporting data outputs that come as standard and provide export features for simple transfer to GIS platforms and the Clients sustainability report."
+    },
+    {
+      "type": "title",
+      "content": "A high-impact cost-effective solution"
+    },
+    {
+      "type": "paragraph",
+      "content": "Costs of habitat assessment are 75% less than traditional methods, the risk of human error is removed, and repeatability is ensured with software process automation. Classification quality is benchmarked with professional ecologists, the time to deliver results materially cut and crucially, ISMS provides a whole-estate digital data set in a single easy to use application. Repeat surveys are often requested every 3-5 years and included as part of the software license fee."
+    },
+    {
+      "type": "paragraph",
+      "content": "Costs vary with the estate scale - for example, ISMS is priced at $20,000/Ha for estates with less than 500 individual locations and a total land area of less than 5,000 Ha."
+    }
+  ],
+  "sustainable-land-asset-enhancement-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "sustainable-land-asset-enhancement-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "sustainable-land-asset-enhancement-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "sustainable-land-asset-enhancement-delivering-organisation-highlight-subtext": "AiDash",
+
+  "co2-fleet-emission-compensation-title": "Compensate the CO2 emissions of your Fleet",
+  "co2-fleet-emission-compensation-subtext": "Opt-in to compensate the CO2e emissions from your fleet and help protect natural ecosystems.",
+  "co2-fleet-emission-compensation-img-alt": "Vehicles on a highway",
+  "co2-fleet-emission-compensation-content-blocks": [
+    {
+      "type": "title",
+      "content": "example Fleet Solutions allows you to compensate the carbon emissions from your fuels"
+    },
+    {
+      "type": "paragraph",
+      "content": "The global fleet industry is experiencing rapid changes and significant new challenges. To meet these, and to ensure that countries around the world achieve a fleet mobility system that suits their needs and sustainability aspirations, requires not one solution – but many. These solutions can be categorized into the hierarchy, Avoid through fast, reliable EV Charging, Reduce, through the use of lower emission fuels and finally Compensate. Compensating with the example Fleet Card can play a key role in your decarbonization strategy, allowing you to compensate difficult to avoid carbon emissions in a simple and cost-effective way."
+    },
+    {
+      "type": "title",
+      "content": "What are CO2 compensation* projects?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Carbon credits can be generated by nature-based solutions (NBS) as well as projects using other methodologies, such as household devices or small-scale renewable energy, that help to minimise the total amount of greenhouse gas (GHG) in the atmosphere. Nature-based solutions comprise all activities related to the protection or re-development of natural ecosystems such as forests, grasslands, and wetland systems to lower concentrations of greenhouse gases in the atmosphere. This can include avoiding or minimising greenhouse gas emissions and helping to sequester carbon into carbon sinks. Nature-based solutions can in instances also create co-benefits aligned with the UN Sustainable Development Goals, such as strengthening biodiversity, creating food security, and creating sustainable livelihoods."
+    },
+    {
+      "type": "title",
+      "content": "Compensating the carbon emissions from your fuel"
+    },
+    {
+      "type": "paragraph",
+      "content": "A carbon credit represents the avoidance or removal of 1 tonne of carbon dioxide. These credits are traded among governments and businesses. To ensure the quality and integrity of carbon credits, there is a robust program of third-party standards, verification processes and registries. For customers who fill up with the example Fleet Card, customers will pay a small fee to compensate the lifecycle carbon emissions of their fleet, this means all emissions for example Fleet Card users will be compensated."
+    },
+    {
+      "type": "title",
+      "content": "example card"
+    },
+    {
+      "type": "paragraph",
+      "content": "The example Card allows you to access a large network of sites in many countries across the globe with world-class on-site facilities. The card allows you to manage your fleet in an online portal where you can run performance reports, review transactions, and manage your cards. example Fleet Hub enables you to set up reports to monitor everything from fleet fuel consumption to transactions and exceptions, and you can even get everything emailed to you on a regular basis. Your example Card is the smart solution for cashless payments on the road- and not just for fuel. Use our fleet card to pay non-fuel transactions, such as road tolls with fewer on-board units, VAT Recovery, truck wash and more — all without the need for your drivers to use cash."
+    },
+    {
+      "type": "paragraph",
+      "content": "How does this work?"
+    },
+    {
+      "type": "list",
+      "content": " By opting in to compensate for the carbon emissions of your fleet, as your drivers refuel at either a example or third-party service the example Card will track your fleet's overall fuel consumption and calculate the associated lifecycle CO₂ emissions. example will purchase carbon credits equivalent to the amount of your fleet's carbon emissions to compensate them through example's global portfolio of CO2 compensation* projects. You will then be issued with an annual retirement certificate confirming that the CO2 emissions of the fuel has been compensated."
+    },
+    {
+      "type": "title",
+      "content": "Business benefits"
+    },
+    {
+      "type": "paragraph",
+      "content": "There are several advantages to compensating the CO2 emissions of your fleet fuels with example:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Annually, you will receive carbon reduction certificate",
+        "Your company will demonstrate corporate leadership and strengthen its position",
+        "You can begin, or continue, sustainable business practices",
+        "You can meet the increasing demands of internal and external stakeholders",
+        "Your business can have a positive impact on communities around the world by offsetting through verified projects."
+      ]
+    },
+    {
+      "type": "disclaimer",
+      "content": "*CO2 compensation does not imply that there is no environmental impact from the production and use of the product as associated emissions remain in the atmosphere. CO2 compensation is not a substitute for switching to lower emission energy solutions or reducing the use of fossil fuels. example businesses focus first on emissions that can be avoided or reduced and only then, compensate the remaining emissions."
+    },
+    {
+      "type": "disclaimer",
+      "content": "“Carbon neutral” or “CO2 compensated” indicates that example will engage in a transaction where an amount of CO2 equivalent to the value of the remaining CO2e emissions associated with the [raw material extraction, transport, production, distribution] [and usage /end-of-life (if Lubricants or other non-energy product)] of the [product] are compensated through the purchase and retirement of carbon credits generated from CO2 compensation projects. Although these carbon credits have been generated in accordance with international carbon standards, the compensation may not be exact."
+    },
+    {
+      "type": "disclaimer",
+      "content": "CO2e (CO2 equivalent) refers to CO2, CH4, N2O."
+    }
+  ],
+  "co2-fleet-emission-compensation-estimated-cost-highlight-subtext": "Depends on the type of application",
+  "co2-fleet-emission-compensation-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "co2-fleet-emission-compensation-regions-highlight-subtext": "Middle East & Asia: Hong Kong, India, Malaysia, Oman, Pakistan, Philippines, Singapore and Thailand.\n\nEurope: Austria, Belgium, Bulgaria, Czech Republic, Denmark, France, Germany, Hungary, Luxemburg, Netherlands, Norway, Poland, Russia, Slovakia, Slovenia, Switzerland and United Kingdom \n\nAmericas: Canada and USA\n\nAfrica: South Africa\n\nOceania: Australia",
+  "co2-fleet-emission-compensation-delivering-organisation-highlight-subtext": "example",
+
+  "i6-fuel-management-title": "Smarter, Greener Fuel Management",
+  "i6-fuel-management-subtext": "i6 are industry leaders, driving efficiency and CO2 reduction within the aviation and transportation sectors with innovative fuel management technologies.",
+  "i6-fuel-management-img-alt": "Aircraft turbine engine close-up",
+  "i6-fuel-management-content-blocks": [
+    {
+      "type": "title",
+      "content": "The Future of Fuel Management"
+    },
+    {
+      "type": "paragraph",
+      "content": "Hard-to-abate sectors will require data-driven, innovative approaches to meet their decarbonisation ambitions. By leveraging data to improve efficiency, transparency and sustainability, the aviation industry can make leaps towards carbon-free flying."
+    },
+    {
+      "type": "paragraph",
+      "content": "i6 offers hardware and software solutions to optimise fuel management in the aviation, energy, defence, and transport sectors. Founded in Hampshire, England in 2013, i6 technology is utilised at over 150 airports globally, including North America, Europe, Africa, Oceania and Asia. Together with investors International Airlines Group (IAG), World Fuel Services, Jet Blue Technology Ventures and example Ventures, i6 provides services to trusted companies such as British Airways, KLM, Virgin Atlantic, and Menzies Aviation, increasing operational efficiency and saving airlines thousands of tonnes of CO2."
+    },
+    {
+      "type": "title",
+      "content": "Leveraging the i6 Biosphere"
+    },
+    {
+      "type": "paragraph",
+      "content": "i6's cloud-based technology is built with reliability, safety, and security in mind, with an average platform uptime of 99.98%. These products fall under the i6 Biosphere product ecosystem, which encompasses all elements of the i6 offering, enabling end-to-end, data-driven, connected fuel management."
+    },
+    {
+      "type": "title",
+      "content": "Get complete control over your fuel inventory"
+    },
+    {
+      "type": "paragraph",
+      "content": "i6's solutions enable companies to achieve increased control over their fuel inventory and accounting. Reconcile6TM is their fuel inventory and accounting platform, used to track the movement of fuel across the whole supply chain, including Bulk Storage, Accounting, and Logistics. Through Reconcile6TM, companies can track inbound and outbound deliveries,  assess fuel quality, manage fuel transfers between assets, and keep on top of stock changes through controlling static sales and non-sales stock volumes. Through end-to-end digitisation, companies can track every fuel movement from fuel-farm to aircraft, all in real time."
+    },
+    {
+      "type": "title",
+      "content": "Full remote visibility over ground fuelling operations"
+    },
+    {
+      "type": "paragraph",
+      "content": "Fusion6TM is an into-plane refuelling management platform, providing companies with full remote visibility of ground fuelling operations by connecting data between airports and airlines. Fusion6TM enables greater operational efficiency and minimised operational costs, real time visibility and overview of into-plane operations, as well as improved safety through the logging of safety processes. Fusion6 is an integrated management platform that can be tailored to meet the specific needs of each company, even including business aviation at private airports. eHandshakeTM - their app-based solution designed for distanced interaction between pilots and ground crew - lets the pilot interact digitally with the refueller. This allows for quicker and paperless refuelling, social distancing, and a 50% reduced risk of over-fuelling."
+    },
+    {
+      "type": "title",
+      "content": "Real-time view of essential data"
+    },
+    {
+      "type": "paragraph",
+      "content": "Providing companies with essential inventory and operational data, Perspective6TM can increase fuel efficiency through providing a real-time view of fuelling operations and stock levels. Companies can manage supply chains using up-to-date information, leading to optimised resource use through a dynamic offering which allows companies to collect and compare data from any location across the world.  Through harnessing the power of Perspective6TM, i6 gives companies the opportunity to develop a deeper understanding of their fuelling data.  Airlines and suppliers can feel empowered by leveraging this data to control global fuel costs at a granular level with Synthesis6TM .Using real time operational data and contract pricing, automatic calculations and validation of costs and fees, and the ability to store all required data and information in one central location, Synthesis6TM makes invoicing and financial control significantly more intuitive and efficient."
+    }
+  ],
+  "i6-fuel-management-estimated-cost-highlight-subtext": "Dependent on the type of application",
+  "i6-fuel-management-decarbonisation-highlight-subtext": "Up to 50% reduction",
+  "i6-fuel-management-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "i6-fuel-management-delivering-organisation-highlight-subtext": "i6 Group",
+
+  "renewable-natural-gas-title": "Decarbonisation with Renewable Natural Gas",
+  "renewable-natural-gas-subtext": "With its low-to-negative carbon intensity score, RNG can quickly help companies meet their near-term emissions reduction targets.",
+  "renewable-natural-gas-img-alt": "Cows grazing in a field",
+  "renewable-natural-gas-content-blocks": [
+    {
+      "type": "title",
+      "content": "Lowering costs and emissions by putting waste to work"
+    },
+    {
+      "type": "paragraph",
+      "content": "Renewable Compressed Natural Gas (R-CNG) is a low-to-negative carbon emissions natural gas transportation fuel derived from organic waste like food waste or livestock manure. R-CNG can be used to decarbonize fleet emissions or in a voluntary scenario to offset fossil-derived natural gas consumption for industrial or heating uses."
+    },
+    {
+      "type": "paragraph",
+      "content": "In 2021, we opened our first renewable compressed natural gas (R-CNG) fuelling site in the USA at our products distribution complex in Carson, California. The R-CNG is sourced from example's portfolio of anaerobic digestion projects. The fueling site at Carson allows example to substantially decarbonise its product movements out of the terminal by providing 100% R-CNG for its contracted hauling company."
+    },
+    {
+      "type": "title",
+      "content": "Help decarbonise your fleet with R-CNG"
+    },
+    {
+      "type": "paragraph",
+      "content": "The use of RNG in natural gas-fuelled vehicles, either as renewable compressed natural gas offers customers already using these vehicles an attractive alternative for lowering their carbon footprint and meeting their sustainability goals."
+    },
+    {
+      "type": "paragraph",
+      "content": "With its low to negative carbon intensity score, RNG can quickly help companies meet their near-term emissions reduction targets. Converting biomethane from organic waste into RNG is a proven and reliable process, that captures previously uncontrolled methane emissions from dairy farms and landfills, preventing harmful greenhouse gases from entering the atmosphere."
+    },
+    {
+      "type": "paragraph",
+      "content": "example's RNG business is uniquely positioned to support corporate decarbonization goals with investments being made both upstream (RNG production) and downstream (R-CNG station dispensing). RNG technology and infrastructure have expanded rapidly over the past decade, and RNG is fungible, fully interchangeable with natural gas from other sources. There are currently more than 22 million natural gas vehicles (NGVs) in use around the world today, with voluntary demand for RNG to enable lower carbon emissions growing rapidly. example is investing heavily in RNG production and distribution in the United States and Canada."
+    },
+    {
+      "type": "title",
+      "content": "R-CNG meeting the needs of tomorrow"
+    },
+    {
+      "type": "paragraph",
+      "content": "According to the California Air Resources Board, renewable natural gas sourced from dairy manure can result in an approximately 250 percent reduction in life cycle greenhouse gas emissions when replacing petroleum diesel in a heavy-duty application. A large fraction of the savings come from avoided methane emissions when manure is collected for RNG production. Encouraged by government policies, demand for RNG is increasing in transport sectors such as road and marine. Establishing a business in the production and supply of RNG allows example to continue providing customers with the fuels they need, not only today but in the future."
+    },
+    {
+      "type": "title",
+      "content": "Why make the switch to R-CNG?"
+    },
+    {
+      "type": "paragraph",
+      "content": "R-CNG offers multiple advantages over traditional transportation fuels. It can be used in the same applications as conventional natural gas with no difference in performance. Even better, it provides drastic reduction in emissions compared to fossil fuels, helping companies achieve sustainability goals. This is because of its production process: instead of extracting hydrocarbons from underground, they are recovered from waste that would otherwise be disposed of."
+    },
+    {
+      "type": "paragraph",
+      "content": "Because of this, uncontrolled methane emissions are captured before they are released in the atmosphere."
+    },
+    {
+      "type": "paragraph",
+      "content": "Additionally, it provides additional income for dairy farmers and creates valuable byproducts including compost, fertilizer and animal bedding. It should also be noted that R-CNG benefits from government incentives in the United States and Canada."
+    }
+  ],
+  "renewable-natural-gas-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "renewable-natural-gas-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "renewable-natural-gas-regions-highlight-subtext": "Americas: USA",
+  "renewable-natural-gas-delivering-organisation-highlight-subtext": "example",
+
+  "onsite-renewable-power-generation-title": "Onsite Renewable Power Generation",
+  "onsite-renewable-power-generation-subtext": "Accelerating the transition to the net-zero carbon grid by generating on-site, low cost, resilient, clean power.",
+  "onsite-renewable-power-generation-img-alt": "Renewable Power Generation Unit",
+  "onsite-renewable-power-generation-content-blocks": [
+    {
+      "type": "title",
+      "content": "Local Power Generation for a Zero-Carbon Future"
+    },
+    {
+      "type": "paragraph",
+      "content": "Driven by its vision of the affordable, reliable, zero carbon grid of the future, Mainspring is delivering a breakthrough new category of power generation – the linear generator – to leading commercial, industrial, and utility customers to increase their energy resilience, generate cost savings, and meet their sustainability and climate goals.  Customers include Fortune 500 companies like Kroger and Lineage Logistics, as well as utilities like PG&E, Florida Power and Light, and others.  Based in Menlo Park, Calif., Mainspring is backed by top-tier investors."
+    },
+    {
+      "type": "title",
+      "content": "Affordable, Reliable and Clean Energy Generation"
+    },
+    {
+      "type": "paragraph",
+      "content": "The Mainspring Linear Generator delivers unmatched flexibility for the grid transition, including the ability to switch between fuels like hydrogen, ammonia, and biogas with software, and quickly track and firm renewables with its full dispatchability. Whether deployed as a single unit or as a grid-scale array, the technology is easy to permit and interconnect in any jurisdiction, allowing for broad impact across a wide range of use cases on both sides of the meter."
+    },
+    {
+      "type": "title",
+      "content": "Increased Flexibility in Commercial and Industrial Applications"
+    },
+    {
+      "type": "paragraph",
+      "content": "Mainspring Linear Generators are designed to flexibly operate to meet your cost savings, sustainably, and resiliency needs.  Full dispatchability and dynamic fuel switching enable you to meet your cost goals today and in the future. With 24/7 load-following, the Linear Generator offerrs primary power operation when needed, even when the grid is down. Economic dispatch is based on real-time pricing, and peak-load shaving allows for a reduction of your demand charge."
+    },
+    {
+      "type": "title",
+      "content": "Towards an Adjustable, Scalable Grid Infrastructure"
+    },
+    {
+      "type": "paragraph",
+      "content": "For utilities, municipalities, and power project developers, Mainspring's Linear Generators are movable and offer utility-scale performance for any project size.  The low emissions, modularity, and fuel flexibility of Mainspring's products reduces the permitting and stranded asset risks associated with larger generation and transmission projects. With the Linear Generator, companies can meet capacity needs with a distributed network of systems that alleviate congestion constraints, firm renewables, and add local resiliency. Avoid or defer T&D upgrades by placing high-performance, fuel-flexible capacity with precision, and avoid expensive and multi-year system upgrades while charging Electric (EV) fleets."
+    },
+    {
+      "type": "title",
+      "content": "Enabling Microgrid Resiliency"
+    },
+    {
+      "type": "paragraph",
+      "content": "The Mainspring Linear Generator is the ideal backbone for any microgrid.  With any fuel available, our products can seamlessly integrate with solar, energy storage, and microgrid controllers to provide load balancing while parallel to or isolated from the grid. Be it for shipping ports, data centers, university campuses, municipal infrastructure, military bases, residential communities and a variety of other applications, Mainsprings Linear Generator technology can propel your business towards your net-zero targets."
+    }
+  ],
+  "onsite-renewable-power-generation-estimated-cost-highlight-subtext": "Above $100/tCO2e",
+  "onsite-renewable-power-generation-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "onsite-renewable-power-generation-regions-highlight-subtext": "Most of Europe and\nAmericas",
+  "onsite-renewable-power-generation-delivering-organisation-highlight-subtext": "Mainspring",
+
+  "detect-technology-industrial-efficiency-title": "Maximise industrial efficiency with AI",
+  "detect-technology-industrial-efficiency-subtext": "Unlock new opportunities for industrial efficiency with a cutting-edge industrial AI platform.",
+  "detect-technology-industrial-efficiency-img-alt": "Worker using digital device in factory",
+  "detect-technology-industrial-efficiency-content-blocks": [
+    {
+      "type": "title",
+      "content": "Accelerate industrial transformation with enterprise AI"
+    },
+    {
+      "type": "paragraph",
+      "content": "By leveraging this high-precision deep-learning model companies can eliminate risks to people, processes and assets. With help from example Ventures, Detect Technology aims to realise its mission of enabling faster and better operational decision-making using reliable real-time intelligence and actionable insights using visual inputs from cameras and drones. The T-Pulse platform runs on customizable and secure architectures to offer its users reliable real-time intelligence and actionable insights."
+    },
+    {
+      "type": "title",
+      "content": "Uniting data, workforce, equipment and processes"
+    },
+    {
+      "type": "paragraph",
+      "content": "Detect helps solve complex industrial problems that were previously unsolvable. Using Detect's solutions, companies are can meet global ESG requirements through effective governance. With an Application Availability of over 99.5%, Detect's solution is trusted and used by some of the biggest enterprises including example, ExxonMobil, Adani Group, Reliance Industries, Vedanta Group, Aditya Birla Group, GAIL, LOTTE, Hindustan Petroleum, Indian Oil, Cipla, and many more."
+    },
+    {
+      "type": "title",
+      "content": "Minimise Risk to Personnel"
+    },
+    {
+      "type": "paragraph",
+      "content": "Manage industrial projects and workforce efficiently. Leverage machine vision, sensors, robotics, and machine learning to control and optimize schedule, and ensure end-to-end HSSE performance. Detect's catalogue of products including the Digital Workplace Safety Model, the T-Pulse Automated Entry Authorisation and the Industrial Privacy Anonymisation System allows users to drastically improve personal safety while increasing operational efficiency by having the right methods and data insights to monitor occupancy at the right time."
+    },
+    {
+      "type": "title",
+      "content": "Protecting Assets with deep-learning"
+    },
+    {
+      "type": "paragraph",
+      "content": "Maintain the health and safety of your assets with automated condition and structural health analysis. Integrate a machine learning-enabled platform with your plant to avoid unplanned downtime, maintain asset integrity, and mitigate damage effortlessly. Future-proof your asset life cycle today with Detect's Digital Asset Insepction, Digital Pipeline Patrol, Electrical Asset Monitoring and Pipeline Integrity Monitoring."
+    },
+    {
+      "type": "title",
+      "content": "Reduce process risk"
+    },
+    {
+      "type": "paragraph",
+      "content": "Secure remote facilities, monitor equipment performance, and ensure the safety of workforce present at site with end-to-end intelligent automation. T-Pulse leverages intelligent edge computing to generate real-time insights on anomalies like intrusion, fence breaches, abnormal equipment behavior, fire, smoke, safety compliance, and much more. T-Pulse can potentially save 80% of time consumed in manual data acquisition and invest it in bringing strategic improvements in projects. T-Pulse is a tool for leadership and managers to gain maximum on-ground visibility and address issues more effectively and measure planned outcomes."
+    }
+  ],
+  "detect-technology-industrial-efficiency-estimated-cost-highlight-subtext": "Above $100/tCO2e",
+  "detect-technology-industrial-efficiency-decarbonisation-highlight-subtext": "Up to 10% reduction",
+  "detect-technology-industrial-efficiency-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "detect-technology-industrial-efficiency-delivering-organisation-highlight-subtext": "Detect Technologies",
+
+  "long-haul-bio-lng-title": "Sustainable long-haul transport with bio-LNG",
+  "long-haul-bio-lng-subtext": "A fuel with a mature, scalable, and affordable technology and infrastructure.",
+  "long-haul-bio-lng-img-alt": "Bio LNG Plant",
+  "long-haul-bio-lng-content-blocks": [
+    {
+      "type": "title",
+      "content": "The Future is liquid"
+    },
+    {
+      "type": "paragraph",
+      "content": "The decarbonisation of mobility is one of the fundamental challenges of the energy transition, and this journey is being driven through the application of innovative solutions and emerging technologies. Bio-LNG is the key to unlocking the decarbonisation of the hard-to-abate long-haul transport sector. Nordsol's unique concept liquifies biogas, and offers a clean and safe, advanced biofuel that is widely available at an affordable price. Together with Renewi and example, Nordsol's Amsterdam plant  is the the first bio-LNG production plant in the Netherlands. As the demand for bio-LNG is increasing rapidly, Nordsol is striving to achieve the goal of producing 30,000 tons of bio-LNG per year."
+    },
+    {
+      "type": "title",
+      "content": "The cost-effective, carbon neutral alternative"
+    },
+    {
+      "type": "paragraph",
+      "content": "As bio-LNG is made from renewable sources, it is a carbon neutral biofuel. In addition, as a replacement for fossil LNG (Liquefied Natural Gas), bio-LNG offers similar advantages as LNG does versus diesel, including net-zero CO2 emission, lower engine sound, lower nitrogen oxide emission, with significantly less PM (particulate matter) emissions."
+    },
+    {
+      "type": "paragraph",
+      "content": "As the chemical composition is the same, bio-LNG can be blended at any ratio with fossil LNG. Therefore, it can make use of the LNG fuelling infrastructure that already exists, and which is growing rapidly."
+    },
+    {
+      "type": "title",
+      "content": "How does bio-LNG work?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Bio-LNG is a biofuel made by processing organic waste flows, such as organic household waste, organic industrial waste, manure, and sewage sludge. When anaerobic digestion of organic waste occurs, biogas is emitted in the process. The main components in this biogas are methane (CH4) and carbon dioxide (CO2). To make bio-LNG, the methane is separated from the carbon dioxide and other critical components, and then liquefied. This liquefaction, which is very complex, increases the energy density 600 times and makes the biofuel economically viable for long-haul road and maritime transport. The Nordsol bio-LNG technology is also able to capture and liquefy the separated CO2 from the biogas. This bio-CO2 can be used in the industry and displaces fossil CO2. Capturing the CO2 further improves the carbon intensity of the produced bio-LNG, which creates significant additional value to the business case."
+    },
+    {
+      "type": "title",
+      "content": "Creating value through driving the fuel switch"
+    },
+    {
+      "type": "paragraph",
+      "content": "Biogas producers and consumers alike can achieve more green, social and financial value through the conversion of biogas into bio-LNG. The maritime and road transport sector are under pressure from their customers to become more sustainable, and recognize bio-LNG as the best biofuel to decarbonize the heavy-duty, long-haul transport today. As a result, they are willing to offer attractive prices for bio-LNG. Bringing biogas to the high-value fuel market and capturing the biogenic carbon dioxide can lead to:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Minimised CO2 emissions",
+        "Long-term financial certainty independent from govenment incentive programs",
+        "An opportunity to create a local circle economy, in which biogas produced from local waste is converted into bio-LNG for local transport companies"
+      ]
+    }
+  ],
+  "long-haul-bio-lng-estimated-cost-highlight-subtext": "Above $100/tCO2e",
+  "long-haul-bio-lng-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "long-haul-bio-lng-regions-highlight-subtext": "Most of Europe",
+  "long-haul-bio-lng-delivering-organisation-highlight-subtext": "Nordsol",
+  "solar-solution-title": "Solar Solutions with Expert Advice",
+  "solar-solution-subtext": "Cut emissions and costs with accessible and affordable solar energy, with expert guidance from beginning to end.",
+  "solar-solution-img-alt": "Workers installing a solar panel",
+  "solar-solution-content-blocks": [
+    {
+      "type": "title",
+      "content": "Save today, and help build a sustainable world for tomorrow"
+    },
+    {
+      "type": "paragraph",
+      "content": "Harness the power of solar energy today with solar solutions tailored to the needs of your business. With expert assistance throughout every step of the process, from consultation to implementation, Enie.nl offers an opportunity to save planet and pocket alike."
+    },
+    {
+      "type": "paragraph",
+      "content": "Since 2013 Enie.nl has provided over 20,000 customers with high-end, accessible energy solutions in the Netherlands, Belgium, and South Africa. With help from example Ventures, Enie is excelling in its mission to harness the potential of clean solar energy by making affordable, climate-neutral, and decentralised energy as accessible as possible."
+    },
+    {
+      "type": "title",
+      "content": "Leverage on-site, self-sufficient energy generation"
+    },
+    {
+      "type": "paragraph",
+      "content": "Through replacing fossil fuel-based energy means with solar, businesses see their energy bills drop significantly along with their Co2 emissions. Enie.nl estimates that with 10 solar panels, you can expect to see €800 per annum, and this savings estimate is expected to increase with soaring traditional energy costs. Enie.nl estimates that an installation of 16 350 Wp solar panels could save 1.8t C02 Per year, approximately equating to an average car driving 10,000 kilometres."
+    },
+    {
+      "type": "paragraph",
+      "content": "If you don't want to install panels, you can lease solar panels for carefree energy generation with no upfront investment. Businesses pay a fixed monthly amount for energy generated. Through Enie.nl's Yield Guarantee businesses are reimbursed for any extra charge, and after 10 years the solar panels become under the business' ownership."
+    },
+    {
+      "type": "title",
+      "content": "Charge your sustainable fleet"
+    },
+    {
+      "type": "paragraph",
+      "content": "Enie.nl offers the option for businesses to install the ZonneCarport: a parking, charging and energy generation station in a flexible station. Businesses' fleets can charge with 100% sustainable energy and make optimal use of shaded parking spaces with minimal effort or investment. What's more, employees an rent solar panels through their pay slip through the Green Work Expenses (WKR) scheme, saving costs for employee and employer alike."
+    },
+    {
+      "type": "title",
+      "content": "Solar Panels on your roof within 12-16 Weeks"
+    },
+    {
+      "type": "paragraph",
+      "content": "Enie.nl's services include expert advice that accompanies an interactive solar panel installation process, tailored to your needs. Your business can feel the benefits of solar generation in 12 weeks, from the initial consultancy phase to the final installation. The process follows 4 steps:"
+    },
+    {
+      "type": "ordered-list",
+      "content": [
+        "Analysis and Proposal - a free introductory meeting is arranged between client and advisor, where the client receives a quote determining how many solar panels can be installed based on aerial photos and electricity consumption.",
+        "Purchase Agreement – if the proposal is agreed upon, Enie will draw up a purchase or lease agreement which describes the number of panels, expected yield and next steps.",
+        "Contracts and Preparation – Enie solar experts will contact clients to prepare the project for installation. Here, a definitive agreement is signed and the right of superficies is established. This process will be overseen by the project manager who will act as point of contact and keep you informed regarding the progress.",
+        "Installation – In the installation phase, Enie arranges everything to initiate the process and coordinates with the client. After completion of installation, the solar panels are connected to the grid and energy is generated from this point onwards."
+      ]
+    }
+  ],
+  "solar-solution-estimated-cost-highlight-subtext": "Above $100/tCO2e",
+  "solar-solution-decarbonisation-highlight-subtext": "Up to 100% reduction",
+  "solar-solution-regions-highlight-subtext": "Europe: The Netherlands and Belgium, Africa: South Africa",
+  "solar-solution-delivering-organisation-highlight-subtext": "Enie.NL",
+  "simulation-technology-title": "Make Savings with Simulation Technology",
+  "simulation-technology-subtext": "Leverage Akeslos' advanced engineering simulation technology to optimise processes and sustainability throughout your asset's lifecycle.",
+  "simulation-technology-img-alt": "Close up of wind turbine",
+  "simulation-technology-content-blocks": [
+    {
+      "type": "title",
+      "content": "Optimise Engineering Processes with Breakthrough Tech"
+    },
+    {
+      "type": "paragraph",
+      "content": "Akselos' advanced engineering simulation technology is 1000X faster than legacy approaches, enabling enormous opportunity across the full asset lifecycle. Leverage Akselos' products to optimize your designs at unprecedented scale, run condition-based monitoring, predictive maintenance programs, and safely extend the life of your assets. In collaboration with example ventures, Akselos' Finite Element Analysis (FEA) technology protects multi-billion dollar assets for some of the largest energy operators on the planet."
+    },
+    {
+      "type": "title",
+      "content": "Protecting your assets with Holistic and Detailed Modelling"
+    },
+    {
+      "type": "paragraph",
+      "content": "Akselos patented algorithms enable fully detailed modeling of entire assets. Akselos' advanced reduced basis modeling technology enables holistic and detailed modeling of large scale and/or highly complex systems, so that engineers no longer need to sacrifice accuracy in order to perform their analysis. Holistic and high fidelity modeling is also the foundation of Akselos' Digital Twin platform - a single model that incorporates the current (as is) and future (as could be) conditions of the asset. Full scale system modeling also allows to the removal of unwanted conservatism from the analysis workflow."
+    },
+    {
+      "type": "title",
+      "content": "Pinpoint Accuracy at Unmatched Speed"
+    },
+    {
+      "type": "paragraph",
+      "content": "Akselos enables detailed, large-scale models to be solved 100 to 10,000 faster than conventional methods. This enables Akselos Digital Twins to run simulations fast enough to “keep up” with operations, or to run complete standards-based assessments involving thousands of load cases – such as full spectral fatigue analysis of an offshore structure in the as-is state – within an hour. This speed is critical during operations so that insights from the Digital Twin can be obtained quickly enough (real time if required) to inform operational decisions."
+    },
+    {
+      "type": "title",
+      "content": "Data Integration for Diverse Applications"
+    },
+    {
+      "type": "paragraph",
+      "content": "Akselos physics based Digital Twins are evergreen models of critical assets, that can be driven by sensors. Open cloud architecture allows for seamless connectivity to various data sources and automation of engineering simulations and assessments. Results from live simulations can be accessed on the web via dedicated dashboards, delivered to third party visualization software or connected directly to asset control systems."
+    },
+    {
+      "type": "title",
+      "content": "Comply with Engineering Standards"
+    },
+    {
+      "type": "paragraph",
+      "content": "Akselos' Digital Twins are based on first principles of physics, which means that the outputs can be used directly within workflows based on engineering standards. Unlike purely data driven approaches, Akselos' simulation technology is fundamentally a physics-based method, which is formulated in terms of the same mesh-based approach as standard FEA. This means that all of the standards for structural analysis that rely on FEA apply directly to Akselos Digital Twins. Akselos software can be used to assess fitness-for-purpose and risk-based inspection of critical assets in full conformance with engineering standards."
+    }
+  ],
+  "simulation-technology-estimated-cost-highlight-subtext": "Below $10/tCO2e",
+  "simulation-technology-decarbonisation-highlight-subtext": "Not applicable in this case – this is a process efficiency optimising software",
+  "simulation-technology-regions-highlight-subtext": "Most of Asia, Africa, Europe, Americas and Oceania",
+  "simulation-technology-delivering-organisation-highlight-subtext": "Akselos"
+}

@@ -1,0 +1,202 @@
+{
+  "estimate-your-footprint-title": "Estimate your supply chain's carbon footprint",
+  "estimate-your-footprint-text": "Having relevant information such as estimated data is important for building a sustainability strategy, which is why we are providing a way to request data from your suppliers and also estimate the emissions of your clients.",
+
+  "build-your-supply-chain-title": "Build your supply chain",
+  "build-your-supply-chain-text": "Limit the pressure on frontline buyers in your contracting & procurement organisation and go after your supply chain emissions at scale in an industry recognised method. <b>Securely exchange emission data!</b>",
+  "build-your-supply-chain-cta": "How to start building your network",
+
+  "tabs-pending": "Pending requests",
+  "tabs-suppliers": "Estimated by suppliers",
+  "tabs-customers": "Allocated to customers",
+
+  "suppliers-empty-heading": "No emissions allocated by suppliers for {{ year }}",
+  "suppliers-empty-text": "Emissions data sent by suppliers and approved by your company will show up here",
+  "suppliers-request-button": "Request data",
+
+  "customers-empty-heading": "No emissions allocated to customers for {{ year }}",
+  "customers-empty-text": "Emissions data allocated to customers by your company will show up here",
+
+  "null-cell": "-",
+
+  "supplier-allocating-company": "suppliers",
+  "customer-allocating-company": "customers",
+  "default-allocating-company": "companies",
+
+  "table-header-customer-name": "Customer Name",
+  "table-header-supplier-name": "Supplier Name",
+  "table-header-emissions": "Emissions",
+  "table-header-allocation-method": "Allocation method",
+  "table-header-category": "Category",
+  "table-header-status": "Status",
+  "table-header-actions": "Actions",
+  "table-action-delete": "Delete",
+  "table-action-edit": "Edit",
+  "table-action-resend": "Re-send",
+  "table-total-title": "Total estimated to {{ count }} {{ allocatingCompanyType }}:",
+  "table-total-overallocated": "You have allocated more emissions than your current footprint {{ totalAvailable  }} tCO2e",
+
+  "form-toast-title-error": "Something went wrong",
+  "form-toast-subtitle-error": "Please try again",
+
+  "status-APPROVED": "Accepted",
+  "status-REJECTED": "Rejected",
+  "status-REQUESTED": "Request sent on",
+  "status-AWAITING_APPROVAL": "Awaiting approval",
+  "status-REQUEST_DISMISSED": "Request dismissed",
+
+  "allocation-method-ECONOMICAL": "Economic",
+  "allocation-method-OTHER": "Other",
+  "allocation-method-PHYSICAL": "Physical",
+  "allocation-method-not-selected": "Allocation method is not selected",
+  "allocation-method-selected": "Allocation method is selected",
+  "allocation-method-null": "-",
+  "year-label": "Year",
+
+  "customers-allocate-button": "Allocate emissions",
+
+  "allocation-form-title-allocate": "Allocate emission",
+  "allocation-form-title-edit": "Edit allocation",
+  "allocation-form-subtitle-allocate-[0]": "Your allocation must be compliant with the",
+  "allocation-form-subtitle-allocate-[1]": "<externalLink><icon></icon>GHG Protocol</externalLink> method to allocate emissions.",
+  "allocation-form-subtitle-edit": "Any changes to this allocation, will be re-sent to your customer. Your allocation must be compliant with the <externalLink><icon></icon>GHG Protocol</externalLink> method to allocate emissions. For more information, read the  <externalLink><icon></icon>GHG Protocol</externalLink> - Chapter 8.",
+  "allocation-form-year-label": "Year",
+  "allocation-form-customer-label": "Select customer",
+  "allocation-form-allocation-method-label": "Allocation method",
+  "allocation-form-protocol-link": "https://ghgprotocol.org/sites/default/files/standards/Corporate-Value-Chain-Accounting-Reporing-Standard_041613_2.pdf",
+
+  "request-allocation-form-title": "Request emissions",
+  "request-allocation-form-supplier-label": "Select supplier",
+  "request-allocation-form-note-label": "Message to supplier",
+  "request-allocation-form-pending-allocation-error": "This company already sent you emissions for {{ year }}, go to 'Pending request' tab to link or dismiss.",
+  "request-allocation-form-approved-allocation-error": "This company already sent you emissions for {{ year }}. You can see the allocation information in the 'Estimated by suppliers' tab",
+  "request-allocation-form-request-toaster-title-success": "Request successfully sent",
+  "request-allocation-form-request-toaster-subtitle-success": "You will receive an email when they send their emission details",
+  "request-allocation-form-request-toaster-title-error": "Something went wrong",
+  "request-allocation-form-request-toaster-subtitle-error": "We couldn't process the request. Try again later.",
+
+  "allocation-form-emissions-label": "Carbon emissions",
+  "allocation-form-emissions-tooltip-value-chain-reporting-link": "https://ghgprotocol.org/sites/default/files/standards/Corporate-Value-Chain-Accounting-Reporing-Standard_041613_2.pdf",
+  "allocation-form-emissions-tooltip-product-life-cycle-reporting-link": "https://ghgprotocol.org/sites/default/files/standards/Product-Life-Cycle-Accounting-Reporting-Standard_041613.pdf",
+
+  "allocation-form-missing-customer-tooltip-title": "Can't find your customer?",
+  "allocation-form-missing-customer-tooltip-aria-label": "Can't find a customer?",
+  "allocation-form-missing-customer-tooltip-content": "You first need to invite your customers to be part of your network. Go to the <0><1>Customer Network</1></0> to do it.",
+  "allocation-form-customer-no-options-message": "Your company has no valid customer connections",
+
+  "allocation-form-missing-supplier-tooltip-title": "Can't find your supplier?",
+  "allocation-form-missing-supplier-tooltip-aria-label": "Can't find a supplier?",
+  "allocation-form-missing-supplier-tooltip-content": "You first need to invite your suppliers to be part of your network. Go to the <0><1>Supplier Network</1></0> to do it.",
+  "allocation-form-supplier-no-options-message": "Your company has no valid supplier connections",
+
+  "allocation-formula-tool-tip-title": "Example of allocating formula",
+  "allocation-formula-tool-tip-aria-label": "Example of allocating formula",
+  "allocation-formula-top": "Supplier <b>'volume'</b>",
+  "allocation-formula-bottom": "Company total <b>'volume'</b>",
+  "allocation-cradle-to-gate-emissions": "<b>Cradle-to-gate*</b> emissions",
+  "allocation-cradle-to-gate-definition": "<b>*Cradle-to-gate</b> refers to the carbon impact of a product from the moment it's produced to the moment it leaves your gates.",
+  "allocation-exact-definition": "For the exact definition visit: <productLifeCycleReportingLink><icon></icon>GHG Protocol</productLifeCycleReportingLink> <productLifeCycleReportingLink>Product Life Cycle Accounting and Reporting Standard (Appendix C, pg.134)</productLifeCycleReportingLink>",
+  "allocation-more-info": "For more information on <b>calculations</b> visit: <valueChainReportingLink><icon></icon>GHG Protocol</valueChainReportingLink> <valueChainReportingLink>Corporate Value Chain Accounting and Reporting Standard (Chapter 8, pg. 86-97)</valueChainReportingLink>",
+
+  "allocation-form-cancel": "Cancel",
+  "allocation-form-submit": "Allocate",
+  "allocation-form-edit": "Edit",
+  "allocation-form-resend": "Re-send",
+  "allocation-form-request": "Request",
+
+  "allocation-method-option-physical": "Physical allocation",
+  "allocation-method-option-physical-info": "Select this method if the allocation is based on physical factors like mass, volume, energy, chemical, number of units, etc",
+  "allocation-method-option-economical": "Economic allocation",
+  "allocation-method-option-economical-info": "Select this method if the allocation is based on on economic factors like market-value of products, revenue, gross profit, etc",
+  "allocation-method-option-other": "Other",
+  "allocation-method-option-other-info": "Select this option if your allocation is not based on a Physical or Economic allocation. For example, product or service-specific Life Cycle Assessment (LCA)",
+
+  "allocation-form-emissions-available": "{{ emissions }} tCO2e available",
+
+  "allocation-form-toast-save-title-success": "Emissions successfully allocated to customer",
+  "allocation-form-modal-save-title-success": "Emissions successfully allocated",
+  "allocation-form-toast-save-subtitle-success": "You will receive an email when they accept or reject the emissions",
+  "allocation-form-modal-save-subtitle-success": "You will receive an email when they accept or reject the emissions. Did you know that you can help your supply chain network to better understand your company decarbonisation strategy, by allowing them to see your public data? Got to the your privacy settings to update your preferences.",
+  "allocation-form-toast-update-title-success": "Emissions updated and allocated to customer",
+  "allocation-form-toast-update-subtitle-success": "You will receive an email when they accept or reject the emissions",
+  "allocation-form-modal-button-dismiss": "I'll do it later",
+  "allocation-form-modal-button-cta": "Go to privacy settings",
+
+  "value-chain-empty-heading": "Emissions details missing",
+  "value-chain-empty-text": "You need to add your company emissions to unlock this feature",
+  "value-chain-empty-button": "Add emissions",
+
+  "pending-allocation-button-reject": "Reject",
+  "pending-allocation-button-accept": "Accept",
+  "pending-allocation-button-dismiss": "Dismiss",
+  "pending-allocation-button-allocate": "Allocate",
+  "pending-allocation-title-supplier": "Supplier",
+  "pending-allocation-title-customer": "Customer",
+  "pending-allocation-title-received-on": "Received on",
+  "pending-allocation-title-emissions-year": "{{ year }} emissions",
+  "pending-allocation-title-allocation-method": "Allocation method",
+  "pending-allocation-title-allocation-message": "Message",
+  "pending-allocation-missing-emissions-title": "You don't have corporate emissions for {{ year }}. ",
+  "pending-allocation-missing-emissions-message": "To unlock this request <0>add emissions</0>",
+
+  "pending-allocations-empty-heading": "No pending requests",
+  "pending-allocations-empty-text": "Any requests sent by customers or suppliers will show up here for approval",
+
+  "pending-allocations-toast-reject-title-success": "Emissions rejected",
+  "pending-allocations-toast-reject-subtitle-success": "We'll inform your supplier of your decision",
+
+  "pending-request-toast-dismiss-subtitle-error": "We couldn't dismiss the request. Try again later.",
+  "pending-request-toast-dismiss-title-success": "Request successfully dismissed",
+
+  "accept-allocation-form-title": "Accept allocation",
+  "accept-allocation-form-edit-title": "Edit allocation",
+  "accept-allocation-details-supplier": "Supplier",
+  "accept-allocation-details-year": "Year",
+  "accept-allocation-details-emissions": "Emissions",
+  "accept-allocation-details-allocation-method": "Allocation method",
+  "accept-allocation-details-verified": "Externally verified",
+
+  "accept-allocation-form-category-label": "Emissions category",
+  "accept-allocation-form-include-label": "How do you want to allocate the emissions?",
+  "accept-allocation-form-category-tooltip-content": "Definitions for Scope 3 upstream emission categories can be found in the <0><1>GHG Protocol Technical Guidance for Calculating Scope 3 Emissions</1></0>",
+  "accept-allocation-form-category-content-link": "https://ghgprotocol.org/sites/default/files/standards/Scope3_Calculation_Guidance_0.pdf",
+
+  "accept-allocation-add-on-top": "Add on top of my scope 3 total",
+  "accept-allocation-include-in-total": "Include in scope 3 total",
+  "accept-allocation-add-to-emissions-sublabel": "Your new scope 3 will be {{ emissions }} tCO2e",
+  "accept-allocation-include-in-total-disabled": "Include in scope 3 total (Option unavailable)",
+  "accept-allocation-add-to-emissions-sublabel-disabled": "Your {{ year }} scope 3 is smaller than the submited emission. You can change your scope 3 in the overview dashboard.",
+
+  "accept-allocation-form-cancel": "Cancel",
+  "accept-allocation-form-submit": "Accept",
+  "accept-allocation-form-edit-submit": "Update",
+  "accept-allocation-form-toast-accept-title-success": "Scope 3 emissions sucessfully allocated",
+  "accept-allocation-form-toast-accept-subtitle-success": "Check your scope 3 detailed view in the emissions dashboard",
+  "accept-allocation-form-toast-edit-title-success": "Scope 3 emissions sucessfully updated",
+  "accept-allocation-form-toast-edit-subtitle-success": "Check your scope 3 detailed view in the emissions dashboard",
+
+  "delete-form-title": "Delete emission allocation",
+  "delete-form-text[0]": "If your customer has accepted the allocation, this action can impact their scope 3 data. Are you sure you want to delete it?",
+  "delete-form-text[1]": "This cannot be undone.",
+  "delete-form-cancel": "Cancel",
+  "delete-form-submit": "Yes, delete",
+  "delete-form-toast-title-success": "Emissions deleted",
+  "delete-form-toast-subtitle-success": "We'll inform your supplier of your decision",
+
+  "delete-request-form-toast-title-success": "Allocation request successfully deleted",
+  "delete-request-form-toast-subtitle-error": "We couldn't delete the allocation request. Try again later.",
+
+  "request-dismissed-toast-title-success": "Request successfully dismissed",
+
+  "network-summary-title": "Network summary",
+  "network-summary-connected-with": "Connected with",
+  "network-summary-pending-invitations": "Pending invitations",
+
+  "network-customers-count-plural": "{{ count }} customers",
+  "network-suppliers-count-plural": "{{ count }} suppliers",
+  "network-pending-invitations-count-plural": "{{ count }} invitations",
+
+  "network-customers-count-singular": "1 customer",
+  "network-suppliers-count-singular": "1 supplier",
+  "network-pending-invitations-count-singular": "1 pending invitation"
+}

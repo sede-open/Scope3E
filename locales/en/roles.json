@@ -1,0 +1,11 @@
+{
+  "form-role-type-label-ADMIN": "SETH Administrator",
+  "form-role-type-label-ADMIN-extra-context": "(only for support team)",
+  "form-role-type-meta-ADMIN": "Can manage their company data, supply chain network and team members, but will also have access to the SETH admin board",
+  "form-role-type-label-SUPPLIER_EDITOR": "Company Administrator",
+  "form-role-type-meta-SUPPLIER_EDITOR": "Can manage their company data, supply chain network and team members",
+  "form-role-type-label-ACCOUNT_MANAGER": "Account Manager",
+  "form-role-type-meta-ACCOUNT_MANAGER": "Can manage the supply chain network connections and invite other team members as account manager or viewers",
+  "form-role-type-label-SUPPLIER_VIEWER": "Viewer",
+  "form-role-type-meta-SUPPLIER_VIEWER": "Can view all the data and connections of their company but won't be able to manage them"
+}

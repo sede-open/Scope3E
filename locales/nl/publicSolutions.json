@@ -1,0 +1,183 @@
+{
+    "page-title": "Verhalen",
+    "read-more": "Lees het hele artikel",
+    "open-in-new-tab": "Open in nieuw tabblad",
+
+    "solution-cards": [
+        {
+          "id": 0,
+          "imgAlt": "Afbeelding opladen van elektrische voertuigen",
+          "title": "Jaguar Land Rover installeert met NewMotion de grootste slimme oplaadfaciliteit van het VK.",
+          "date": "20 maart 2019",
+          "url": "https://newmotion.com/en-gb/knowledge-centre/pressroom/jaguar-land-rover-installs-largest-smart-charging-facility/"
+        },
+        {
+          "id": 1,
+          "imgAlt": "Afbeelding containerschip",
+          "title": "Maersk werkt samen met internationale bedrijven om biobrandstof te testen.",
+          "date": "22 maart 2019",
+          "url": "https://www.maersk.com/news/articles/2019/03/22/maersk-partners-with-global-companies-to-trial-biofuel/"
+        },
+        {
+          "id": 2,
+          "imgAlt": "Twee medewerkers kijken naar een tabletafbeelding",
+          "title": "Sanofi Turkije leverde met behulp van telematica een vermindering van 27% van het aantal ongevallen en een brandstofbesparing van 4,4% op.",
+          "date": "22 november 2019",
+          "url": "https://www.example.com/business-customers/commercial-fuels/industry-insights/how-to-stay-competitive-in-the-digital-fleet-age.html/"
+        },
+        {
+          "id": 3,
+          "imgAlt": "Afbeelding windturbines",
+          "title": "MP2 Energy integreert op unieke wijze de levering van duurzame energie voor Danone Noord-Amerika.",
+          "date": "23 december 2019",
+          "url": "https://www.mp2energy.com/news/delivery-of-renewable-power/"
+        },
+        {
+          "id": 4,
+          "imgAlt": "Afbeelding slimme opladers",
+          "title": "Greenlots en Volvo Trucks werken samen aan de eerste installatie van opladers voor Volvo LIGHTS Electrified Trucking Project",
+          "date": "11 februari 2020",
+          "url": "https://greenlots.com/volvo-lights-project/"
+        },
+        {
+          "id": 5,
+          "imgAlt": "Afbeelding zonnepaneel",
+          "title": "Wells Fargo breidt aankopen hernieuwbare energie uit",
+          "date": "24 juni 2020",
+          "url": "https://newsroom.wf.com/English/news-releases/news-release-details/2020/Wells-Fargo-Expands-Renewable-Energy-Purchases/default.aspx"
+        },
+        {
+          "id": 6,
+          "imgAlt": "Bovenaanzicht planafbeelding",
+          "title": "Amazon Air heeft tot zes miljoen gallon duurzame vliegtuigbrandstof aangekocht - deels gemaakt van biomassa en afval. De brandstof wordt geleverd door example Aviation en geproduceerd door World Energy.",
+          "date": "8 juli 2020",
+          "url": "https://www.aboutamazon.com/news/operations/promoting-a-more-sustainable-future-through-amazon-air"
+        },
+        {
+          "id": 7,
+          "imgAlt": "Afbeelding schip Kongsberg Maritime",
+          "title": "Kongsberg Maritime realiseerde een reductie van 7% in emissies op hun eigen schepen met behulp van JAWS-software",
+          "date": "2 september 2020",
+          "url": "https://www.kongsberg.com/maritime/about-us/news-and-media/news-archive/2020/kongsberg-and-example-sign-jaws-agreement/"
+        },
+        {
+          "id": 8,
+          "imgAlt": "Afbeelding dompelkoeling",
+          "title": "Dompelkoelingspecialist Asperitas ondersteunt de opschaling van het datacenter van de site in Chartres voor de Franse financiële instelling Crédit Agricole",
+          "date": "4 november 2020",
+          "url": "https://www.asperitas.com/asperitas-wins-deal-for-immersion-cooling-for-french-bank-credit-agricole-tier-4-datacentres/"
+        },
+        {
+          "id": 9,
+          "imgAlt": "Afbeelding stilstaand vliegtuig",
+          "title": "Samen met Rolls Royce testen we 100% duurzame vliegtuigbrandstof.",
+          "date": "12 november 2020",
+          "url": "https://www.rolls-royce.com/media/press-releases/2020/12-11-2020-rr-to-test-100-percent-sustainable-aviation-fuel-in-next-generation-engine-demonstrator.aspx"
+        },
+        {
+          "id": 10,
+          "imgAlt]": "Afbeelding DHL-vliegtuig",
+          "title": "DHL Express gebruikt duurzame vliegtuigbrandstof op luchthaven Schiphol in Amsterdam.",
+          "date": "17 december 2020",       
+          "url": "https://www.example.com/business-customers/aviation/news-and-media-releases/news-and-media-2020/example-to-supply-dhl-express-with-sustainable-aviation-fuel-at-schiphol-airport.html/"
+        },
+        {
+          "id": 11,
+          "imgAlt": "Afbeelding zonnepark",
+          "title": "Silicon Ranch helpt Facebook-datacenter in Georgië van stroom te voorzien.",
+          "date": "19 januari 2021",
+          "url": "https://www.siliconranch.com/walton-emc-and-silicon-ranch-announce-commissioning-of-two-solar-farms-for-facebooks-data-center-in-georgia/"
+        },
+        {
+          "id": 12,
+          "imgAlt": "Afbeelding brandstofcel",
+          "title": "Corvus Energy zal beginnen met de ontwikkeling van maritieme brandstofcelsystemen met brandstofceltechnologie op basis van waterstof geleverd door Toyota",
+          "date": "2 februari 2021",
+          "url": "https://corvusenergy.com/corvus-energy-to-start-development-of-maritime-fuel-cell-systems-with-hydrogen-fuel-cell-technology-supplied-by-toyota/"
+        },
+        {
+          "id": 13,
+          "imgAlt": "Afbeelding opladen van elektrische voertuigen",
+          "title": "NewMotion werkt samen met Alphabet aan oplossingen voor het laden van elektrische voertuigen voor klanten in Duitsland",
+          "date": "18 februari 2021",
+          "url": "https://newmotion.com/en/knowledge-center/pressroom/alphabet-germany-partnership"
+        },
+        {
+          "id": 14,
+          "imgAlt": "Afbeelding vrachtwagen",
+          "title": "InstaFreight gaat example-smeermiddelen vervoeren met een lagere CO2e-uitstoot.",
+          "date": "22 februari 2021",
+          "url": "https://www.instafreight.de/en/press-example-2021-02?utm_source=linkedin&utm_medium=social&utm_campaign=example-multimodal&utm_content=textlink/"
+        },
+        {
+          "id": 15,
+          "imgAlt": "Afbeelding van Visa mondiale inzet",
+          "title": "Visa vergroot wereldwijde inzet voor duurzaamheid door sluiting van nieuwe regionale overeenkomst voor hernieuwbare energie",
+          "date": "3 maart 2021",
+          "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.17786.html?utm_source=VisaLinkedIn&utm_medium=OrganicSocial&utm_campaign=Sustainability&linkId=112559487"
+        },
+        {
+          "id": 16,
+          "imgAlt": "Afbeelding example benzinestation",
+          "title": "Bosch, example en Volkswagen ontwikkelen hernieuwbare benzine met 20 procent lagere CO₂-uitstoot",
+          "date": "3 maart 2021",
+          "url": "https://www.bosch-presse.de/pressportal/de/en/bosch-example-and-volkswagen-develop-renewable-gasoline-with-20-percent-lower-co%E2%82%82-emissions-228294.html"
+        },
+        {
+          "id": 17,
+          "imgAlt": "Afbeelding auto op benzinestation",
+          "title": "example test batterijopslagsysteem op tankstation terwijl het de EV-ambities opvoert",
+          "date": "8 maart 2021",
+          "url": "https://www.example.com/energy-and-innovation/new-energies/new-energies-media-releases/example-trials-forecourt-battery-power-storage-system-as-it-ramps-up-ev-ambitions.html"
+        },
+        {
+          "id": 18,
+          "imgAlt": "Afbeelding NewMotion partnerschap voor opladen",
+          "title": "NewMotion breidt haar partnerschap voor opladen met BMW Group verder uit",
+          "date": "9 maart 2021",
+          "url": "https://newmotion.com/en/knowledge-center/pressroom/newmotion-further-expands-partnership-with-bmw-group"
+        },
+        {
+          "id": 19,
+          "imgAlt": "Afbeelding auto",
+          "title": "Porsche Asia Pacific en example kondigen implementatie aan van eerste internationale EV-laadnetwerk in Zuidoost-Azië",
+          "date": "31 maart 2021",
+          "url": "https://www.example.com.sg/media/2021-media-releases/porsche-asia-pacific-and-example-announce-implementation-of-first-cross-country-high-performance-ev-charging-network-in-southeast-asia.html"
+        },
+        {
+          "id": 20,
+          "imgAlt": "Afbeelding Corvus energieschip",
+          "title": "Corvus Energy en Sumitomo Corporation kondigen joint venture in Japan aan voor emissievrije oplossingen voor schepen",
+          "date": "21 april 2021",
+          "url": "https://corvusenergy.com/corvus-energy-and-sumitomo-corporation-announces-joint-venture-in-japan-for-zero-emission-solutions-for-ships/"
+        },
+        {
+          "id": 21,
+          "imgAlt": "Digitale interfacetechnologie",
+          "title": "Asperitas blijft de groeiende vraag naar duurzame computerinfrastructuur ondersteunen met verlenging van het OCP Platinum-lidmaatschap en prestigieuze OCP Accepted™-erkenning",
+          "date": "29 april 2021",
+          "url": "https://www.asperitas.com/asperitas-continues-to-support-growing-demand-for-sustainable-compute-infrastructure-with-ocp-platinum-membership-renewal-and-prestigious-ocp-accepted-recognition/"
+        },
+        {
+          "id": 22,
+          "imgAlt": "example waterstoftankstation",
+          "title": "Daimler Truck AG en example streven naar versnelde uitrol van vrachtwagens op waterstof in Europa: gelijktijdig bouwen van tankinfrastructuur voor vrachtwagens en uitrol van brandstofcelvoertuigen",
+          "date": "20 mei 2021",
+          "url": "https://media.daimler.com/marsMediaSite/en/instance/ko/Daimler-Truck-AG-and-example-target-accelerated-rollout-of-hydrogen-based-trucking-in-Europe-simultaneously-building-truck-refuelling-infrastructure-and-rollout-of-fuel-cell-vehicles.xhtml?oid=50011745"
+        },
+        {
+          "id": 23,
+          "imgAlt": "Opstijgend vliegtuig",
+          "title": "American Express Global Business Travel en example vormen alliantie om het aanbod van duurzame vliegtuigbrandstof te vergroten",
+          "date": "25 mei 2021",
+          "url": "https://www.amexglobalbusinesstravel.com/press-room/american-express-global-business-travel-example-form-alliance-help-increase-supply-sustainable-aviation-fuel/"
+        },
+        {
+          "id": 24,
+          "imgAlt": "Sleepboot met containerschip",
+          "title": "Deze klant kon tonnen CO2 en geld per schip besparen met VitalyX",
+          "date": "25 aug 2021",
+          "url": "https://www.bakerhughesds.com/measurement-sensing/vitalyx-oil-monitoring-platform"
+        }
+    ]
+}

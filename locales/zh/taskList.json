@@ -1,0 +1,27 @@
+{
+    "heading": "我们从基本内容开始吧",
+    "intro": "完成下面的任务，以充分利用平台",
+    "illustration": "任务列表说明",
+    "item-check-icon-incomplete": "未完成任务图标",
+    "item-check-icon-completed": "已完成任务图标",
+    "item-check-icon-disabled": "禁用任务图标",
+    "item-check-icon-loading": "加载任务图标",
+    "areas-of-interest-heading": "选择您感兴趣的领域",
+    "baseline-heading": "添加您的排放基准年份",
+    "baseline-description": "解锁数据显示板和新功能",
+    "ambition-heading": "分享公司减排目标",
+    "ambition-description": "模拟贵公司适用的经济高效的低碳替代方案的效果",
+    "last-year-emissions-heading": "去年的减排情况",
+    "last-year-emissions-description": "利用两年的数据，您可以将您的减排率与业界同行进行匿名比较",
+    "customer-relationships-heading": "联系客户",
+    "customer-relationships-description": "在单一平台上集中您的各个客户提出的排放数据分享请求，从而节省时间",
+    "customer-allocations-heading": "将排放分配给客户",
+    "customer-allocations-description": "通过以安全且保密的方式存储分配给您的客户的数据，实现标准化的排放量分配",
+    "supplier-relationships-heading": "联系供应商",
+    "supplier-relationships-description": "免费邀请您的供应商，深入了解供应链的排放情况",
+    "task-list-modal-heading-unlocked-dashboard": "您已解锁数据显示板视图",
+    "task-list-modal-heading-welcome-back": "欢迎回来",
+    "task-list-modal-description": "继续探索平台功能以解锁更多内容，并获得为贵公司量身定制的见解。",
+    "task-list-modal-accept": "示范下一步做什么"
+}
+  

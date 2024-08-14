@@ -1,0 +1,16 @@
+{
+  "save-changes": "Save changes",
+  "cancel": "Cancel",
+
+  "edit-interests-form-title": "Edit interests",
+  "edit-interests-section-solution-interests": "Your areas of interest",
+  "edit-interests-form-toast-save-title-success": "Interests successfully updated",
+  "edit-interests-form-toast-save-subtitle-success": "You'll be able to view your updated changes in a few seconds.",
+
+  "emission-path-select-title": "Add historical emissions data",
+  "emission-path-select-subtitle": "You can edit your data later and as often as you want",
+  "emission-path-select-inexperienced-user-title": "I need help estimating my emissions",
+  "emission-path-select-inexperienced-user-subtitle": "We’ll help you understand your emission sources and show you how to estimate them",
+  "emission-path-select-advanced-user-title": "I understand my emission types and how to estimate them",
+  "emission-path-select-advanced-user-subtitle": "We’ll ask you to share your scope 1 and scope 2 emissions"
+}

@@ -1,0 +1,26 @@
+{
+    "new-title": "分享或设想新的减排目标",
+    "new-subtitle": "您可以根据需要随时修改贵公司的减排目标",
+    "scope-one-and-two-reduction-label": "范围1和范围2期望减排",
+    "scope-three-reduction-label": "范围3期望减排",
+    "carbon-offset-radio-label": "您的减排目标是否包括碳抵消？",
+    "carbon-offsets-data-inclusion": "是",
+    "carbon-offsets-data-exclusion": "否",
+    "strategy-label": "策略实施",
+    "strategy-type-passive": "渐进",
+    "strategy-type-aggressive": "激进",
+    "strategy-type-moderate": "线性",
+    "legend-label-baseline-year": "您的基准年份",
+    "save": "保存减排目标",
+    "legend-label-target-data": "您的综合减排目标",
+    "legend-label-iea": "≤2°C情景",
+  
+    "baseline-scope-one-and-two": "范围1和范围2基准",
+    "baseline-scope-three": "范围3基准",
+    "scope-one-and-two-year-label": "范围1和范围2年份",
+    "scope-three-year-label": "范围3年份",
+  
+    "alert-title": "范围3减排目标",
+    "alert-content": "更新您的基准年份或将您的范围3数据添加到当前基准年份，以便能够设定减排目标"
+}
+  
