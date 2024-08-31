@@ -66,6 +66,9 @@
     "styled-tools": "^1.7.2",
     "uuid": "^10.0.0"
   },
+  "resolutions": {
+    "parse-url": "^8.1.0"
+  },
   "devDependencies": {
     "@graphql-codegen/cli": "5.0.2",
     "@graphql-codegen/fragment-matcher": "5.0.2",
