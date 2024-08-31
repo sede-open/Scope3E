@@ -60,7 +60,7 @@
     "react-toastify": "^10.0.5",
     "react-tooltip": "^5.28.0",
     "recharts": "^2.12.7",
-    "styled-components": "^6.1.12",
+    "styled-components": "^6.1.13",
     "styled-components-carousel": "^0.2.0",
     "styled-dropdown-component": "^4.0.0",
     "styled-tools": "^1.7.2",
