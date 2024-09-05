@@ -16,7 +16,7 @@
     "pretty": "prettier --config .prettierrc src --write"
   },
   "dependencies": {
-    "@apollo/client": "^3.11.4",
+    "@apollo/client": "^3.11.7",
     "@next/env": "^14.2.5",
     "@segment/consent-manager": "^5.8.1",
     "@sentry/browser": "^8.25.0",
