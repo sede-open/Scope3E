@@ -20,7 +20,7 @@
     "@next/env": "^14.2.5",
     "@segment/consent-manager": "^5.8.1",
     "@sentry/browser": "^8.25.0",
-    "@sentry/node": "^8.27.0",
+    "@sentry/node": "^8.29.0",
     "apollo-boost": "^0.4.9",
     "base64url": "^3.0.1",
     "cookie-parser": "^1.4.6",
